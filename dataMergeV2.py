@@ -33,6 +33,8 @@ class Team:
         self.division = '-'
         self.totalTime = timedelta(0)
         self.totalLegs = 0
+        self.totalTeams = 0
+        self.totalDivTeams = 0
 
         self.legTimes = {
             'cx': 0,
@@ -90,8 +92,8 @@ class Team:
             'kayak': 0
         }
 
-        self.overallRank = self.cumulativeOverallRank['kayak']
-        self.divisionRank = self.cumulativeDivisionRank['kayak']
+        self.overallRank = 0
+        self.divisionRank = 0
 
 
 def formatTime(item):
@@ -129,45 +131,23 @@ def initDivisions():
 initDivisions()
     
 def initLegTimes():
+    def readJSON(targ, leg, team):
+        for idx, item in targ.iterrows():
+            if team.teamNumber == item['teamNum']:
+                time = formatTime(item['time'])
+                team.legTimes[leg] = time
+
     for team in Teams:
-        totTime = []
         totalTime = timedelta(0)
-        for idx, item in cxJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['cx'] = time
-                team.cumulativeTimes['cx'] = time
-                totTime.append(time)
-        for idx, item in dhJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['dh'] = time
-                totTime.append(time)
-        for idx, item in runJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['run'] = time
-                totTime.append(time)
-        for idx, item in bikeJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['bike'] = time
-                totTime.append(time)
-        for idx, item in canoeJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['canoe'] = time
-                totTime.append(time)
-        for idx, item in cycleXJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['cyclo'] = time
-                totTime.append(time)
-        for idx, item in kayakJSON.iterrows():
-            if team.teamNumber == item['teamNum']:
-                time = formatTime(item['time'])
-                team.legTimes['kayak'] = time
-                totTime.append(time)
+
+        readJSON(cxJSON, 'cx', team)
+        readJSON(dhJSON, 'dh', team)
+        readJSON(runJSON, 'run', team)
+        readJSON(bikeJSON, 'bike', team)
+        readJSON(canoeJSON, 'canoe', team)
+        readJSON(cycleXJSON, 'cyclo', team)
+        readJSON(kayakJSON, 'kayak', team)
+
         for x,y in team.legTimes.items():
             if type(y) == timedelta:
                 totalTime += y
@@ -176,6 +156,7 @@ def initLegTimes():
         team.totalTime = totalTime
 
 initLegTimes()
+
 
 def cumulativeTimes():
     for team in Teams:
@@ -197,30 +178,135 @@ def cumulativeTimes():
             team.cumulativeTimes[x] = runningTimes[idx]
 cumulativeTimes()
 
+
 def finishingTeams():
     finishingTeams = []
     for team in Teams:
         if team.totalLegs == 7:
             finishingTeams.append(team)
+        else:
+            pass
     return finishingTeams
 finishingTeams()
 finishingTeams = finishingTeams()
 
+divisions = []
+for team in finishingTeams:
+    if team.division not in divisions:
+        divisions.append(team.division)
+
+
 def legRanking():
-    cxOR = sorted(finishingTeams, key=lambda x:x.legTimes['cx'], reverse=False)
+
+    def getRank(leg):
+        teams = sorted(finishingTeams, key=lambda x:x.legTimes[leg], reverse=False)
+        for team in finishingTeams:
+            for idx, item in enumerate(teams):
+                if team.teamNumber == item.teamNumber:
+                    team.legOverallRank[leg] = idx + 1
+            team.totalTeams = len(finishingTeams)
+
+    getRank('cx')
+    getRank('dh')
+    getRank('run')
+    getRank('bike')
+    getRank('canoe')
+    getRank('cyclo')
+    getRank('kayak')
+
+    def getRunningRank(leg):
+        teams = sorted(finishingTeams, key=lambda x:x.cumulativeTimes[leg], reverse=False)
+        for team in finishingTeams:
+            for idx, item in enumerate(teams):
+                if team.teamNumber == item.teamNumber:
+                    team.cumulativeOverallRank[leg] = idx + 1
+            team.totalTeams = len(finishingTeams)
+
+    getRunningRank('cx')
+    getRunningRank('dh')
+    getRunningRank('run')
+    getRunningRank('bike')
+    getRunningRank('canoe')
+    getRunningRank('cyclo')
+    getRunningRank('kayak')
+
+    def getDivRank(leg):
+        for division in divisions:
+            divTeams = []
+            for team in finishingTeams:
+                if team.division == division:
+                    divTeams.append(team)
+            divTeams.sort(key=lambda x:x.legTimes[leg], reverse=False)
+            for team in finishingTeams:
+                if team.division == division:
+                    team.totalDivTeams = len(divTeams)
+                for idx, item in enumerate(divTeams):
+                    if team.teamNumber == item.teamNumber:
+                        team.legDivisionRank[leg] = idx + 1
+
+    getDivRank('cx')
+    getDivRank('dh')
+    getDivRank('run')
+    getDivRank('bike')
+    getDivRank('canoe')
+    getDivRank('cyclo')
+    getDivRank('kayak')
+
+    def getDivRunningRank(leg):
+        for division in divisions:
+            divTeams = []
+            for team in finishingTeams:
+                if team.division == division:
+                    divTeams.append(team)
+            divTeams.sort(key=lambda x:x.cumulativeTimes[leg], reverse=False)
+            for team in finishingTeams:
+                if team.division == division:
+                    team.totalDivTeams = len(divTeams)
+                for idx, item in enumerate(divTeams):
+                    if team.teamNumber == item.teamNumber:
+                        team.cumulativeDivisionRank[leg] = idx + 1
+
+    getDivRunningRank('cx')
+    getDivRunningRank('dh')
+    getDivRunningRank('run')
+    getDivRunningRank('bike')
+    getDivRunningRank('canoe')
+    getDivRunningRank('cyclo')
+    getDivRunningRank('kayak')
 
 legRanking()
 
-
-finishingTeams.sort(key=lambda x:x.teamNumber, reverse=False)
 for team in finishingTeams:
-    print(team.teamName)
-    print(team.teamNumber)
-    print(team.division)
-    print(team.totalTime)
-    print(team.totalLegs)
-    print(team.cumulativeTimes['canoe'])
-    print('')
-print(len(Teams))
+    team.overallRank = team.cumulativeOverallRank['kayak']
+    team.divisionRank = team.cumulativeDivisionRank['kayak']
+
+
+finishingTeams.sort(key=lambda x:x.overallRank, reverse=False)
 '''
+for team in finishingTeams:
+    if team.teamNumber == 340:
+        print(team.teamName)
+        print(team.teamNumber)
+        print(team.division)
+        print(team.totalTime)
+        print(team.legOverallRank)
+        print(team.cumulativeOverallRank)
+        print(team.totalTeams)
+        print(team.legDivisionRank)
+        print(team.cumulativeDivisionRank)
+        print(team.totalDivTeams)
+        print('')
+print(len(finishingTeams))
 '''
+
+def createJSON(data, path):
+    objDicts = []
+    for item in data:
+        itemDict = item.__dict__
+        objDicts.append(itemDict)
+
+    df = pd.DataFrame(objDicts)
+    jsonPath = path
+    df.to_json(jsonPath, orient='records', indent=4)
+
+createJSON(finishingTeams, 'data/TeamData.json')

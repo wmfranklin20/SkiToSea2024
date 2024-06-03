@@ -1,0 +1,3971 @@
+[
+    {
+        "leg":"Kayak",
+        "name":"Jonas Ecker ",
+        "position":1,
+        "teamNum":99,
+        "teamName":"BEAVERS TREE SERVICE",
+        "division":"",
+        "time":"37:17.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Aaron Small",
+        "position":2,
+        "teamNum":20,
+        "teamName":"Evil Bike Company",
+        "division":"",
+        "time":"38:15.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ian  Sawyer ",
+        "position":3,
+        "teamNum":55,
+        "teamName":"Delicate Flowers ",
+        "division":"",
+        "time":"40:17.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Greg Redman",
+        "position":4,
+        "teamNum":2,
+        "teamName":"Boomer's Drive-In",
+        "division":"",
+        "time":"40:26.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Wilson Reavley ",
+        "position":5,
+        "teamNum":423,
+        "teamName":"Surfrider Mavericks",
+        "division":"",
+        "time":"41:42.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ana Swetish",
+        "position":6,
+        "teamNum":78,
+        "teamName":"Car free Green Mountain PT ",
+        "division":"",
+        "time":"41:57.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jamie Klein",
+        "position":7,
+        "teamNum":94,
+        "teamName":"Inn at Lynden",
+        "division":"",
+        "time":"42:11.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jeff Hilburn",
+        "position":8,
+        "teamNum":1,
+        "teamName":"BIRCH EQUIPMENT",
+        "division":"",
+        "time":"42:53.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Maggie Hogan",
+        "position":9,
+        "teamNum":73,
+        "teamName":"American Canoe Association Women",
+        "division":"",
+        "time":"43:17.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nick Kelly",
+        "position":10,
+        "teamNum":37,
+        "teamName":"Vendovi",
+        "division":"",
+        "time":"43:25.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Jacobson",
+        "position":11,
+        "teamNum":23,
+        "teamName":"American Canoe Association Men",
+        "division":"",
+        "time":"43:40.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Steve Juranovics",
+        "position":12,
+        "teamNum":43,
+        "teamName":"Galloping Gonads",
+        "division":"",
+        "time":"43:48.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Phil Midler",
+        "position":13,
+        "teamNum":496,
+        "teamName":"Mt. Baker Ravens",
+        "division":"",
+        "time":"44:14.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Graeme Ramsay",
+        "position":14,
+        "teamNum":494,
+        "teamName":"Boomer's Drive-In Legends",
+        "division":"",
+        "time":"44:22.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michele Eray",
+        "position":15,
+        "teamNum":54,
+        "teamName":"Strider Construction",
+        "division":"",
+        "time":"45:17.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kate  Baring",
+        "position":16,
+        "teamNum":65,
+        "teamName":"The Real Housewives of Whatcom County",
+        "division":"",
+        "time":"45:36.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Paul Clement",
+        "position":17,
+        "teamNum":91,
+        "teamName":"Bellingham Senior Activity Center",
+        "division":"",
+        "time":"46:09.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tom Swetish",
+        "position":18,
+        "teamNum":483,
+        "teamName":"Greatest American Heroes",
+        "division":"",
+        "time":"46:13.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chance Campbell",
+        "position":19,
+        "teamNum":148,
+        "teamName":"JZ Outdoors",
+        "division":"",
+        "time":"46:36.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Eric Grossman",
+        "position":20,
+        "teamNum":52,
+        "teamName":"Zeek's Wild Combo",
+        "division":"",
+        "time":"47:02.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Abby Scoggins ",
+        "position":21,
+        "teamNum":84,
+        "teamName":"Insured to Win ",
+        "division":"",
+        "time":"47:04.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jon Sy",
+        "position":22,
+        "teamNum":493,
+        "teamName":"Deep Cove Gentlemen's Tiddlywinks Club",
+        "division":"",
+        "time":"47:18.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Beau Whitehead",
+        "position":23,
+        "teamNum":102,
+        "teamName":"Bellingham Firefighters Team 1",
+        "division":"",
+        "time":"47:32.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Denise Weeks",
+        "position":24,
+        "teamNum":81,
+        "teamName":"Aging Disgracefully",
+        "division":"",
+        "time":"47:40.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dave Hooper",
+        "position":25,
+        "teamNum":387,
+        "teamName":"Apex Fitness Nw ",
+        "division":"",
+        "time":"47:50.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Todd Parish",
+        "position":26,
+        "teamNum":36,
+        "teamName":"VANDAMMAGE",
+        "division":"",
+        "time":"48:11.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Elena Wolgamot",
+        "position":27,
+        "teamNum":58,
+        "teamName":"HI MOM",
+        "division":"",
+        "time":"48:22.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dan Mayhew",
+        "position":28,
+        "teamNum":498,
+        "teamName":"Barkley Village People",
+        "division":"",
+        "time":"48:36.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Scherrer",
+        "position":29,
+        "teamNum":86,
+        "teamName":"Hard Core Physio",
+        "division":"",
+        "time":"48:42.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ellie  Scoggins",
+        "position":30,
+        "teamNum":479,
+        "teamName":"The Kids Aren't Alright ",
+        "division":"",
+        "time":"48:49.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Adam Fulton",
+        "position":31,
+        "teamNum":219,
+        "teamName":"DRIVEN ATHLETICS - GNARLY",
+        "division":"",
+        "time":"49:01.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Norm DesRosiers",
+        "position":32,
+        "teamNum":433,
+        "teamName":"TC Legend Homes",
+        "division":"",
+        "time":"49:39.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nick Mattson",
+        "position":33,
+        "teamNum":98,
+        "teamName":"Team Jake",
+        "division":"",
+        "time":"50:04.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dean Bumstead",
+        "position":34,
+        "teamNum":500,
+        "teamName":"Peoples Bank",
+        "division":"",
+        "time":"50:06.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mark Whitlock",
+        "position":35,
+        "teamNum":435,
+        "teamName":"VECA Electric",
+        "division":"",
+        "time":"50:11.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matt Patterson",
+        "position":36,
+        "teamNum":22,
+        "teamName":"The Lover's Eight",
+        "division":"",
+        "time":"50:15.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dennis Mowry",
+        "position":37,
+        "teamNum":92,
+        "teamName":"North Coast Credit Union",
+        "division":"",
+        "time":"50:31.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jacob Selander",
+        "position":38,
+        "teamNum":486,
+        "teamName":"FasterBakers",
+        "division":"",
+        "time":"51:06.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mateya Hariton",
+        "position":39,
+        "teamNum":478,
+        "teamName":"Twinkle Bros",
+        "division":"",
+        "time":"51:08.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Wyatt Uhrig",
+        "position":40,
+        "teamNum":421,
+        "teamName":"Yeager\u2019s Sporting Goods",
+        "division":"",
+        "time":"51:39.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sean  Stimac",
+        "position":41,
+        "teamNum":429,
+        "teamName":"Exxel Pacific",
+        "division":"",
+        "time":"51:41.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michael  Nibler",
+        "position":42,
+        "teamNum":16,
+        "teamName":"Colony Wharf",
+        "division":"",
+        "time":"51:59.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Peter Prinos",
+        "position":43,
+        "teamNum":495,
+        "teamName":"GRUBS PAIN PARADE",
+        "division":"",
+        "time":"52:06.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mark Daniels",
+        "position":44,
+        "teamNum":47,
+        "teamName":"Peacehealth Cardiology",
+        "division":"",
+        "time":"52:11.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Megan Northey",
+        "position":45,
+        "teamNum":69,
+        "teamName":"SHEroes",
+        "division":"",
+        "time":"52:11.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Keenan Huschke",
+        "position":46,
+        "teamNum":28,
+        "teamName":"Kirkland Fire",
+        "division":"",
+        "time":"52:23.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim Niemier",
+        "position":47,
+        "teamNum":485,
+        "teamName":"Chuckanut Bay Distillery",
+        "division":"",
+        "time":"52:28.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Calvin Collander",
+        "position":48,
+        "teamNum":448,
+        "teamName":"Janicki Tool Tech Titans",
+        "division":"",
+        "time":"52:33.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim Andress",
+        "position":49,
+        "teamNum":283,
+        "teamName":"Ping Pong Club",
+        "division":"",
+        "time":"52:48.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim Sturtz",
+        "position":50,
+        "teamNum":13,
+        "teamName":"Whatcom Family Medicine - Open",
+        "division":"",
+        "time":"52:49.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John Rybczyk",
+        "position":51,
+        "teamNum":491,
+        "teamName":"Darwin's Bulldogs",
+        "division":"",
+        "time":"53:03.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John  Schwandt",
+        "position":52,
+        "teamNum":242,
+        "teamName":"Dad Bods",
+        "division":"",
+        "time":"53:03.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chloe  Olson",
+        "position":53,
+        "teamNum":420,
+        "teamName":"My Dog, Unleashed ",
+        "division":"",
+        "time":"53:19.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandt Stevenson",
+        "position":54,
+        "teamNum":5,
+        "teamName":"Nordic Death",
+        "division":"",
+        "time":"53:58.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Leslie Mittendorf",
+        "position":55,
+        "teamNum":88,
+        "teamName":"DRIVEN ATHLETICS - TUBULAR",
+        "division":"",
+        "time":"54:00.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jeff Knakal",
+        "position":56,
+        "teamNum":286,
+        "teamName":"South Whatcom Firefighters",
+        "division":"",
+        "time":"54:15.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Koal Reyes-Schulze",
+        "position":57,
+        "teamNum":40,
+        "teamName":"Half natty daddies ",
+        "division":"",
+        "time":"54:22.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nicholas Plaut",
+        "position":58,
+        "teamNum":7,
+        "teamName":"Pavlov's Dawgs",
+        "division":"",
+        "time":"54:23.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ben Esau",
+        "position":59,
+        "teamNum":265,
+        "teamName":"Nucor-Allspan",
+        "division":"",
+        "time":"54:45.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Phil Helms",
+        "position":60,
+        "teamNum":430,
+        "teamName":"Exxel Pacific Too",
+        "division":"",
+        "time":"54:55.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dorothy Burke",
+        "position":61,
+        "teamNum":68,
+        "teamName":"Babe Train",
+        "division":"",
+        "time":"54:57.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brent Hartwig",
+        "position":62,
+        "teamNum":427,
+        "teamName":"I Don't Car(e)",
+        "division":"",
+        "time":"54:59.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jonathan Schintler",
+        "position":63,
+        "teamNum":14,
+        "teamName":"Daddy's Girls",
+        "division":"",
+        "time":"55:00.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Paul Reavley",
+        "position":64,
+        "teamNum":44,
+        "teamName":"Bellingham Mountain Rescue",
+        "division":"",
+        "time":"55:24.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jordan Van Voast",
+        "position":65,
+        "teamNum":288,
+        "teamName":"Downhill Current Chasers",
+        "division":"",
+        "time":"55:27.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kathleen Faust",
+        "position":66,
+        "teamNum":76,
+        "teamName":"whatcom family medicine ladies",
+        "division":"",
+        "time":"55:34.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Gerardo Andaluz",
+        "position":67,
+        "teamNum":245,
+        "teamName":"Fresh for Everyone",
+        "division":"",
+        "time":"55:35.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Owen Swanson",
+        "position":68,
+        "teamNum":51,
+        "teamName":"Skida Cheeta Babes",
+        "division":"",
+        "time":"55:40.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Cory Brunhaver ",
+        "position":69,
+        "teamNum":15,
+        "teamName":"Dawson Construction",
+        "division":"",
+        "time":"56:21.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Rick Ratcliff",
+        "position":70,
+        "teamNum":4,
+        "teamName":"The Locust Rundgrave Band Ski to Sea RT",
+        "division":"",
+        "time":"56:30.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sam Box",
+        "position":71,
+        "teamNum":293,
+        "teamName":"SportBOI ",
+        "division":"",
+        "time":"56:44.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tom Halsted",
+        "position":72,
+        "teamNum":425,
+        "teamName":"Soy House Pho the Win",
+        "division":"",
+        "time":"57:02.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bryan Weimer",
+        "position":73,
+        "teamNum":274,
+        "teamName":"Jolly Jezzercisers",
+        "division":"",
+        "time":"57:07.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim Locknane",
+        "position":74,
+        "teamNum":469,
+        "teamName":"Locknane Athletic Medicine",
+        "division":"",
+        "time":"57:45.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Gavin McWilli",
+        "position":75,
+        "teamNum":440,
+        "teamName":"Samson Rope Technologies",
+        "division":"",
+        "time":"58:09.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sandy  Poliachik",
+        "position":76,
+        "teamNum":75,
+        "teamName":"Bell Belles",
+        "division":"",
+        "time":"58:45.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sam Humphreys",
+        "position":77,
+        "teamNum":17,
+        "teamName":"Well Hungover",
+        "division":"",
+        "time":"58:50.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Luke Husband ",
+        "position":78,
+        "teamNum":349,
+        "teamName":"The Loosest Units",
+        "division":"",
+        "time":"59:01.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mike Vercammen",
+        "position":79,
+        "teamNum":166,
+        "teamName":"Bellingham Athletic Club",
+        "division":"",
+        "time":"59:10.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matt Schneider",
+        "position":80,
+        "teamNum":218,
+        "teamName":"Rec Reqs Met",
+        "division":"",
+        "time":"59:11.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kim Reeves",
+        "position":81,
+        "teamNum":270,
+        "teamName":"Geneva Ghomes",
+        "division":"",
+        "time":"59:21.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandon Witman",
+        "position":82,
+        "teamNum":439,
+        "teamName":"Alpha Dogs",
+        "division":"",
+        "time":"59:22.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathan Lewis",
+        "position":83,
+        "teamNum":82,
+        "teamName":"542 Zoo",
+        "division":"",
+        "time":"59:25.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mia Clarke",
+        "position":84,
+        "teamNum":482,
+        "teamName":"Got fish?",
+        "division":"",
+        "time":"59:25.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Casey Schwenk",
+        "position":85,
+        "teamNum":243,
+        "teamName":"Ski to Steez",
+        "division":"",
+        "time":"59:29.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Austin Ruf",
+        "position":86,
+        "teamNum":484,
+        "teamName":"The Monkey Wrench Gang",
+        "division":"",
+        "time":"59:32.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Erik Anders",
+        "position":87,
+        "teamNum":282,
+        "teamName":"Half Bakered",
+        "division":"",
+        "time":"59:42.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandon Wright",
+        "position":88,
+        "teamNum":235,
+        "teamName":"Evergreen",
+        "division":"",
+        "time":"59:50.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Izaak  Castren",
+        "position":89,
+        "teamNum":121,
+        "teamName":"My Beasts ",
+        "division":"",
+        "time":"59:52.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kekoa Lyons",
+        "position":90,
+        "teamNum":131,
+        "teamName":"SFD Station 4",
+        "division":"",
+        "time":"59:54.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mike Berry",
+        "position":91,
+        "teamNum":201,
+        "teamName":"Tumwater Shadies",
+        "division":"",
+        "time":"1:00:07.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chad Solbakken",
+        "position":92,
+        "teamNum":438,
+        "teamName":"Marysville Firefighters",
+        "division":"",
+        "time":"1:00:07.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Robert Donovan",
+        "position":93,
+        "teamNum":501,
+        "teamName":"American Canoe Association Veterans",
+        "division":"",
+        "time":"1:00:13.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Julie van Doren",
+        "position":94,
+        "teamNum":406,
+        "teamName":"Beastie Belles",
+        "division":"",
+        "time":"1:00:14.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Leo Lopez",
+        "position":95,
+        "teamNum":46,
+        "teamName":"Team de Haan",
+        "division":"",
+        "time":"1:00:21.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Joseph Breuner",
+        "position":96,
+        "teamNum":292,
+        "teamName":"Gumby All-Stars",
+        "division":"",
+        "time":"1:00:29.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Micah Edwards",
+        "position":97,
+        "teamNum":170,
+        "teamName":"Station 2 Turbo Racing Team",
+        "division":"",
+        "time":"1:00:30.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nishan Bingham",
+        "position":98,
+        "teamNum":436,
+        "teamName":"Proliance Pacific Rim",
+        "division":"",
+        "time":"1:00:36.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lino Marioni",
+        "position":99,
+        "teamNum":193,
+        "teamName":"PCC Factory Racing",
+        "division":"",
+        "time":"1:00:40.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sean Hufgard",
+        "position":100,
+        "teamNum":273,
+        "teamName":"TulipTeers",
+        "division":"",
+        "time":"1:00:46.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Christian Schoepe",
+        "position":101,
+        "teamNum":443,
+        "teamName":"High Vibes",
+        "division":"",
+        "time":"1:00:52.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dustin Freund",
+        "position":102,
+        "teamNum":38,
+        "teamName":"Placeholder For Team Name",
+        "division":"",
+        "time":"1:00:53.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ben Sprenger",
+        "position":103,
+        "teamNum":224,
+        "teamName":"Team Dinoco",
+        "division":"",
+        "time":"1:00:54.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Luca Lezzi",
+        "position":104,
+        "teamNum":459,
+        "teamName":"Sasquatch Sprinters",
+        "division":"",
+        "time":"1:01:04.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mitch  Lee",
+        "position":105,
+        "teamNum":381,
+        "teamName":"Sponsored by Cheddar",
+        "division":"",
+        "time":"1:01:17.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John  Ball",
+        "position":106,
+        "teamNum":118,
+        "teamName":"The Weasels",
+        "division":"",
+        "time":"1:01:29.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Aaron  Lee ",
+        "position":107,
+        "teamNum":444,
+        "teamName":"The Logjammers ",
+        "division":"",
+        "time":"1:01:34.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sean  Reed",
+        "position":108,
+        "teamNum":8,
+        "teamName":"Quiet Professionals",
+        "division":"",
+        "time":"1:01:35.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michael Erickson",
+        "position":109,
+        "teamNum":432,
+        "teamName":"Everett Firefighter Association ",
+        "division":"",
+        "time":"1:01:39.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Eric Ledbetter",
+        "position":110,
+        "teamNum":125,
+        "teamName":"Bonus 5",
+        "division":"",
+        "time":"1:01:40.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Joey Swinford",
+        "position":111,
+        "teamNum":27,
+        "teamName":"5 O\u2019Clock Somewhere",
+        "division":"",
+        "time":"1:01:45.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ryan Gaffney",
+        "position":112,
+        "teamNum":262,
+        "teamName":"Where's Marv?",
+        "division":"",
+        "time":"1:01:46.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandon Williamson",
+        "position":113,
+        "teamNum":3,
+        "teamName":"Bad Rads 2",
+        "division":"",
+        "time":"1:01:49.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sam Jarvis",
+        "position":114,
+        "teamNum":260,
+        "teamName":"Off The Couch",
+        "division":"",
+        "time":"1:01:51.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathan Allen",
+        "position":115,
+        "teamNum":113,
+        "teamName":"Doc Racer",
+        "division":"",
+        "time":"1:01:56.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jaiden Batts",
+        "position":116,
+        "teamNum":171,
+        "teamName":"Salt Water Crocodiles ",
+        "division":"",
+        "time":"1:02:01.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Cormac Toler-Scott",
+        "position":117,
+        "teamNum":204,
+        "teamName":"Bonney Lake Worship Group",
+        "division":"",
+        "time":"1:02:01.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mack Lang",
+        "position":118,
+        "teamNum":169,
+        "teamName":"Lichtenberg Guys",
+        "division":"",
+        "time":"1:02:06.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Hayden Reynolds",
+        "position":119,
+        "teamNum":213,
+        "teamName":"Risky Biscuits",
+        "division":"",
+        "time":"1:02:09.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Pete Hess",
+        "position":120,
+        "teamNum":338,
+        "teamName":"MasterBakers (M&K Ready Mix)",
+        "division":"",
+        "time":"1:02:17.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bill Shaw",
+        "position":121,
+        "teamNum":489,
+        "teamName":"Fit(ish) over 40",
+        "division":"",
+        "time":"1:02:18.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jen Knudsen",
+        "position":122,
+        "teamNum":67,
+        "teamName":"Ski to Sea Sissies",
+        "division":"",
+        "time":"1:02:19.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"James Stegan",
+        "position":123,
+        "teamNum":490,
+        "teamName":"HPC Racing",
+        "division":"",
+        "time":"1:02:22.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brian Stonelake",
+        "position":124,
+        "teamNum":336,
+        "teamName":"Ibprofun",
+        "division":"",
+        "time":"1:02:39.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Derek Coburn",
+        "position":125,
+        "teamNum":248,
+        "teamName":"Changeit",
+        "division":"",
+        "time":"1:02:43.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Andrew Pryor",
+        "position":126,
+        "teamNum":223,
+        "teamName":"Sweet As Waffles",
+        "division":"",
+        "time":"1:02:46.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Paly",
+        "position":127,
+        "teamNum":269,
+        "teamName":"Nardi Party",
+        "division":"",
+        "time":"1:02:50.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Virginia Miller",
+        "position":128,
+        "teamNum":64,
+        "teamName":"Money on the dash ",
+        "division":"",
+        "time":"1:02:59.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Hunter Kurita",
+        "position":129,
+        "teamNum":191,
+        "teamName":"Baker? I hardly know her!",
+        "division":"",
+        "time":"1:03:03.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Arlene Wade",
+        "position":130,
+        "teamNum":497,
+        "teamName":"Two Cubed To Finish",
+        "division":"",
+        "time":"1:03:09.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Andrew Laszlo",
+        "position":131,
+        "teamNum":158,
+        "teamName":"Middlemarch to the Sea",
+        "division":"",
+        "time":"1:03:13.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kyle Bretherton",
+        "position":132,
+        "teamNum":112,
+        "teamName":"Slog Dogs",
+        "division":"",
+        "time":"1:03:13.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sean MacDonald",
+        "position":133,
+        "teamNum":32,
+        "teamName":"Ludicrous Speed",
+        "division":"",
+        "time":"1:03:18.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Pete  Clark",
+        "position":134,
+        "teamNum":198,
+        "teamName":"Fringe racing",
+        "division":"",
+        "time":"1:03:19.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Scott Hagemann",
+        "position":135,
+        "teamNum":211,
+        "teamName":"Meatheart",
+        "division":"",
+        "time":"1:03:21.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dave Oreiro",
+        "position":136,
+        "teamNum":159,
+        "teamName":"NWIC Hooligans",
+        "division":"",
+        "time":"1:03:22.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ella Hall",
+        "position":137,
+        "teamNum":77,
+        "teamName":"glitter girls",
+        "division":"",
+        "time":"1:03:33.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Evgeniy Panzhinskiy",
+        "position":138,
+        "teamNum":309,
+        "teamName":"Where do people source their boats?",
+        "division":"",
+        "time":"1:03:36.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Reid Wilson",
+        "position":139,
+        "teamNum":208,
+        "teamName":"Beach Cat Brewing",
+        "division":"",
+        "time":"1:03:44.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ron Norwood",
+        "position":140,
+        "teamNum":200,
+        "teamName":"Grey Jays",
+        "division":"",
+        "time":"1:03:59.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ben Spencer ",
+        "position":141,
+        "teamNum":103,
+        "teamName":"Cold cuts and mayo",
+        "division":"",
+        "time":"1:04:04.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Joren  Jackson",
+        "position":142,
+        "teamNum":463,
+        "teamName":"Jacksons speak louder than words",
+        "division":"",
+        "time":"1:04:06.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matthew Berkholtz",
+        "position":143,
+        "teamNum":296,
+        "teamName":"Napping Turtles",
+        "division":"",
+        "time":"1:04:14.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matt Booth",
+        "position":144,
+        "teamNum":85,
+        "teamName":"Crevasse Play",
+        "division":"",
+        "time":"1:04:16.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brady Scammell",
+        "position":145,
+        "teamNum":476,
+        "teamName":"Cheese raiders of doom ",
+        "division":"",
+        "time":"1:04:18.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lars Bolster",
+        "position":146,
+        "teamNum":239,
+        "teamName":"WA-AK Attack!",
+        "division":"",
+        "time":"1:04:21.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jeremy Dodd",
+        "position":147,
+        "teamNum":126,
+        "teamName":"The Ranch",
+        "division":"",
+        "time":"1:04:28.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Cameron Berg",
+        "position":148,
+        "teamNum":441,
+        "teamName":"Slurry in a Hurry",
+        "division":"",
+        "time":"1:04:48.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Hank White",
+        "position":149,
+        "teamNum":289,
+        "teamName":"Gaggle of Geezers",
+        "division":"",
+        "time":"1:04:56.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Connor Pinkerton",
+        "position":150,
+        "teamNum":133,
+        "teamName":"We'll Be Faster Next Year",
+        "division":"",
+        "time":"1:05:04.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emrys Charrier",
+        "position":151,
+        "teamNum":334,
+        "teamName":"Chris in Shorter Shorts",
+        "division":"",
+        "time":"1:05:13.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John Wayne Seitzler",
+        "position":152,
+        "teamNum":129,
+        "teamName":"Globe Corp, Inc.",
+        "division":"",
+        "time":"1:05:16.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dustin Jackson",
+        "position":153,
+        "teamNum":162,
+        "teamName":"Flying Hellfish",
+        "division":"",
+        "time":"1:05:18.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tapani Von Rauner",
+        "position":154,
+        "teamNum":128,
+        "teamName":"Hullut Oravat",
+        "division":"",
+        "time":"1:05:27.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anna Gomersall",
+        "position":155,
+        "teamNum":391,
+        "teamName":"Fifth Gear Fr\u00e4uleins",
+        "division":"",
+        "time":"1:05:31.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mada Sylvan",
+        "position":156,
+        "teamNum":360,
+        "teamName":"Erin Baker's",
+        "division":"",
+        "time":"1:05:34.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Daniel Henry",
+        "position":157,
+        "teamNum":11,
+        "teamName":"Blue Bird Blowers",
+        "division":"",
+        "time":"1:05:37.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Riley riley.allsop@gmail.com",
+        "position":158,
+        "teamNum":458,
+        "teamName":"The Aleshops",
+        "division":"",
+        "time":"1:05:48.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emmett Mihelich",
+        "position":159,
+        "teamNum":460,
+        "teamName":"Cousin Clan",
+        "division":"",
+        "time":"1:05:51.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Erik Foss",
+        "position":160,
+        "teamNum":179,
+        "teamName":"The Snoozing Sloths",
+        "division":"",
+        "time":"1:06:03.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Carson McMurray",
+        "position":161,
+        "teamNum":374,
+        "teamName":"VALLEY TO SOUND",
+        "division":"",
+        "time":"1:06:09.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Henry Tamondong",
+        "position":162,
+        "teamNum":53,
+        "teamName":"Gondwanaland United",
+        "division":"",
+        "time":"1:06:14.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathan Ohler",
+        "position":163,
+        "teamNum":295,
+        "teamName":"Indie Gals & New England's Finest",
+        "division":"",
+        "time":"1:06:16.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Marc Blake",
+        "position":164,
+        "teamNum":60,
+        "teamName":"DRIVEN ATHLETICS - WAY COOL",
+        "division":"",
+        "time":"1:06:23.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Austin Armstrong",
+        "position":165,
+        "teamNum":50,
+        "teamName":"Bombastic Side Eye",
+        "division":"",
+        "time":"1:06:27.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Shant Douzdjian",
+        "position":166,
+        "teamNum":135,
+        "teamName":"Bread",
+        "division":"",
+        "time":"1:06:28.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sandra Kilmartin",
+        "position":167,
+        "teamNum":403,
+        "teamName":"Beers and Bros",
+        "division":"",
+        "time":"1:06:50.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Phillip Reeder",
+        "position":168,
+        "teamNum":138,
+        "teamName":"Relay-ted",
+        "division":"",
+        "time":"1:06:53.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nolan Buhler",
+        "position":169,
+        "teamNum":33,
+        "teamName":"Roscals",
+        "division":"",
+        "time":"1:06:56.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Robert Gernhardt",
+        "position":170,
+        "teamNum":232,
+        "teamName":"Savage Pandas",
+        "division":"",
+        "time":"1:06:58.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Darin MacGillivray",
+        "position":171,
+        "teamNum":101,
+        "teamName":"City Haul",
+        "division":"",
+        "time":"1:06:59.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Blake Mennella",
+        "position":172,
+        "teamNum":45,
+        "teamName":"Stinging Nettles",
+        "division":"",
+        "time":"1:07:03.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mathilda Myerhoff",
+        "position":173,
+        "teamNum":303,
+        "teamName":"Sephora",
+        "division":"",
+        "time":"1:07:09.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jason Catrain",
+        "position":174,
+        "teamNum":431,
+        "teamName":"Lynden Door",
+        "division":"",
+        "time":"1:07:09.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Teddy Lautch",
+        "position":175,
+        "teamNum":304,
+        "teamName":"sloths in sleeping bags",
+        "division":"",
+        "time":"1:07:14.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jade Lippmann",
+        "position":176,
+        "teamNum":426,
+        "teamName":"The Rack Pack",
+        "division":"",
+        "time":"1:07:15.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emily Roland",
+        "position":177,
+        "teamNum":367,
+        "teamName":"Are we there yet?",
+        "division":"",
+        "time":"1:07:16.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sam Tuggle",
+        "position":178,
+        "teamNum":240,
+        "teamName":"Goose!",
+        "division":"",
+        "time":"1:07:18.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kelly Matheny",
+        "position":179,
+        "teamNum":210,
+        "teamName":"Huge Whales",
+        "division":"",
+        "time":"1:07:21.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Mazur",
+        "position":180,
+        "teamNum":155,
+        "teamName":"Heading Weast",
+        "division":"",
+        "time":"1:07:21.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anna Neufeld",
+        "position":181,
+        "teamNum":156,
+        "teamName":"Peak Freaks",
+        "division":"",
+        "time":"1:07:22.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Roan McBeath ",
+        "position":182,
+        "teamNum":481,
+        "teamName":"Fast Action Racing Team",
+        "division":"",
+        "time":"1:07:24.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Oneal Hilleary",
+        "position":183,
+        "teamNum":333,
+        "teamName":"Chris in Shorts",
+        "division":"",
+        "time":"1:07:26.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michael Stralser",
+        "position":184,
+        "teamNum":369,
+        "teamName":"The Gubernaculums",
+        "division":"",
+        "time":"1:07:31.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Daniel Davis",
+        "position":185,
+        "teamNum":222,
+        "teamName":"Snowtorious Bikecurious Canoedlers",
+        "division":"",
+        "time":"1:07:37.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Colin Danielson ",
+        "position":186,
+        "teamNum":480,
+        "teamName":"Oly",
+        "division":"",
+        "time":"1:07:37.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David  Miller",
+        "position":187,
+        "teamNum":143,
+        "teamName":"The Purple Cobras",
+        "division":"",
+        "time":"1:07:38.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Corey Salas",
+        "position":188,
+        "teamNum":259,
+        "teamName":"Baker Babes",
+        "division":"",
+        "time":"1:07:39.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kalani Martin",
+        "position":189,
+        "teamNum":168,
+        "teamName":"7 Ferns and a Wildflower",
+        "division":"",
+        "time":"1:07:44.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Hendrix",
+        "position":190,
+        "teamNum":284,
+        "teamName":"Bham and Cheese Sandwiches",
+        "division":"",
+        "time":"1:07:53.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"RYAN KNOX",
+        "position":191,
+        "teamNum":89,
+        "teamName":"DRIVEN ATHLETICS - AWESOME",
+        "division":"",
+        "time":"1:08:03.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Axel Thibodeau",
+        "position":192,
+        "teamNum":49,
+        "teamName":"Poly's Powder Pedal Paddlers",
+        "division":"",
+        "time":"1:08:05.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Peter Finfrock",
+        "position":193,
+        "teamNum":264,
+        "teamName":"Is This The Krusty Krab?",
+        "division":"",
+        "time":"1:08:20.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Todd Slind",
+        "position":194,
+        "teamNum":499,
+        "teamName":"Green Eggs and Bellingham",
+        "division":"",
+        "time":"1:08:22.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"molly spilker",
+        "position":195,
+        "teamNum":266,
+        "teamName":"saxe",
+        "division":"",
+        "time":"1:08:24.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Russell Gibbon",
+        "position":196,
+        "teamNum":428,
+        "teamName":"Triumphantly Triumphant",
+        "division":"",
+        "time":"1:08:25.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Thibault Meyrat",
+        "position":197,
+        "teamNum":108,
+        "teamName":"The Alpine Baguettes",
+        "division":"",
+        "time":"1:08:26.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Levi  Todd",
+        "position":198,
+        "teamNum":186,
+        "teamName":"Fresh off the Couch",
+        "division":"",
+        "time":"1:08:27.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathan  Sebranke",
+        "position":199,
+        "teamNum":255,
+        "teamName":"Mambo Pt. II ",
+        "division":"",
+        "time":"1:08:27.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Hunter Boylan",
+        "position":200,
+        "teamNum":190,
+        "teamName":"Purple Hat Cheetah Shrimp",
+        "division":"",
+        "time":"1:08:31.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Stacy Herron",
+        "position":201,
+        "teamNum":492,
+        "teamName":"Wander Brewing",
+        "division":"",
+        "time":"1:08:32.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Will Denton",
+        "position":202,
+        "teamNum":317,
+        "teamName":"Glizzy ",
+        "division":"",
+        "time":"1:08:50.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Shane Sobotks",
+        "position":203,
+        "teamNum":83,
+        "teamName":"Don't Call It a Comeback ",
+        "division":"",
+        "time":"1:08:54.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ellie Potts",
+        "position":204,
+        "teamNum":343,
+        "teamName":"Lilac City",
+        "division":"",
+        "time":"1:08:54.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Owen Parry",
+        "position":205,
+        "teamNum":322,
+        "teamName":"The Honey Bucket",
+        "division":"",
+        "time":"1:08:57.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bernt Johnson",
+        "position":206,
+        "teamNum":470,
+        "teamName":"PB&J",
+        "division":"",
+        "time":"1:09:00.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mark Bates",
+        "position":207,
+        "teamNum":445,
+        "teamName":"EFFA",
+        "division":"",
+        "time":"1:09:04.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Juraj Balog",
+        "position":208,
+        "teamNum":474,
+        "teamName":"Family Comes First",
+        "division":"",
+        "time":"1:09:04.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Evelyn Buetow",
+        "position":209,
+        "teamNum":216,
+        "teamName":"We Pee in the Sea",
+        "division":"",
+        "time":"1:09:05.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Isaac Wittenstein",
+        "position":210,
+        "teamNum":228,
+        "teamName":"The Ski and The Sea (2024)",
+        "division":"",
+        "time":"1:09:05.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Shawn Marion",
+        "position":211,
+        "teamNum":385,
+        "teamName":"Capstone",
+        "division":"",
+        "time":"1:09:15.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Elizabeth Johnson",
+        "position":212,
+        "teamNum":87,
+        "teamName":"Plague cowboys",
+        "division":"",
+        "time":"1:09:20.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John Ethier",
+        "position":213,
+        "teamNum":258,
+        "teamName":"Blame the Kids",
+        "division":"",
+        "time":"1:09:21.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jake  Herron",
+        "position":214,
+        "teamNum":238,
+        "teamName":"Arlis\u2019s Restaurant  ",
+        "division":"",
+        "time":"1:09:30.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chelsea Ollar",
+        "position":215,
+        "teamNum":180,
+        "teamName":"Washed-Up Athletes",
+        "division":"",
+        "time":"1:09:47.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Robert Aaron",
+        "position":216,
+        "teamNum":24,
+        "teamName":"Husky Has-Beens",
+        "division":"",
+        "time":"1:09:48.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandon Bramley",
+        "position":217,
+        "teamNum":320,
+        "teamName":"Donuts",
+        "division":"",
+        "time":"1:09:50.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"David Conway",
+        "position":218,
+        "teamNum":461,
+        "teamName":"Powered by Fudge",
+        "division":"",
+        "time":"1:09:59.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Hannah Tilden",
+        "position":219,
+        "teamNum":384,
+        "teamName":"Lions, Tigers, and Bears, Oh My",
+        "division":"",
+        "time":"1:10:06.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Neal Hicks",
+        "position":220,
+        "teamNum":215,
+        "teamName":"What's the character limit?Because I wa-",
+        "division":"",
+        "time":"1:10:14.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Doug Bunnell",
+        "position":221,
+        "teamNum":256,
+        "teamName":"Safety Third",
+        "division":"",
+        "time":"1:10:22.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ryan Knill",
+        "position":222,
+        "teamNum":141,
+        "teamName":"Full Spectrum",
+        "division":"",
+        "time":"1:10:25.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Carly Silvernale",
+        "position":223,
+        "teamNum":393,
+        "teamName":"The Girly Pops ",
+        "division":"",
+        "time":"1:10:26.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Thalia Cronin",
+        "position":224,
+        "teamNum":310,
+        "teamName":"Prima Mastodonnas",
+        "division":"",
+        "time":"1:10:27.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nick Basedow",
+        "position":225,
+        "teamNum":120,
+        "teamName":"No Pee Breaks ",
+        "division":"",
+        "time":"1:10:31.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tracy Dahlstedt",
+        "position":226,
+        "teamNum":221,
+        "teamName":"Data-Driven Downhillers",
+        "division":"",
+        "time":"1:10:38.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ky Calder",
+        "position":227,
+        "teamNum":12,
+        "teamName":"The Jury's Still Out",
+        "division":"",
+        "time":"1:10:47.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Erin Simms",
+        "position":228,
+        "teamNum":35,
+        "teamName":"Hype Beasts",
+        "division":"",
+        "time":"1:10:48.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Shannon Standish",
+        "position":229,
+        "teamNum":340,
+        "teamName":"Wake & Baker",
+        "division":"",
+        "time":"1:10:49.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dick McClenahan",
+        "position":230,
+        "teamNum":105,
+        "teamName":"NON SIBI SED ALIIS",
+        "division":"",
+        "time":"1:10:51.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kyle Cooper",
+        "position":231,
+        "teamNum":137,
+        "teamName":"Good Vibes Only",
+        "division":"",
+        "time":"1:11:00.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Eli McMeen",
+        "position":232,
+        "teamNum":446,
+        "teamName":"Northwest Hydraulic Consultants - WA",
+        "division":"",
+        "time":"1:11:05.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Zoe Quinn",
+        "position":233,
+        "teamNum":19,
+        "teamName":"High Octane",
+        "division":"",
+        "time":"1:11:06.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anish Bose",
+        "position":234,
+        "teamNum":370,
+        "teamName":"Cuervo no chafers",
+        "division":"",
+        "time":"1:11:07.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kathy Reitinger",
+        "position":235,
+        "teamNum":229,
+        "teamName":"Flotsam",
+        "division":"",
+        "time":"1:11:08.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anita Wray",
+        "position":236,
+        "teamNum":330,
+        "teamName":"Green M&M Fan Club",
+        "division":"",
+        "time":"1:11:16.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mathew Craig",
+        "position":237,
+        "teamNum":279,
+        "teamName":"best skiers on the mountain",
+        "division":"",
+        "time":"1:11:22.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Carmen Peterson",
+        "position":238,
+        "teamNum":457,
+        "teamName":"Northwest Hydraulic Consultants - BC",
+        "division":"",
+        "time":"1:11:23.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Madison Horton",
+        "position":239,
+        "teamNum":464,
+        "teamName":"The Sportin' Hortons",
+        "division":"",
+        "time":"1:11:30.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Cat MacDonald",
+        "position":240,
+        "teamNum":371,
+        "teamName":"Ridiculous Speed",
+        "division":"",
+        "time":"1:11:30.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Klayton Brown",
+        "position":241,
+        "teamNum":25,
+        "teamName":"Man I Love Frogs",
+        "division":"",
+        "time":"1:11:32.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathaniel Sipila",
+        "position":242,
+        "teamNum":115,
+        "teamName":"The 26th of May movement",
+        "division":"",
+        "time":"1:11:41.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Daryl Hill",
+        "position":243,
+        "teamNum":175,
+        "teamName":"Pat's Dr Pepper team",
+        "division":"",
+        "time":"1:11:42.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim Steward",
+        "position":244,
+        "teamNum":345,
+        "teamName":"Ellie's Little Biddies ",
+        "division":"",
+        "time":"1:11:48.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Andrea Lim",
+        "position":245,
+        "teamNum":361,
+        "teamName":"Out With the Gold, In With the New",
+        "division":"",
+        "time":"1:11:49.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Elan  Failing",
+        "position":246,
+        "teamNum":56,
+        "teamName":"something better than last year",
+        "division":"",
+        "time":"1:11:53.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dayna McRoberts",
+        "position":247,
+        "teamNum":227,
+        "teamName":"~we should think of a team name~",
+        "division":"",
+        "time":"1:11:55.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Melissa Estep",
+        "position":248,
+        "teamNum":418,
+        "teamName":"Summit at All Costs",
+        "division":"",
+        "time":"1:11:56.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Greg Malowicki",
+        "position":249,
+        "teamNum":114,
+        "teamName":"Edmonds Engineering",
+        "division":"",
+        "time":"1:12:01.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"CJ Certo",
+        "position":250,
+        "teamNum":299,
+        "teamName":"Party Animals Going BellingHAM",
+        "division":"",
+        "time":"1:12:26.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Niall Motson",
+        "position":251,
+        "teamNum":124,
+        "teamName":"Bronson's Baddies",
+        "division":"",
+        "time":"1:12:27.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jon Bolin",
+        "position":252,
+        "teamNum":323,
+        "teamName":"Charlie's Angels",
+        "division":"",
+        "time":"1:12:27.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nathaniel Freedman",
+        "position":253,
+        "teamNum":10,
+        "teamName":"GAR Magenta",
+        "division":"",
+        "time":"1:12:28.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Spencer Buja",
+        "position":254,
+        "teamNum":42,
+        "teamName":"Filthy Casual",
+        "division":"",
+        "time":"1:12:30.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Erin Fredrickson",
+        "position":255,
+        "teamNum":328,
+        "teamName":"Gumby Goats",
+        "division":"",
+        "time":"1:12:30.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Steven Wilkins-Reeves",
+        "position":256,
+        "teamNum":271,
+        "teamName":"Masculine Death Drive",
+        "division":"",
+        "time":"1:12:30.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bryce Falk",
+        "position":257,
+        "teamNum":140,
+        "teamName":"Uncontrolled Descent",
+        "division":"",
+        "time":"1:12:32.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brock Kuntz",
+        "position":258,
+        "teamNum":217,
+        "teamName":"RAM Construction",
+        "division":"",
+        "time":"1:12:35.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Judson Morse",
+        "position":259,
+        "teamNum":31,
+        "teamName":"1 for the money, 4 for the show",
+        "division":"",
+        "time":"1:12:41.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matthew  Mullan",
+        "position":260,
+        "teamNum":30,
+        "teamName":"Couch Surfin' USA",
+        "division":"",
+        "time":"1:12:44.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Colin Stevens",
+        "position":261,
+        "teamNum":172,
+        "teamName":"Pebble Wrestlers Go Multisporting",
+        "division":"",
+        "time":"1:12:55.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ava Trogus",
+        "position":262,
+        "teamNum":386,
+        "teamName":"Ski-sy Does It",
+        "division":"",
+        "time":"1:12:59.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Matt Punke ",
+        "position":263,
+        "teamNum":487,
+        "teamName":"Delivering Strong ",
+        "division":"",
+        "time":"1:13:11.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michael Gieschen",
+        "position":264,
+        "teamNum":160,
+        "teamName":"Real Bros of Simi Valley",
+        "division":"",
+        "time":"1:13:13.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Benjamin Flanagan",
+        "position":265,
+        "teamNum":307,
+        "teamName":"BrewSKI to BarSEAt",
+        "division":"",
+        "time":"1:13:17.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Stuart King",
+        "position":266,
+        "teamNum":107,
+        "teamName":"Super 8",
+        "division":"",
+        "time":"1:13:18.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chris Schneider",
+        "position":267,
+        "teamNum":174,
+        "teamName":"Ski to C300",
+        "division":"",
+        "time":"1:13:27.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Caleb Diehl",
+        "position":268,
+        "teamNum":185,
+        "teamName":"Steez Patrol",
+        "division":"",
+        "time":"1:13:49.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nate Brown",
+        "position":269,
+        "teamNum":161,
+        "teamName":"8 Guys, 1 Canoe",
+        "division":"",
+        "time":"1:13:50.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Laura Kidder",
+        "position":270,
+        "teamNum":341,
+        "teamName":"JoJo's Angels",
+        "division":"",
+        "time":"1:14:04.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Vishal Ghotge",
+        "position":271,
+        "teamNum":165,
+        "teamName":"All the Peeps",
+        "division":"",
+        "time":"1:14:07.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Michael Beagley",
+        "position":272,
+        "teamNum":456,
+        "teamName":"PeaceHealth Cancer Center Tumornators",
+        "division":"",
+        "time":"1:14:10.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anna andreajwarr@gmail.com",
+        "position":273,
+        "teamNum":123,
+        "teamName":"Broken bodies",
+        "division":"",
+        "time":"1:14:15.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ryan Maw",
+        "position":274,
+        "teamNum":366,
+        "teamName":"Wait Up",
+        "division":"",
+        "time":"1:14:19.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Delaney  Tight",
+        "position":275,
+        "teamNum":352,
+        "teamName":"Ellie\u2019s Little Baddies ",
+        "division":"",
+        "time":"1:14:32.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Katie Davis",
+        "position":276,
+        "teamNum":397,
+        "teamName":"Badass Strawberry Shortski Adventurers",
+        "division":"",
+        "time":"1:14:43.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Billie Otto",
+        "position":277,
+        "teamNum":297,
+        "teamName":"Absher Construction Hammer Time",
+        "division":"",
+        "time":"1:14:44.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"KT Elliot",
+        "position":278,
+        "teamNum":21,
+        "teamName":"I'm Givin' It All She's Got, Captain!",
+        "division":"",
+        "time":"1:14:48.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Izak Schwartz",
+        "position":279,
+        "teamNum":346,
+        "teamName":"Nuthin\u2019 But a Ski Thang ",
+        "division":"",
+        "time":"1:14:52.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kyle  Morris",
+        "position":280,
+        "teamNum":261,
+        "teamName":"Vitality--V8",
+        "division":"",
+        "time":"1:15:00.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dan Drinan",
+        "position":281,
+        "teamNum":192,
+        "teamName":"Washington State Ferries",
+        "division":"",
+        "time":"1:15:03.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"John Harris",
+        "position":282,
+        "teamNum":39,
+        "teamName":"Real Housewives Fan Club",
+        "division":"",
+        "time":"1:15:09.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Marco Hatch",
+        "position":283,
+        "teamNum":9,
+        "teamName":"Tardigraders",
+        "division":"",
+        "time":"1:15:11.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ella  Gouran",
+        "position":284,
+        "teamNum":61,
+        "teamName":"D1 Haters",
+        "division":"",
+        "time":"1:15:32.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Logan Wentland",
+        "position":285,
+        "teamNum":183,
+        "teamName":"Zoogers",
+        "division":"",
+        "time":"1:15:37.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dave Green",
+        "position":286,
+        "teamNum":257,
+        "teamName":"Indefatigable ",
+        "division":"",
+        "time":"1:15:43.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Eli Siegel",
+        "position":287,
+        "teamNum":144,
+        "teamName":"Party Possums",
+        "division":"",
+        "time":"1:15:49.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sarah Swanson",
+        "position":288,
+        "teamNum":70,
+        "teamName":"Bellingham Firefighters team two",
+        "division":"",
+        "time":"1:15:50.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kevin  Kane",
+        "position":289,
+        "teamNum":132,
+        "teamName":"Burning Bunions",
+        "division":"",
+        "time":"1:15:50.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nic Sakuma",
+        "position":290,
+        "teamNum":449,
+        "teamName":"Janicki Composite Commandos",
+        "division":"",
+        "time":"1:15:50.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Alex Pearman-Gillman",
+        "position":291,
+        "teamNum":74,
+        "teamName":"Hypegirls",
+        "division":"",
+        "time":"1:15:51.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Casey Coombs",
+        "position":292,
+        "teamNum":202,
+        "teamName":"Capitol Hill Boys",
+        "division":"",
+        "time":"1:15:52.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jerry Titus",
+        "position":293,
+        "teamNum":468,
+        "teamName":"OFY",
+        "division":"",
+        "time":"1:15:57.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Wayne Carmichael",
+        "position":294,
+        "teamNum":254,
+        "teamName":"Don't Stop Us Now!",
+        "division":"",
+        "time":"1:16:16.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Doug Melland",
+        "position":295,
+        "teamNum":152,
+        "teamName":"Men of Mcconnell",
+        "division":"",
+        "time":"1:16:20.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tori Dawson",
+        "position":296,
+        "teamNum":93,
+        "teamName":"Whatcom's Wildest",
+        "division":"",
+        "time":"1:16:43.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ryan Van Dam",
+        "position":297,
+        "teamNum":130,
+        "teamName":"Swifties to Sea",
+        "division":"",
+        "time":"1:16:44.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kelsey Barra",
+        "position":298,
+        "teamNum":318,
+        "teamName":"Twispians",
+        "division":"",
+        "time":"1:17:19.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Charles Pulliam",
+        "position":299,
+        "teamNum":127,
+        "teamName":"Joggers and Lagers",
+        "division":"",
+        "time":"1:17:32.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Molly Tokaz",
+        "position":300,
+        "teamNum":119,
+        "teamName":"Wokaz",
+        "division":"",
+        "time":"1:17:39.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Elise Kalstad",
+        "position":301,
+        "teamNum":315,
+        "teamName":"Sea Panthers",
+        "division":"",
+        "time":"1:17:39.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Trevor Cell",
+        "position":302,
+        "teamNum":177,
+        "teamName":"Mighty Geoducks",
+        "division":"",
+        "time":"1:17:42.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Amanda Winslow",
+        "position":303,
+        "teamNum":97,
+        "teamName":"Derp dog zeph and the humans",
+        "division":"",
+        "time":"1:17:47.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Heidi  Kenerson ",
+        "position":304,
+        "teamNum":184,
+        "teamName":"Josh's Hammer",
+        "division":"",
+        "time":"1:17:49.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Will Glewen",
+        "position":305,
+        "teamNum":275,
+        "teamName":"Joel's Mogul Meowsters",
+        "division":"",
+        "time":"1:18:01.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lara Koger",
+        "position":306,
+        "teamNum":442,
+        "teamName":"Associated Earth Sciences Inc.",
+        "division":"",
+        "time":"1:18:02.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emily Schauble",
+        "position":307,
+        "teamNum":355,
+        "teamName":"The Uncrustables",
+        "division":"",
+        "time":"1:18:05.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chris  Badger",
+        "position":308,
+        "teamNum":207,
+        "teamName":"Murkey Sizemores ",
+        "division":"",
+        "time":"1:18:06.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Chris Penuelas",
+        "position":309,
+        "teamNum":214,
+        "teamName":"Leisure Sportsmen",
+        "division":"",
+        "time":"1:18:09.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dylan Cole",
+        "position":310,
+        "teamNum":477,
+        "teamName":"ski till we pee",
+        "division":"",
+        "time":"1:18:16.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jesse Castleberry",
+        "position":311,
+        "teamNum":157,
+        "teamName":"Salish Seapeople",
+        "division":"",
+        "time":"1:18:17.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lucas Dill",
+        "position":312,
+        "teamNum":377,
+        "teamName":"Plus Ones ",
+        "division":"",
+        "time":"1:18:20.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Andrew Fitzsimmons",
+        "position":313,
+        "teamNum":151,
+        "teamName":"Biscuit Buttering Buddies",
+        "division":"",
+        "time":"1:18:23.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tara Salisbury",
+        "position":314,
+        "teamNum":300,
+        "teamName":"Nacho Average Team",
+        "division":"",
+        "time":"1:18:35.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Alan Zhang",
+        "position":315,
+        "teamNum":188,
+        "teamName":"&BC Party B",
+        "division":"",
+        "time":"1:18:37.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kelly McKinnell",
+        "position":316,
+        "teamNum":326,
+        "teamName":"Shuck Buddies",
+        "division":"",
+        "time":"1:18:41.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emily Boerger",
+        "position":317,
+        "teamNum":413,
+        "teamName":"Reverse Ski Girl ",
+        "division":"",
+        "time":"1:18:48.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Meghan Gillaspy",
+        "position":318,
+        "teamNum":176,
+        "teamName":"Best team ever",
+        "division":"",
+        "time":"1:19:20.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Neysa Bell",
+        "position":319,
+        "teamNum":302,
+        "teamName":"Racey McRaceFace",
+        "division":"",
+        "time":"1:19:21.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Grace Becker",
+        "position":320,
+        "teamNum":398,
+        "teamName":"Slaydies ",
+        "division":"",
+        "time":"1:19:26.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Louise Simpson",
+        "position":321,
+        "teamNum":251,
+        "teamName":"Tortoises and the Hares (Green)",
+        "division":"",
+        "time":"1:19:29.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sarah Baik",
+        "position":322,
+        "teamNum":363,
+        "teamName":"Skiyii! to Seamen",
+        "division":"",
+        "time":"1:19:45.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Devin Hennessy ",
+        "position":323,
+        "teamNum":247,
+        "teamName":"Desolation Angels",
+        "division":"",
+        "time":"1:19:48.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Vladislov Perevalov",
+        "position":324,
+        "teamNum":313,
+        "teamName":"Frick-Yeah",
+        "division":"",
+        "time":"1:20:05.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Katie Carlson",
+        "position":325,
+        "teamNum":380,
+        "teamName":"The Horse Girls",
+        "division":"",
+        "time":"1:20:12.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bridge bridgejoyce@gmail.com",
+        "position":326,
+        "teamNum":134,
+        "teamName":"The Reasonable Doubters ",
+        "division":"",
+        "time":"1:20:12.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Josh Menne",
+        "position":327,
+        "teamNum":452,
+        "teamName":"WTBrigade",
+        "division":"",
+        "time":"1:20:16.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jeremy Asp\u00e9e",
+        "position":328,
+        "teamNum":197,
+        "teamName":"Off Constantly",
+        "division":"",
+        "time":"1:20:17.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Josh  Kang",
+        "position":329,
+        "teamNum":285,
+        "teamName":"Spiny Lumpsuckers ",
+        "division":"",
+        "time":"1:20:19.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Eddie Nosal",
+        "position":330,
+        "teamNum":241,
+        "teamName":"Cascadia One Pass",
+        "division":"",
+        "time":"1:20:32.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Carla Botteselle",
+        "position":331,
+        "teamNum":106,
+        "teamName":"Surprisingly Athletic!",
+        "division":"",
+        "time":"1:20:36.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ben  Wright",
+        "position":332,
+        "teamNum":455,
+        "teamName":"Soundview Consultants ",
+        "division":"",
+        "time":"1:20:40.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Connor  Finkbeiner ",
+        "position":333,
+        "teamNum":278,
+        "teamName":"The Lactic Kool-Aid Acid Test",
+        "division":"",
+        "time":"1:20:41.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Alli Hansen",
+        "position":334,
+        "teamNum":335,
+        "teamName":"Yellow Aster Butts",
+        "division":"",
+        "time":"1:21:01.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anna Luse",
+        "position":335,
+        "teamNum":332,
+        "teamName":"Banana bread people",
+        "division":"",
+        "time":"1:21:02.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Zo\u00eb Plakias",
+        "position":336,
+        "teamNum":196,
+        "teamName":"Ski to C-",
+        "division":"",
+        "time":"1:21:11.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dillon Donaghy",
+        "position":337,
+        "teamNum":347,
+        "teamName":"Loco 4loco",
+        "division":"",
+        "time":"1:21:12.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Colin Stonecipher",
+        "position":338,
+        "teamNum":237,
+        "teamName":"Bandu",
+        "division":"",
+        "time":"1:21:15.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jenifer Tran",
+        "position":339,
+        "teamNum":353,
+        "teamName":"Out & About",
+        "division":"",
+        "time":"1:21:37.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lexi  Brennan",
+        "position":340,
+        "teamNum":503,
+        "teamName":"The Not-So Neighbors",
+        "division":"",
+        "time":"1:21:40.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lauren Clouse",
+        "position":341,
+        "teamNum":411,
+        "teamName":"purple hat cheetah print",
+        "division":"",
+        "time":"1:21:43.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Travis Aerenson",
+        "position":342,
+        "teamNum":205,
+        "teamName":"We Mean Business",
+        "division":"",
+        "time":"1:21:44.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emily Heng",
+        "position":343,
+        "teamNum":316,
+        "teamName":"Getting Wiggy With It",
+        "division":"",
+        "time":"1:21:46.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Maya  Cates-Carney",
+        "position":344,
+        "teamNum":306,
+        "teamName":"Hedgehog the Loaf Dogs",
+        "division":"",
+        "time":"1:21:48.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brandon Adams",
+        "position":345,
+        "teamNum":287,
+        "teamName":"Team Big Tetons",
+        "division":"",
+        "time":"1:21:56.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mallory Reeves",
+        "position":346,
+        "teamNum":72,
+        "teamName":"Crank My Shaft",
+        "division":"",
+        "time":"1:21:56.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Rob Schroeter",
+        "position":347,
+        "teamNum":321,
+        "teamName":"Alaska All-Stars",
+        "division":"",
+        "time":"1:21:57.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sadie Miller",
+        "position":348,
+        "teamNum":147,
+        "teamName":"Picnic Girls",
+        "division":"",
+        "time":"1:21:59.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ivy James",
+        "position":349,
+        "teamNum":378,
+        "teamName":"SkizNutz",
+        "division":"",
+        "time":"1:22:00.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mary Kratovil",
+        "position":350,
+        "teamNum":389,
+        "teamName":"The Biggest Rippers",
+        "division":"",
+        "time":"1:22:06.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Victoria Conover",
+        "position":351,
+        "teamNum":434,
+        "teamName":"B Shift ",
+        "division":"",
+        "time":"1:22:23.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Charlie Moore",
+        "position":352,
+        "teamNum":104,
+        "teamName":"WWU Men's Rugby",
+        "division":"",
+        "time":"1:22:47.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jenica Roemer",
+        "position":353,
+        "teamNum":344,
+        "teamName":"Chafing the Dream",
+        "division":"",
+        "time":"1:22:57.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Molly Dinardo",
+        "position":354,
+        "teamNum":373,
+        "teamName":"Space Noodles",
+        "division":"",
+        "time":"1:23:00.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Evan Simpson",
+        "position":355,
+        "teamNum":252,
+        "teamName":"Tortoises & Hares (Blue)",
+        "division":"",
+        "time":"1:23:39.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tyler Baker",
+        "position":356,
+        "teamNum":362,
+        "teamName":"Pauly D and Massimo are in love ",
+        "division":"",
+        "time":"1:23:41.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kate Johnson",
+        "position":357,
+        "teamNum":392,
+        "teamName":"Athenas",
+        "division":"",
+        "time":"1:23:43.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Joelle Adams Adams",
+        "position":358,
+        "teamNum":80,
+        "teamName":"On Your Left",
+        "division":"",
+        "time":"1:23:45.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nicholas Mirra",
+        "position":359,
+        "teamNum":331,
+        "teamName":"Em's Birthday Entourage",
+        "division":"",
+        "time":"1:23:49.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Katie Waldo",
+        "position":360,
+        "teamNum":142,
+        "teamName":"Keep Portland Weird",
+        "division":"",
+        "time":"1:23:56.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kyle Wojewoda",
+        "position":361,
+        "teamNum":194,
+        "teamName":"Friends of Maya",
+        "division":"",
+        "time":"1:23:56.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Erika De la Rosa",
+        "position":362,
+        "teamNum":325,
+        "teamName":"The Snafflehounds",
+        "division":"",
+        "time":"1:24:00.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dale McCauley",
+        "position":363,
+        "teamNum":263,
+        "teamName":"Quigleys Quest",
+        "division":"",
+        "time":"1:24:04.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Maia  Heffernan",
+        "position":364,
+        "teamNum":404,
+        "teamName":"Ski to Seeesters",
+        "division":"",
+        "time":"1:24:04.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Stevie Cairns",
+        "position":365,
+        "teamNum":203,
+        "teamName":"The Dingleberry Fairies",
+        "division":"",
+        "time":"1:24:16.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sebastian Braun",
+        "position":366,
+        "teamNum":29,
+        "teamName":"Noon Patrol",
+        "division":"",
+        "time":"1:24:29.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sophia Walling-Bell",
+        "position":367,
+        "teamNum":424,
+        "teamName":"Escar-no!",
+        "division":"",
+        "time":"1:24:33.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sunny Chen",
+        "position":368,
+        "teamNum":189,
+        "teamName":"&BC Party A",
+        "division":"",
+        "time":"1:24:35.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Justin Whitehead",
+        "position":369,
+        "teamNum":467,
+        "teamName":"TydalWave",
+        "division":"",
+        "time":"1:24:42.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Marie Keplinger",
+        "position":370,
+        "teamNum":250,
+        "teamName":"Metabolize to Freedom ",
+        "division":"",
+        "time":"1:24:44.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Luke Galloway",
+        "position":371,
+        "teamNum":90,
+        "teamName":"Mixed Nuts",
+        "division":"",
+        "time":"1:25:01.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kyle Guthrie",
+        "position":372,
+        "teamNum":388,
+        "teamName":"Bonjour Couloir ",
+        "division":"",
+        "time":"1:25:09.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Nicole Redding",
+        "position":373,
+        "teamNum":272,
+        "teamName":"You look like a rat with glasses",
+        "division":"",
+        "time":"1:25:15.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dominique Terry",
+        "position":374,
+        "teamNum":150,
+        "teamName":"Dom and the Terry T's",
+        "division":"",
+        "time":"1:25:35.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emily webb",
+        "position":375,
+        "teamNum":100,
+        "teamName":"Fury CEO",
+        "division":"",
+        "time":"1:25:41.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Alex Cook",
+        "position":376,
+        "teamNum":41,
+        "teamName":"Dude I Love Frogs",
+        "division":"",
+        "time":"1:26:11.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mayla Ward",
+        "position":377,
+        "teamNum":339,
+        "teamName":"Row Roe Rho You're Boot",
+        "division":"",
+        "time":"1:26:13.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Elena Horton",
+        "position":378,
+        "teamNum":465,
+        "teamName":"Team Betty",
+        "division":"",
+        "time":"1:26:14.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Riley  Weeks",
+        "position":379,
+        "teamNum":400,
+        "teamName":"Ski\u00f1or-to-Se\u00f1ior",
+        "division":"",
+        "time":"1:26:19.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Tim O'Donnell",
+        "position":380,
+        "teamNum":319,
+        "teamName":"Bilbo Laggins Behind",
+        "division":"",
+        "time":"1:26:20.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anthony Neubert",
+        "position":381,
+        "teamNum":233,
+        "teamName":"The Rohirim",
+        "division":"",
+        "time":"1:26:48.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ashley Woodford",
+        "position":382,
+        "teamNum":351,
+        "teamName":"Maddie & The Misfits",
+        "division":"",
+        "time":"1:26:52.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lucie Barnette",
+        "position":383,
+        "teamNum":417,
+        "teamName":"Hot Tacos ",
+        "division":"",
+        "time":"1:26:54.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Auri Clark",
+        "position":384,
+        "teamNum":234,
+        "teamName":"Ski to Sea All Stars",
+        "division":"",
+        "time":"1:26:57.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Liz Larkin",
+        "position":385,
+        "teamNum":308,
+        "teamName":"Here For The Ap-race (Apr\u00e8s)",
+        "division":"",
+        "time":"1:27:00.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jackie Elnurme",
+        "position":386,
+        "teamNum":348,
+        "teamName":"Fighting Snails of Snowline",
+        "division":"",
+        "time":"1:27:12.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Richard Kenny",
+        "position":387,
+        "teamNum":475,
+        "teamName":"Kenny-Balen",
+        "division":"",
+        "time":"1:27:58.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Camille Forest ",
+        "position":388,
+        "teamNum":410,
+        "teamName":"Scrambled Legs",
+        "division":"",
+        "time":"1:28:00.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Abby Harris",
+        "position":389,
+        "teamNum":18,
+        "teamName":"Midwestern Anonymous ",
+        "division":"",
+        "time":"1:28:16.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Marc Leyrer",
+        "position":390,
+        "teamNum":291,
+        "teamName":"Good Question",
+        "division":"",
+        "time":"1:28:34.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Stanley Wu",
+        "position":391,
+        "teamNum":206,
+        "teamName":"PlantHoarders",
+        "division":"",
+        "time":"1:28:35.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ann Pollack",
+        "position":392,
+        "teamNum":356,
+        "teamName":"Lord of the Skis: Fellowship of the Sea",
+        "division":"",
+        "time":"1:28:43.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"noah cyr-moore",
+        "position":393,
+        "teamNum":471,
+        "teamName":"Heck We Need Moore Laines",
+        "division":"",
+        "time":"1:28:55.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emma Calvert",
+        "position":394,
+        "teamNum":372,
+        "teamName":"Slopes & Hoes",
+        "division":"",
+        "time":"1:29:00.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Kaylyn Messer",
+        "position":395,
+        "teamNum":390,
+        "teamName":"The Leisurelete Loons",
+        "division":"",
+        "time":"1:29:02.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Peyton Nienaber",
+        "position":396,
+        "teamNum":375,
+        "teamName":"Lactic Acid Intolerant",
+        "division":"",
+        "time":"1:29:05.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Dawn Groves",
+        "position":397,
+        "teamNum":173,
+        "teamName":"We've Been Robbed",
+        "division":"",
+        "time":"1:29:08.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Betsy Kluck-Keil",
+        "position":398,
+        "teamNum":365,
+        "teamName":"Get Betsy to the Bay",
+        "division":"",
+        "time":"1:29:13.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Denice Rochelle",
+        "position":399,
+        "teamNum":415,
+        "teamName":"Brown Girl Magic",
+        "division":"",
+        "time":"1:29:31.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Colleen Horrell",
+        "position":400,
+        "teamNum":230,
+        "teamName":"Jetsam",
+        "division":"",
+        "time":"1:29:33.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Monica Suchsland",
+        "position":401,
+        "teamNum":231,
+        "teamName":"Just Nuts",
+        "division":"",
+        "time":"1:29:34.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Howard Wang",
+        "position":402,
+        "teamNum":324,
+        "teamName":"Amateur Hour(z)",
+        "division":"",
+        "time":"1:29:52.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Diego Alba",
+        "position":403,
+        "teamNum":212,
+        "teamName":"The Nerd Clusters",
+        "division":"",
+        "time":"1:30:23.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ann Vu",
+        "position":404,
+        "teamNum":488,
+        "teamName":"Broccalicious",
+        "division":"",
+        "time":"1:30:43.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Bridget Foley",
+        "position":405,
+        "teamNum":405,
+        "teamName":"Legs Mis\u00e9rables",
+        "division":"",
+        "time":"1:30:45.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lucas Takayoshi",
+        "position":406,
+        "teamNum":225,
+        "teamName":"37.5% Holmquist",
+        "division":"",
+        "time":"1:30:47.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Ben  Codd",
+        "position":407,
+        "teamNum":146,
+        "teamName":"8 Musketeers ",
+        "division":"",
+        "time":"1:31:05.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Commodore Patrick",
+        "position":408,
+        "teamNum":249,
+        "teamName":"Sisyphus boulders",
+        "division":"",
+        "time":"1:31:17.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Megan Schmidt ",
+        "position":409,
+        "teamNum":109,
+        "teamName":"We Brought Our Dads",
+        "division":"",
+        "time":"1:31:19.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jennifer Gruenwald",
+        "position":410,
+        "teamNum":122,
+        "teamName":"Insert clever name here",
+        "division":"",
+        "time":"1:31:49.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Crystal Richard",
+        "position":411,
+        "teamNum":422,
+        "teamName":"Surfrider Sea Sirens",
+        "division":"",
+        "time":"1:31:58.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Emma Spickard",
+        "position":412,
+        "teamNum":409,
+        "teamName":"Ski to She",
+        "division":"",
+        "time":"1:32:03.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Laurel Howe",
+        "position":413,
+        "teamNum":416,
+        "teamName":"Kween County Flames",
+        "division":"",
+        "time":"1:32:25.4"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Akshay Rai",
+        "position":414,
+        "teamNum":136,
+        "teamName":"Humble Hundal\u2019s",
+        "division":"",
+        "time":"1:32:28.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Brin Owen",
+        "position":415,
+        "teamNum":111,
+        "teamName":"ORCA Team",
+        "division":"",
+        "time":"1:32:42.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Robert Brown",
+        "position":416,
+        "teamNum":267,
+        "teamName":"But wait there's myrrh",
+        "division":"",
+        "time":"1:32:53.5"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Laura Sheehan",
+        "position":417,
+        "teamNum":281,
+        "teamName":"Slurp Slippers",
+        "division":"",
+        "time":"1:32:57.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Sophie Keith",
+        "position":418,
+        "teamNum":376,
+        "teamName":"DTF",
+        "division":"",
+        "time":"1:32:59.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Asha Grossberndt",
+        "position":419,
+        "teamNum":59,
+        "teamName":"The Katz Pajamas ",
+        "division":"",
+        "time":"1:33:03.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Liz Schackmann",
+        "position":420,
+        "teamNum":71,
+        "teamName":"Annealed 4 ever",
+        "division":"",
+        "time":"1:33:19.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Olivia Van De Rostyne",
+        "position":421,
+        "teamNum":329,
+        "teamName":"The Spud Squad: Unpeeled ",
+        "division":"",
+        "time":"1:33:41.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Molly Edison",
+        "position":422,
+        "teamNum":164,
+        "teamName":"Eat My Jorts",
+        "division":"",
+        "time":"1:33:50.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Cameron Donnelly",
+        "position":423,
+        "teamNum":48,
+        "teamName":"Birdemic",
+        "division":"",
+        "time":"1:34:54.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Zach Mlynarczyk",
+        "position":424,
+        "teamNum":95,
+        "teamName":"Tres Leches",
+        "division":"",
+        "time":"1:34:59.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Isaac Spencer",
+        "position":425,
+        "teamNum":327,
+        "teamName":"Here for Even More Beer ",
+        "division":"",
+        "time":"1:35:13.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jenna  Valach",
+        "position":426,
+        "teamNum":181,
+        "teamName":"Speed Sold Separately",
+        "division":"",
+        "time":"1:35:23.8"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Paige Olson",
+        "position":427,
+        "teamNum":209,
+        "teamName":"Worst Pace Scenario",
+        "division":"",
+        "time":"1:35:35.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Clay Luedloff",
+        "position":428,
+        "teamNum":149,
+        "teamName":"Darwin's Revenge",
+        "division":"",
+        "time":"1:35:35.7"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Morgan Lund",
+        "position":429,
+        "teamNum":66,
+        "teamName":"Annealiators",
+        "division":"",
+        "time":"1:35:42.6"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Evelyn Callahan",
+        "position":430,
+        "teamNum":359,
+        "teamName":"Happy Birthday Olivia!",
+        "division":"",
+        "time":"1:37:03.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jonas Kennedy",
+        "position":431,
+        "teamNum":462,
+        "teamName":"Family Tries",
+        "division":"",
+        "time":"1:37:24.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"JJ Loh",
+        "position":432,
+        "teamNum":419,
+        "teamName":"Starfish and Coffee",
+        "division":"",
+        "time":"1:37:34.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lizzie Elliott",
+        "position":433,
+        "teamNum":414,
+        "teamName":"Peaks and Professors",
+        "division":"",
+        "time":"1:38:51.1"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lilac Langaroodi",
+        "position":434,
+        "teamNum":358,
+        "teamName":"The 7 Deadly Wins",
+        "division":"",
+        "time":"1:38:59.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Julian Kimble",
+        "position":435,
+        "teamNum":342,
+        "teamName":"Cocodona 250 Prep Team",
+        "division":"",
+        "time":"1:39:18.0"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Claire Cusack",
+        "position":436,
+        "teamNum":408,
+        "teamName":"Lick My Glit",
+        "division":"",
+        "time":"1:39:25.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Lizzy Ahler",
+        "position":437,
+        "teamNum":394,
+        "teamName":"Sassy Lassies",
+        "division":"",
+        "time":"1:42:04.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Jonathan Kaiser",
+        "position":438,
+        "teamNum":178,
+        "teamName":"NW Chum",
+        "division":"",
+        "time":"1:42:48.9"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Mikayla Monroe",
+        "position":439,
+        "teamNum":301,
+        "teamName":"Sporty Barbies",
+        "division":"",
+        "time":"1:44:26.2"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Richard Thody",
+        "position":440,
+        "teamNum":454,
+        "teamName":"Puget Sound Energy",
+        "division":"",
+        "time":"1:45:04.3"
+    },
+    {
+        "leg":"Kayak",
+        "name":"Anna Bracilano",
+        "position":441,
+        "teamNum":139,
+        "teamName":"PAH!",
+        "division":"",
+        "time":"1:46:54.5"
+    }
+]

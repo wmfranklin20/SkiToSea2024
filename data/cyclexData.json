@@ -1,0 +1,4088 @@
+[
+    {
+        "leg":"Cyclocross",
+        "name":"Cal Skilsky ",
+        "position":1,
+        "teamNum":2,
+        "teamName":"Boomer's Drive-In",
+        "division":"",
+        "time":"37:22.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian Fay",
+        "position":2,
+        "teamNum":20,
+        "teamName":"Evil Bike Company",
+        "division":"",
+        "time":"38:33.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mark Allison",
+        "position":3,
+        "teamNum":15,
+        "teamName":"Dawson Construction",
+        "division":"",
+        "time":"39:57.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Bryce Olsen",
+        "position":4,
+        "teamNum":1,
+        "teamName":"BIRCH EQUIPMENT",
+        "division":"",
+        "time":"40:16.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Steven Case",
+        "position":5,
+        "teamNum":12,
+        "teamName":"The Jury's Still Out",
+        "division":"",
+        "time":"41:06.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Devon Wright",
+        "position":6,
+        "teamNum":159,
+        "teamName":"NWIC Hooligans",
+        "division":"",
+        "time":"41:52.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mason Rathkamp",
+        "position":7,
+        "teamNum":423,
+        "teamName":"Surfrider Mavericks",
+        "division":"",
+        "time":"42:04.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dario  Digulio",
+        "position":8,
+        "teamNum":420,
+        "teamName":"My Dog, Unleashed ",
+        "division":"",
+        "time":"42:04.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brian Ecker ",
+        "position":9,
+        "teamNum":99,
+        "teamName":"BEAVERS TREE SERVICE",
+        "division":"",
+        "time":"42:05.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jesse  Anthony",
+        "position":10,
+        "teamNum":16,
+        "teamName":"Colony Wharf",
+        "division":"",
+        "time":"42:17.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh Fox",
+        "position":11,
+        "teamNum":490,
+        "teamName":"HPC Racing",
+        "division":"",
+        "time":"43:09.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Davis",
+        "position":12,
+        "teamNum":102,
+        "teamName":"Bellingham Firefighters Team 1",
+        "division":"",
+        "time":"43:12.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Butler",
+        "position":13,
+        "teamNum":330,
+        "teamName":"Green M&M Fan Club",
+        "division":"",
+        "time":"43:22.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dylan  Bonsell",
+        "position":14,
+        "teamNum":94,
+        "teamName":"Inn at Lynden",
+        "division":"",
+        "time":"43:27.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tim Berntson",
+        "position":15,
+        "teamNum":484,
+        "teamName":"The Monkey Wrench Gang",
+        "division":"",
+        "time":"43:36.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian Spivack",
+        "position":16,
+        "teamNum":3,
+        "teamName":"Bad Rads 2",
+        "division":"",
+        "time":"43:58.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"COLIN FERGUSON",
+        "position":17,
+        "teamNum":497,
+        "teamName":"Two Cubed To Finish",
+        "division":"",
+        "time":"44:03.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lukas Jaron",
+        "position":18,
+        "teamNum":244,
+        "teamName":"Whales Outta Water",
+        "division":"",
+        "time":"44:07.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Christian  Pavelka",
+        "position":19,
+        "teamNum":245,
+        "teamName":"Fresh for Everyone",
+        "division":"",
+        "time":"44:23.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brian Shieh",
+        "position":20,
+        "teamNum":369,
+        "teamName":"The Gubernaculums",
+        "division":"",
+        "time":"44:27.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sam Dommer",
+        "position":21,
+        "teamNum":125,
+        "teamName":"Bonus 5",
+        "division":"",
+        "time":"44:34.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nate Dempsey",
+        "position":22,
+        "teamNum":7,
+        "teamName":"Pavlov's Dawgs",
+        "division":"",
+        "time":"44:40.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Darrin Seeds",
+        "position":23,
+        "teamNum":36,
+        "teamName":"VANDAMMAGE",
+        "division":"",
+        "time":"45:07.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"adam  greene",
+        "position":24,
+        "teamNum":458,
+        "teamName":"The Aleshops",
+        "division":"",
+        "time":"45:11.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Marcus Boyle",
+        "position":25,
+        "teamNum":486,
+        "teamName":"FasterBakers",
+        "division":"",
+        "time":"45:22.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jon Hernandez",
+        "position":26,
+        "teamNum":28,
+        "teamName":"Kirkland Fire",
+        "division":"",
+        "time":"45:35.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brandon Woudzia",
+        "position":27,
+        "teamNum":14,
+        "teamName":"Daddy's Girls",
+        "division":"",
+        "time":"45:58.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Charles Damron",
+        "position":28,
+        "teamNum":438,
+        "teamName":"Marysville Firefighters",
+        "division":"",
+        "time":"46:27.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jed Hinkley",
+        "position":29,
+        "teamNum":23,
+        "teamName":"American Canoe Association Men",
+        "division":"",
+        "time":"46:34.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sarah Paxson",
+        "position":30,
+        "teamNum":78,
+        "teamName":"Car free Green Mountain PT ",
+        "division":"",
+        "time":"46:38.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Oswin",
+        "position":31,
+        "teamNum":483,
+        "teamName":"Greatest American Heroes",
+        "division":"",
+        "time":"46:39.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jesse Merz",
+        "position":32,
+        "teamNum":418,
+        "teamName":"Summit at All Costs",
+        "division":"",
+        "time":"46:44.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Seguin",
+        "position":33,
+        "teamNum":421,
+        "teamName":"Yeager\u2019s Sporting Goods",
+        "division":"",
+        "time":"46:48.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brendan Moore",
+        "position":34,
+        "teamNum":160,
+        "teamName":"Real Bros of Simi Valley",
+        "division":"",
+        "time":"46:53.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mac Hamill",
+        "position":35,
+        "teamNum":17,
+        "teamName":"Well Hungover",
+        "division":"",
+        "time":"47:01.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eli Braverman",
+        "position":36,
+        "teamNum":84,
+        "teamName":"Insured to Win ",
+        "division":"",
+        "time":"47:21.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian Gerrish",
+        "position":37,
+        "teamNum":496,
+        "teamName":"Mt. Baker Ravens",
+        "division":"",
+        "time":"47:24.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan Rickerts",
+        "position":38,
+        "teamNum":86,
+        "teamName":"Hard Core Physio",
+        "division":"",
+        "time":"47:26.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Julia Tellman",
+        "position":39,
+        "teamNum":427,
+        "teamName":"I Don't Car(e)",
+        "division":"",
+        "time":"47:30.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Roy Colven",
+        "position":40,
+        "teamNum":494,
+        "teamName":"Boomer's Drive-In Legends",
+        "division":"",
+        "time":"47:58.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jackson Rogers",
+        "position":41,
+        "teamNum":481,
+        "teamName":"Fast Action Racing Team",
+        "division":"",
+        "time":"48:07.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Taylor Sanderson",
+        "position":42,
+        "teamNum":210,
+        "teamName":"Huge Whales",
+        "division":"",
+        "time":"48:13.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Beth Hartsoch",
+        "position":43,
+        "teamNum":52,
+        "teamName":"Zeek's Wild Combo",
+        "division":"",
+        "time":"48:13.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ashley Paul James",
+        "position":44,
+        "teamNum":43,
+        "teamName":"Galloping Gonads",
+        "division":"",
+        "time":"48:19.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kyle Breeding",
+        "position":45,
+        "teamNum":131,
+        "teamName":"SFD Station 4",
+        "division":"",
+        "time":"48:22.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean Foster",
+        "position":46,
+        "teamNum":474,
+        "teamName":"Family Comes First",
+        "division":"",
+        "time":"48:28.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Bridget Meyboom",
+        "position":47,
+        "teamNum":69,
+        "teamName":"SHEroes",
+        "division":"",
+        "time":"48:35.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian  McCurdy ",
+        "position":48,
+        "teamNum":242,
+        "teamName":"Dad Bods",
+        "division":"",
+        "time":"48:37.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mike Perreten ",
+        "position":49,
+        "teamNum":493,
+        "teamName":"Deep Cove Gentlemen's Tiddlywinks Club",
+        "division":"",
+        "time":"48:45.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"North Moench",
+        "position":50,
+        "teamNum":81,
+        "teamName":"Aging Disgracefully",
+        "division":"",
+        "time":"49:02.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex  Trautman",
+        "position":51,
+        "teamNum":135,
+        "teamName":"Bread",
+        "division":"",
+        "time":"49:14.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Marc Sheppard",
+        "position":52,
+        "teamNum":200,
+        "teamName":"Grey Jays",
+        "division":"",
+        "time":"49:17.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"\u00a0",
+        "position":53,
+        "teamNum":148,
+        "teamName":"JZ Outdoors",
+        "division":"",
+        "time":"49:32.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matty Lawrence",
+        "position":54,
+        "teamNum":144,
+        "teamName":"Party Possums",
+        "division":"",
+        "time":"49:33.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andrew Buckley",
+        "position":55,
+        "teamNum":193,
+        "teamName":"PCC Factory Racing",
+        "division":"",
+        "time":"49:39.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Adam Jata",
+        "position":56,
+        "teamNum":123,
+        "teamName":"Broken bodies",
+        "division":"",
+        "time":"49:39.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Zack Henderson",
+        "position":57,
+        "teamNum":98,
+        "teamName":"Team Jake",
+        "division":"",
+        "time":"49:42.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kara Oney",
+        "position":58,
+        "teamNum":55,
+        "teamName":"Delicate Flowers ",
+        "division":"",
+        "time":"49:43.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Coleman",
+        "position":59,
+        "teamNum":485,
+        "teamName":"Chuckanut Bay Distillery",
+        "division":"",
+        "time":"49:55.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nick Adsero",
+        "position":60,
+        "teamNum":432,
+        "teamName":"Everett Firefighter Association ",
+        "division":"",
+        "time":"49:59.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lincoln Harris",
+        "position":61,
+        "teamNum":271,
+        "teamName":"Masculine Death Drive",
+        "division":"",
+        "time":"50:02.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian Faulkner",
+        "position":62,
+        "teamNum":328,
+        "teamName":"Gumby Goats",
+        "division":"",
+        "time":"50:21.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Arthur Richardson",
+        "position":63,
+        "teamNum":85,
+        "teamName":"Crevasse Play",
+        "division":"",
+        "time":"50:36.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"William Mcnelis",
+        "position":64,
+        "teamNum":381,
+        "teamName":"Sponsored by Cheddar",
+        "division":"",
+        "time":"50:40.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sam Cheplick",
+        "position":65,
+        "teamNum":185,
+        "teamName":"Steez Patrol",
+        "division":"",
+        "time":"50:46.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Peter Wurden-Foster",
+        "position":66,
+        "teamNum":24,
+        "teamName":"Husky Has-Beens",
+        "division":"",
+        "time":"50:51.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Evan Dyar",
+        "position":67,
+        "teamNum":251,
+        "teamName":"Tortoises and the Hares (Green)",
+        "division":"",
+        "time":"50:57.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Grayson Pratt",
+        "position":68,
+        "teamNum":37,
+        "teamName":"Vendovi",
+        "division":"",
+        "time":"51:00.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"David Dean",
+        "position":69,
+        "teamNum":456,
+        "teamName":"PeaceHealth Cancer Center Tumornators",
+        "division":"",
+        "time":"51:06.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jake Evans",
+        "position":70,
+        "teamNum":433,
+        "teamName":"TC Legend Homes",
+        "division":"",
+        "time":"51:07.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tess Cunningham",
+        "position":71,
+        "teamNum":92,
+        "teamName":"North Coast Credit Union",
+        "division":"",
+        "time":"51:07.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Meysam Razmara",
+        "position":72,
+        "teamNum":29,
+        "teamName":"Noon Patrol",
+        "division":"",
+        "time":"51:16.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Reichle Erchinger",
+        "position":73,
+        "teamNum":4,
+        "teamName":"The Locust Rundgrave Band Ski to Sea RT",
+        "division":"",
+        "time":"51:33.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Thomas Knudsen",
+        "position":74,
+        "teamNum":478,
+        "teamName":"Twinkle Bros",
+        "division":"",
+        "time":"51:34.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Shawna Tompkins",
+        "position":75,
+        "teamNum":54,
+        "teamName":"Strider Construction",
+        "division":"",
+        "time":"51:40.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"James Howard",
+        "position":76,
+        "teamNum":288,
+        "teamName":"Downhill Current Chasers",
+        "division":"",
+        "time":"51:43.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mark Quick",
+        "position":77,
+        "teamNum":191,
+        "teamName":"Baker? I hardly know her!",
+        "division":"",
+        "time":"51:45.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Hughson",
+        "position":78,
+        "teamNum":440,
+        "teamName":"Samson Rope Technologies",
+        "division":"",
+        "time":"51:50.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tom Petersen",
+        "position":79,
+        "teamNum":495,
+        "teamName":"GRUBS PAIN PARADE",
+        "division":"",
+        "time":"51:51.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Colin Amos",
+        "position":80,
+        "teamNum":367,
+        "teamName":"Are we there yet?",
+        "division":"",
+        "time":"51:56.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jason Babcock",
+        "position":81,
+        "teamNum":425,
+        "teamName":"Soy House Pho the Win",
+        "division":"",
+        "time":"52:00.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dan Murphy",
+        "position":82,
+        "teamNum":457,
+        "teamName":"Northwest Hydraulic Consultants - BC",
+        "division":"",
+        "time":"52:01.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Wilson Pu",
+        "position":83,
+        "teamNum":243,
+        "teamName":"Ski to Steez",
+        "division":"",
+        "time":"52:01.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Carson  Jones ",
+        "position":84,
+        "teamNum":349,
+        "teamName":"The Loosest Units",
+        "division":"",
+        "time":"52:04.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Colby Johnson",
+        "position":85,
+        "teamNum":137,
+        "teamName":"Good Vibes Only",
+        "division":"",
+        "time":"52:06.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jeff McConaughy",
+        "position":86,
+        "teamNum":500,
+        "teamName":"Peoples Bank",
+        "division":"",
+        "time":"52:08.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tod Sleeman",
+        "position":87,
+        "teamNum":352,
+        "teamName":"Ellie\u2019s Little Baddies ",
+        "division":"",
+        "time":"52:13.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jesse Pell",
+        "position":88,
+        "teamNum":168,
+        "teamName":"7 Ferns and a Wildflower",
+        "division":"",
+        "time":"52:13.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stewart Gray",
+        "position":89,
+        "teamNum":161,
+        "teamName":"8 Guys, 1 Canoe",
+        "division":"",
+        "time":"52:16.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Charles Linneman",
+        "position":90,
+        "teamNum":218,
+        "teamName":"Rec Reqs Met",
+        "division":"",
+        "time":"52:18.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh Lambert",
+        "position":91,
+        "teamNum":47,
+        "teamName":"Peacehealth Cardiology",
+        "division":"",
+        "time":"52:22.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Anna Trakhman",
+        "position":92,
+        "teamNum":64,
+        "teamName":"Money on the dash ",
+        "division":"",
+        "time":"52:23.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jack McCallum",
+        "position":93,
+        "teamNum":307,
+        "teamName":"BrewSKI to BarSEAt",
+        "division":"",
+        "time":"52:30.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Derek Bronson",
+        "position":94,
+        "teamNum":166,
+        "teamName":"Bellingham Athletic Club",
+        "division":"",
+        "time":"52:30.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Marie Beaver",
+        "position":95,
+        "teamNum":65,
+        "teamName":"The Real Housewives of Whatcom County",
+        "division":"",
+        "time":"52:36.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":" Ted Carlson",
+        "position":96,
+        "teamNum":101,
+        "teamName":"City Haul",
+        "division":"",
+        "time":"52:37.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jacob Brandner",
+        "position":97,
+        "teamNum":212,
+        "teamName":"The Nerd Clusters",
+        "division":"",
+        "time":"52:43.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dawson Bowhay",
+        "position":98,
+        "teamNum":441,
+        "teamName":"Slurry in a Hurry",
+        "division":"",
+        "time":"52:44.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Joseph Kaming-Thanassi",
+        "position":99,
+        "teamNum":362,
+        "teamName":"Pauly D and Massimo are in love ",
+        "division":"",
+        "time":"52:49.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dan  Sheehan",
+        "position":100,
+        "teamNum":223,
+        "teamName":"Sweet As Waffles",
+        "division":"",
+        "time":"52:59.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"amber itle",
+        "position":101,
+        "teamNum":80,
+        "teamName":"On Your Left",
+        "division":"",
+        "time":"52:59.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cameron Howard",
+        "position":102,
+        "teamNum":49,
+        "teamName":"Poly's Powder Pedal Paddlers",
+        "division":"",
+        "time":"53:09.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Drew Nishiyama",
+        "position":103,
+        "teamNum":219,
+        "teamName":"DRIVEN ATHLETICS - GNARLY",
+        "division":"",
+        "time":"53:14.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lucas  Cannizzaro",
+        "position":104,
+        "teamNum":479,
+        "teamName":"The Kids Aren't Alright ",
+        "division":"",
+        "time":"53:15.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stacey Haveman",
+        "position":105,
+        "teamNum":88,
+        "teamName":"DRIVEN ATHLETICS - TUBULAR",
+        "division":"",
+        "time":"53:31.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Travis Mang",
+        "position":106,
+        "teamNum":174,
+        "teamName":"Ski to C300",
+        "division":"",
+        "time":"53:32.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Francis Guitart",
+        "position":107,
+        "teamNum":240,
+        "teamName":"Goose!",
+        "division":"",
+        "time":"53:34.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lane Covington",
+        "position":108,
+        "teamNum":208,
+        "teamName":"Beach Cat Brewing",
+        "division":"",
+        "time":"53:36.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Curtis Whittle",
+        "position":109,
+        "teamNum":443,
+        "teamName":"High Vibes",
+        "division":"",
+        "time":"53:42.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ethan Russell",
+        "position":110,
+        "teamNum":281,
+        "teamName":"Slurp Slippers",
+        "division":"",
+        "time":"53:48.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex Martenka",
+        "position":111,
+        "teamNum":238,
+        "teamName":"Arlis\u2019s Restaurant  ",
+        "division":"",
+        "time":"53:49.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean Grealish",
+        "position":112,
+        "teamNum":336,
+        "teamName":"Ibprofun",
+        "division":"",
+        "time":"53:55.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cory Geerdts",
+        "position":113,
+        "teamNum":27,
+        "teamName":"5 O\u2019Clock Somewhere",
+        "division":"",
+        "time":"53:59.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Rich Cochrane",
+        "position":114,
+        "teamNum":8,
+        "teamName":"Quiet Professionals",
+        "division":"",
+        "time":"54:00.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Erika Peterson",
+        "position":115,
+        "teamNum":48,
+        "teamName":"Birdemic",
+        "division":"",
+        "time":"54:05.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Malio Nelson",
+        "position":116,
+        "teamNum":61,
+        "teamName":"D1 Haters",
+        "division":"",
+        "time":"54:06.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jason Slye",
+        "position":117,
+        "teamNum":181,
+        "teamName":"Speed Sold Separately",
+        "division":"",
+        "time":"54:10.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jason Newell",
+        "position":118,
+        "teamNum":264,
+        "teamName":"Is This The Krusty Krab?",
+        "division":"",
+        "time":"54:12.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jeff  DeWitt",
+        "position":119,
+        "teamNum":501,
+        "teamName":"American Canoe Association Veterans",
+        "division":"",
+        "time":"54:15.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"E'lana Ecker",
+        "position":120,
+        "teamNum":91,
+        "teamName":"Bellingham Senior Activity Center",
+        "division":"",
+        "time":"54:24.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Rudolph",
+        "position":121,
+        "teamNum":207,
+        "teamName":"Murkey Sizemores ",
+        "division":"",
+        "time":"54:26.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Max Stecher",
+        "position":122,
+        "teamNum":213,
+        "teamName":"Risky Biscuits",
+        "division":"",
+        "time":"54:26.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Peter Streit",
+        "position":123,
+        "teamNum":165,
+        "teamName":"All the Peeps",
+        "division":"",
+        "time":"54:29.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Riley Coghlan",
+        "position":124,
+        "teamNum":333,
+        "teamName":"Chris in Shorts",
+        "division":"",
+        "time":"54:43.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nick Sackman",
+        "position":125,
+        "teamNum":329,
+        "teamName":"The Spud Squad: Unpeeled ",
+        "division":"",
+        "time":"54:57.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dom Ferro",
+        "position":126,
+        "teamNum":59,
+        "teamName":"The Katz Pajamas ",
+        "division":"",
+        "time":"55:00.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josephine Hegeberg",
+        "position":127,
+        "teamNum":300,
+        "teamName":"Nacho Average Team",
+        "division":"",
+        "time":"55:05.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Wright",
+        "position":128,
+        "teamNum":22,
+        "teamName":"The Lover's Eight",
+        "division":"",
+        "time":"55:08.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alan Arnett",
+        "position":129,
+        "teamNum":498,
+        "teamName":"Barkley Village People",
+        "division":"",
+        "time":"55:08.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jacob Thompson ",
+        "position":130,
+        "teamNum":239,
+        "teamName":"WA-AK Attack!",
+        "division":"",
+        "time":"55:15.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Claire Ralston",
+        "position":131,
+        "teamNum":198,
+        "teamName":"Fringe racing",
+        "division":"",
+        "time":"55:15.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Allison Goodwin-Wilson",
+        "position":132,
+        "teamNum":403,
+        "teamName":"Beers and Bros",
+        "division":"",
+        "time":"55:18.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Misasi",
+        "position":133,
+        "teamNum":332,
+        "teamName":"Banana bread people",
+        "division":"",
+        "time":"55:19.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cody Sorenson",
+        "position":134,
+        "teamNum":448,
+        "teamName":"Janicki Tool Tech Titans",
+        "division":"",
+        "time":"55:19.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dan Larson",
+        "position":135,
+        "teamNum":152,
+        "teamName":"Men of Mcconnell",
+        "division":"",
+        "time":"55:21.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Todd Durkee",
+        "position":136,
+        "teamNum":129,
+        "teamName":"Globe Corp, Inc.",
+        "division":"",
+        "time":"55:22.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brian Campbell",
+        "position":137,
+        "teamNum":466,
+        "teamName":"Hot Tomatoes",
+        "division":"",
+        "time":"55:22.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Derek Brock",
+        "position":138,
+        "teamNum":386,
+        "teamName":"Ski-sy Does It",
+        "division":"",
+        "time":"55:23.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Simon DeJong",
+        "position":139,
+        "teamNum":460,
+        "teamName":"Cousin Clan",
+        "division":"",
+        "time":"55:25.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Malcom Lee",
+        "position":140,
+        "teamNum":374,
+        "teamName":"VALLEY TO SOUND",
+        "division":"",
+        "time":"55:35.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Craig Lacy",
+        "position":141,
+        "teamNum":126,
+        "teamName":"The Ranch",
+        "division":"",
+        "time":"55:36.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jeremy Caplan",
+        "position":142,
+        "teamNum":13,
+        "teamName":"Whatcom Family Medicine - Open",
+        "division":"",
+        "time":"55:41.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Virgile Isnardi",
+        "position":143,
+        "teamNum":108,
+        "teamName":"The Alpine Baguettes",
+        "division":"",
+        "time":"55:41.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Justine Kaseman",
+        "position":144,
+        "teamNum":309,
+        "teamName":"Where do people source their boats?",
+        "division":"",
+        "time":"55:46.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Adam  Nichols",
+        "position":145,
+        "teamNum":445,
+        "teamName":"EFFA",
+        "division":"",
+        "time":"55:49.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Adam Richardson",
+        "position":146,
+        "teamNum":31,
+        "teamName":"1 for the money, 4 for the show",
+        "division":"",
+        "time":"55:56.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hunter Hassig",
+        "position":147,
+        "teamNum":454,
+        "teamName":"Puget Sound Energy",
+        "division":"",
+        "time":"55:56.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Miguel Lopez",
+        "position":148,
+        "teamNum":272,
+        "teamName":"You look like a rat with glasses",
+        "division":"",
+        "time":"55:57.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jacob Jackson",
+        "position":149,
+        "teamNum":334,
+        "teamName":"Chris in Shorter Shorts",
+        "division":"",
+        "time":"56:00.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eric Oliver",
+        "position":150,
+        "teamNum":295,
+        "teamName":"Indie Gals & New England's Finest",
+        "division":"",
+        "time":"56:01.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Greg Schott",
+        "position":151,
+        "teamNum":237,
+        "teamName":"Bandu",
+        "division":"",
+        "time":"56:05.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dane Springmeyer",
+        "position":152,
+        "teamNum":45,
+        "teamName":"Stinging Nettles",
+        "division":"",
+        "time":"56:07.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Allen Rishel",
+        "position":153,
+        "teamNum":296,
+        "teamName":"Napping Turtles",
+        "division":"",
+        "time":"56:09.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ronan Perry",
+        "position":154,
+        "teamNum":156,
+        "teamName":"Peak Freaks",
+        "division":"",
+        "time":"56:12.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jamie  Smith",
+        "position":155,
+        "teamNum":345,
+        "teamName":"Ellie's Little Biddies ",
+        "division":"",
+        "time":"56:32.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andrew Duncan",
+        "position":156,
+        "teamNum":302,
+        "teamName":"Racey McRaceFace",
+        "division":"",
+        "time":"56:32.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Liam Horner",
+        "position":157,
+        "teamNum":247,
+        "teamName":"Desolation Angels",
+        "division":"",
+        "time":"56:33.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aiden Harris",
+        "position":158,
+        "teamNum":477,
+        "teamName":"ski till we pee",
+        "division":"",
+        "time":"56:35.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Albert White",
+        "position":159,
+        "teamNum":183,
+        "teamName":"Zoogers",
+        "division":"",
+        "time":"56:36.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lucie  Salsbury",
+        "position":160,
+        "teamNum":51,
+        "teamName":"Skida Cheeta Babes",
+        "division":"",
+        "time":"56:36.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ashley Woodrum",
+        "position":161,
+        "teamNum":429,
+        "teamName":"Exxel Pacific",
+        "division":"",
+        "time":"56:40.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan Schultheis",
+        "position":162,
+        "teamNum":439,
+        "teamName":"Alpha Dogs",
+        "division":"",
+        "time":"56:42.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jacob Isaacson",
+        "position":163,
+        "teamNum":172,
+        "teamName":"Pebble Wrestlers Go Multisporting",
+        "division":"",
+        "time":"56:52.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Claire Vogel",
+        "position":164,
+        "teamNum":370,
+        "teamName":"Cuervo no chafers",
+        "division":"",
+        "time":"56:53.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Courtney Starks",
+        "position":165,
+        "teamNum":68,
+        "teamName":"Babe Train",
+        "division":"",
+        "time":"56:59.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan Bahm",
+        "position":166,
+        "teamNum":371,
+        "teamName":"Ridiculous Speed",
+        "division":"",
+        "time":"57:02.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Connor Nathan",
+        "position":167,
+        "teamNum":204,
+        "teamName":"Bonney Lake Worship Group",
+        "division":"",
+        "time":"57:08.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Allie Scrivener",
+        "position":168,
+        "teamNum":338,
+        "teamName":"MasterBakers (M&K Ready Mix)",
+        "division":"",
+        "time":"57:11.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Markus Virta",
+        "position":169,
+        "teamNum":274,
+        "teamName":"Jolly Jezzercisers",
+        "division":"",
+        "time":"57:27.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tristan Steffen",
+        "position":170,
+        "teamNum":480,
+        "teamName":"Oly",
+        "division":"",
+        "time":"57:44.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Maggie Burke",
+        "position":171,
+        "teamNum":410,
+        "teamName":"Scrambled Legs",
+        "division":"",
+        "time":"57:49.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jon Pickett",
+        "position":172,
+        "teamNum":455,
+        "teamName":"Soundview Consultants ",
+        "division":"",
+        "time":"57:50.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jeff Weinreb",
+        "position":173,
+        "teamNum":436,
+        "teamName":"Proliance Pacific Rim",
+        "division":"",
+        "time":"57:55.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan Hyde",
+        "position":174,
+        "teamNum":38,
+        "teamName":"Placeholder For Team Name",
+        "division":"",
+        "time":"57:56.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"James Harley",
+        "position":175,
+        "teamNum":105,
+        "teamName":"NON SIBI SED ALIIS",
+        "division":"",
+        "time":"57:58.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Audrey Limbach",
+        "position":176,
+        "teamNum":360,
+        "teamName":"Erin Baker's",
+        "division":"",
+        "time":"58:02.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mason  Locknane",
+        "position":177,
+        "teamNum":469,
+        "teamName":"Locknane Athletic Medicine",
+        "division":"",
+        "time":"58:02.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Shari Sjogren",
+        "position":178,
+        "teamNum":158,
+        "teamName":"Middlemarch to the Sea",
+        "division":"",
+        "time":"58:03.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Katherine Feldmann",
+        "position":179,
+        "teamNum":393,
+        "teamName":"The Girly Pops ",
+        "division":"",
+        "time":"58:06.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jordan Lowe",
+        "position":180,
+        "teamNum":10,
+        "teamName":"GAR Magenta",
+        "division":"",
+        "time":"58:17.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ben Ursel",
+        "position":181,
+        "teamNum":56,
+        "teamName":"something better than last year",
+        "division":"",
+        "time":"58:21.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kenny Herbst",
+        "position":182,
+        "teamNum":224,
+        "teamName":"Team Dinoco",
+        "division":"",
+        "time":"58:23.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Travis  Shaw",
+        "position":183,
+        "teamNum":201,
+        "teamName":"Tumwater Shadies",
+        "division":"",
+        "time":"58:29.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Peyton Colee",
+        "position":184,
+        "teamNum":398,
+        "teamName":"Slaydies ",
+        "division":"",
+        "time":"58:31.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mindii Hunsaker",
+        "position":185,
+        "teamNum":413,
+        "teamName":"Reverse Ski Girl ",
+        "division":"",
+        "time":"58:41.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Craig Stephens",
+        "position":186,
+        "teamNum":83,
+        "teamName":"Don't Call It a Comeback ",
+        "division":"",
+        "time":"58:45.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Blaine  Glasgow",
+        "position":187,
+        "teamNum":40,
+        "teamName":"Half natty daddies ",
+        "division":"",
+        "time":"58:51.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dave Hinton ",
+        "position":188,
+        "teamNum":317,
+        "teamName":"Glizzy ",
+        "division":"",
+        "time":"58:51.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Isadore Dodard Friedman",
+        "position":189,
+        "teamNum":119,
+        "teamName":"Wokaz",
+        "division":"",
+        "time":"58:53.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aaron Chambers",
+        "position":190,
+        "teamNum":331,
+        "teamName":"Em's Birthday Entourage",
+        "division":"",
+        "time":"58:55.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kyle Knudson",
+        "position":191,
+        "teamNum":113,
+        "teamName":"Doc Racer",
+        "division":"",
+        "time":"58:58.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kathryn Farabaugh",
+        "position":192,
+        "teamNum":303,
+        "teamName":"Sephora",
+        "division":"",
+        "time":"59:04.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Annie Wilfong",
+        "position":193,
+        "teamNum":426,
+        "teamName":"The Rack Pack",
+        "division":"",
+        "time":"59:09.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kelsey Hackem",
+        "position":194,
+        "teamNum":74,
+        "teamName":"Hypegirls",
+        "division":"",
+        "time":"59:10.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Monika Sobieszek",
+        "position":195,
+        "teamNum":121,
+        "teamName":"My Beasts ",
+        "division":"",
+        "time":"59:13.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Carmen Jackson",
+        "position":196,
+        "teamNum":463,
+        "teamName":"Jacksons speak louder than words",
+        "division":"",
+        "time":"59:15.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tim Bond",
+        "position":197,
+        "teamNum":175,
+        "teamName":"Pat's Dr Pepper team",
+        "division":"",
+        "time":"59:23.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Darrell Greathouse",
+        "position":198,
+        "teamNum":499,
+        "teamName":"Green Eggs and Bellingham",
+        "division":"",
+        "time":"59:23.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"kate Williams",
+        "position":199,
+        "teamNum":346,
+        "teamName":"Nuthin\u2019 But a Ski Thang ",
+        "division":"",
+        "time":"59:23.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mitch Datlow",
+        "position":200,
+        "teamNum":133,
+        "teamName":"We'll Be Faster Next Year",
+        "division":"",
+        "time":"59:31.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Colin Mateer",
+        "position":201,
+        "teamNum":351,
+        "teamName":"Maddie & The Misfits",
+        "division":"",
+        "time":"59:33.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kayla  Kaiser ",
+        "position":202,
+        "teamNum":70,
+        "teamName":"Bellingham Firefighters team two",
+        "division":"",
+        "time":"59:33.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Evan Kaseman",
+        "position":203,
+        "teamNum":6,
+        "teamName":"Codec Avatars",
+        "division":"",
+        "time":"59:34.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"William Henagan",
+        "position":204,
+        "teamNum":341,
+        "teamName":"JoJo's Angels",
+        "division":"",
+        "time":"59:37.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ollie Harrison",
+        "position":205,
+        "teamNum":320,
+        "teamName":"Donuts",
+        "division":"",
+        "time":"59:39.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andy  Bunn",
+        "position":206,
+        "teamNum":491,
+        "teamName":"Darwin's Bulldogs",
+        "division":"",
+        "time":"59:43.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Grace Spann",
+        "position":207,
+        "teamNum":327,
+        "teamName":"Here for Even More Beer ",
+        "division":"",
+        "time":"59:46.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kess Kozak",
+        "position":208,
+        "teamNum":104,
+        "teamName":"WWU Men's Rugby",
+        "division":"",
+        "time":"59:49.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stephanie Keske",
+        "position":209,
+        "teamNum":44,
+        "teamName":"Bellingham Mountain Rescue",
+        "division":"",
+        "time":"59:51.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex Rice",
+        "position":210,
+        "teamNum":343,
+        "teamName":"Lilac City",
+        "division":"",
+        "time":"59:56.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Greg Lewis",
+        "position":211,
+        "teamNum":217,
+        "teamName":"RAM Construction",
+        "division":"",
+        "time":"59:56.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Noel Jameson",
+        "position":212,
+        "teamNum":11,
+        "teamName":"Blue Bird Blowers",
+        "division":"",
+        "time":"59:57.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Angie Titus",
+        "position":213,
+        "teamNum":468,
+        "teamName":"OFY",
+        "division":"",
+        "time":"59:59.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sammy Hignellstark",
+        "position":214,
+        "teamNum":347,
+        "teamName":"Loco 4loco",
+        "division":"",
+        "time":"1:00:04.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chris Soncarty",
+        "position":215,
+        "teamNum":283,
+        "teamName":"Ping Pong Club",
+        "division":"",
+        "time":"1:00:15.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"David Shoultz",
+        "position":216,
+        "teamNum":140,
+        "teamName":"Uncontrolled Descent",
+        "division":"",
+        "time":"1:00:16.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Luke Swanson",
+        "position":217,
+        "teamNum":459,
+        "teamName":"Sasquatch Sprinters",
+        "division":"",
+        "time":"1:00:20.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Deb Johnson",
+        "position":218,
+        "teamNum":262,
+        "teamName":"Where's Marv?",
+        "division":"",
+        "time":"1:00:29.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kate  Rose",
+        "position":219,
+        "teamNum":285,
+        "teamName":"Spiny Lumpsuckers ",
+        "division":"",
+        "time":"1:00:31.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean Lee",
+        "position":220,
+        "teamNum":216,
+        "teamName":"We Pee in the Sea",
+        "division":"",
+        "time":"1:00:33.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aaron Good",
+        "position":221,
+        "teamNum":211,
+        "teamName":"Meatheart",
+        "division":"",
+        "time":"1:00:33.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Delaney Adams",
+        "position":222,
+        "teamNum":422,
+        "teamName":"Surfrider Sea Sirens",
+        "division":"",
+        "time":"1:00:36.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Holly Lemay",
+        "position":223,
+        "teamNum":232,
+        "teamName":"Savage Pandas",
+        "division":"",
+        "time":"1:00:37.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Casey Lougheed",
+        "position":224,
+        "teamNum":306,
+        "teamName":"Hedgehog the Loaf Dogs",
+        "division":"",
+        "time":"1:00:39.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Pete Gibson",
+        "position":225,
+        "teamNum":260,
+        "teamName":"Off The Couch",
+        "division":"",
+        "time":"1:00:40.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Marley Smith",
+        "position":226,
+        "teamNum":354,
+        "teamName":"Snow way we\u2019ll win",
+        "division":"",
+        "time":"1:00:41.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sky  Hall",
+        "position":227,
+        "teamNum":417,
+        "teamName":"Hot Tacos ",
+        "division":"",
+        "time":"1:00:43.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cameron Carlson",
+        "position":228,
+        "teamNum":293,
+        "teamName":"SportBOI ",
+        "division":"",
+        "time":"1:00:45.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Connor Mueth",
+        "position":229,
+        "teamNum":149,
+        "teamName":"Darwin's Revenge",
+        "division":"",
+        "time":"1:00:51.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Zak Adland",
+        "position":230,
+        "teamNum":462,
+        "teamName":"Family Tries",
+        "division":"",
+        "time":"1:00:53.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Evan  D'Oro  ",
+        "position":231,
+        "teamNum":444,
+        "teamName":"The Logjammers ",
+        "division":"",
+        "time":"1:00:57.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nick Mabbutt",
+        "position":232,
+        "teamNum":314,
+        "teamName":"Here for the Free T-Shirt",
+        "division":"",
+        "time":"1:00:58.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex Lyon",
+        "position":233,
+        "teamNum":169,
+        "teamName":"Lichtenberg Guys",
+        "division":"",
+        "time":"1:01:05.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Melissa Bertocchini",
+        "position":234,
+        "teamNum":75,
+        "teamName":"Bell Belles",
+        "division":"",
+        "time":"1:01:10.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lars Olson",
+        "position":235,
+        "teamNum":355,
+        "teamName":"The Uncrustables",
+        "division":"",
+        "time":"1:01:11.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Haley Carnahan",
+        "position":236,
+        "teamNum":33,
+        "teamName":"Roscals",
+        "division":"",
+        "time":"1:01:11.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Anna Poulton",
+        "position":237,
+        "teamNum":409,
+        "teamName":"Ski to She",
+        "division":"",
+        "time":"1:01:13.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Maggie Walsh",
+        "position":238,
+        "teamNum":147,
+        "teamName":"Picnic Girls",
+        "division":"",
+        "time":"1:01:15.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ben McNett",
+        "position":239,
+        "teamNum":225,
+        "teamName":"37.5% Holmquist",
+        "division":"",
+        "time":"1:01:22.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Spencer Shear",
+        "position":240,
+        "teamNum":248,
+        "teamName":"Changeit",
+        "division":"",
+        "time":"1:01:30.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Daniel Godfrey",
+        "position":241,
+        "teamNum":157,
+        "teamName":"Salish Seapeople",
+        "division":"",
+        "time":"1:01:31.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brian Hannan",
+        "position":242,
+        "teamNum":194,
+        "teamName":"Friends of Maya",
+        "division":"",
+        "time":"1:01:33.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dave Bishop",
+        "position":243,
+        "teamNum":492,
+        "teamName":"Wander Brewing",
+        "division":"",
+        "time":"1:01:37.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Elizabeth Kubacki",
+        "position":244,
+        "teamNum":344,
+        "teamName":"Chafing the Dream",
+        "division":"",
+        "time":"1:01:37.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Rom Tamondong",
+        "position":245,
+        "teamNum":53,
+        "teamName":"Gondwanaland United",
+        "division":"",
+        "time":"1:01:47.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Coleman Davidson",
+        "position":246,
+        "teamNum":227,
+        "teamName":"~we should think of a team name~",
+        "division":"",
+        "time":"1:01:50.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mira Peterson",
+        "position":247,
+        "teamNum":322,
+        "teamName":"The Honey Bucket",
+        "division":"",
+        "time":"1:01:52.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chris Hastings-Spital",
+        "position":248,
+        "teamNum":118,
+        "teamName":"The Weasels",
+        "division":"",
+        "time":"1:01:53.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Amanda Rhine",
+        "position":249,
+        "teamNum":406,
+        "teamName":"Beastie Belles",
+        "division":"",
+        "time":"1:01:57.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Gabe Garbek",
+        "position":250,
+        "teamNum":363,
+        "teamName":"Skiyii! to Seamen",
+        "division":"",
+        "time":"1:01:57.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jessy  Tweit",
+        "position":251,
+        "teamNum":89,
+        "teamName":"DRIVEN ATHLETICS - AWESOME",
+        "division":"",
+        "time":"1:02:00.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kirstin Anderson",
+        "position":252,
+        "teamNum":67,
+        "teamName":"Ski to Sea Sissies",
+        "division":"",
+        "time":"1:02:00.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eric Cohen",
+        "position":253,
+        "teamNum":42,
+        "teamName":"Filthy Casual",
+        "division":"",
+        "time":"1:02:01.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Colby Vavolotis",
+        "position":254,
+        "teamNum":124,
+        "teamName":"Bronson's Baddies",
+        "division":"",
+        "time":"1:02:02.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matthew Beaver",
+        "position":255,
+        "teamNum":291,
+        "teamName":"Good Question",
+        "division":"",
+        "time":"1:02:03.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Juha Luoto",
+        "position":256,
+        "teamNum":128,
+        "teamName":"Hullut Oravat",
+        "division":"",
+        "time":"1:02:04.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kale Spina",
+        "position":257,
+        "teamNum":269,
+        "teamName":"Nardi Party",
+        "division":"",
+        "time":"1:02:09.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Erick Laine",
+        "position":258,
+        "teamNum":471,
+        "teamName":"Heck We Need Moore Laines",
+        "division":"",
+        "time":"1:02:11.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Keith Harrison",
+        "position":259,
+        "teamNum":258,
+        "teamName":"Blame the Kids",
+        "division":"",
+        "time":"1:02:12.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Scott Silviera",
+        "position":260,
+        "teamNum":130,
+        "teamName":"Swifties to Sea",
+        "division":"",
+        "time":"1:02:12.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Zoe Guilmette",
+        "position":261,
+        "teamNum":289,
+        "teamName":"Gaggle of Geezers",
+        "division":"",
+        "time":"1:02:20.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Anthony Palmieri",
+        "position":262,
+        "teamNum":461,
+        "teamName":"Powered by Fudge",
+        "division":"",
+        "time":"1:02:20.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean sean.faber@protonmail.com",
+        "position":263,
+        "teamNum":270,
+        "teamName":"Geneva Ghomes",
+        "division":"",
+        "time":"1:02:21.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jalen Sekhon",
+        "position":264,
+        "teamNum":136,
+        "teamName":"Humble Hundal\u2019s",
+        "division":"",
+        "time":"1:02:30.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Maddie Gordon",
+        "position":265,
+        "teamNum":233,
+        "teamName":"The Rohirim",
+        "division":"",
+        "time":"1:02:37.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Robby Andersen",
+        "position":266,
+        "teamNum":103,
+        "teamName":"Cold cuts and mayo",
+        "division":"",
+        "time":"1:02:37.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh Dunford",
+        "position":267,
+        "teamNum":146,
+        "teamName":"8 Musketeers ",
+        "division":"",
+        "time":"1:02:39.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aaron  Bauer",
+        "position":268,
+        "teamNum":256,
+        "teamName":"Safety Third",
+        "division":"",
+        "time":"1:02:40.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jake  Chastain",
+        "position":269,
+        "teamNum":46,
+        "teamName":"Team de Haan",
+        "division":"",
+        "time":"1:02:40.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Grady Adams",
+        "position":270,
+        "teamNum":287,
+        "teamName":"Team Big Tetons",
+        "division":"",
+        "time":"1:02:40.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Wesley Wehrle",
+        "position":271,
+        "teamNum":18,
+        "teamName":"Midwestern Anonymous ",
+        "division":"",
+        "time":"1:02:50.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"William Perry",
+        "position":272,
+        "teamNum":368,
+        "teamName":"SlowMotion2theOcean",
+        "division":"",
+        "time":"1:02:54.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kort Maeda",
+        "position":273,
+        "teamNum":304,
+        "teamName":"sloths in sleeping bags",
+        "division":"",
+        "time":"1:02:57.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Daniel Hofbauer",
+        "position":274,
+        "teamNum":431,
+        "teamName":"Lynden Door",
+        "division":"",
+        "time":"1:03:00.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brennan Nowak",
+        "position":275,
+        "teamNum":442,
+        "teamName":"Associated Earth Sciences Inc.",
+        "division":"",
+        "time":"1:03:01.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Pedro Cameselle",
+        "position":276,
+        "teamNum":254,
+        "teamName":"Don't Stop Us Now!",
+        "division":"",
+        "time":"1:03:03.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan Honey",
+        "position":277,
+        "teamNum":60,
+        "teamName":"DRIVEN ATHLETICS - WAY COOL",
+        "division":"",
+        "time":"1:03:07.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Leo Cohen",
+        "position":278,
+        "teamNum":41,
+        "teamName":"Dude I Love Frogs",
+        "division":"",
+        "time":"1:03:10.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ian  Townson",
+        "position":279,
+        "teamNum":315,
+        "teamName":"Sea Panthers",
+        "division":"",
+        "time":"1:03:21.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sadie Van den Bogaerde",
+        "position":280,
+        "teamNum":279,
+        "teamName":"best skiers on the mountain",
+        "division":"",
+        "time":"1:03:25.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dylan Johnson",
+        "position":281,
+        "teamNum":476,
+        "teamName":"Cheese raiders of doom ",
+        "division":"",
+        "time":"1:03:26.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andreas DeKoster",
+        "position":282,
+        "teamNum":280,
+        "teamName":"Nacho Average Team (Extra Cheese)",
+        "division":"",
+        "time":"1:03:27.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hannah Hein",
+        "position":283,
+        "teamNum":405,
+        "teamName":"Legs Mis\u00e9rables",
+        "division":"",
+        "time":"1:03:31.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kai  Clarke",
+        "position":284,
+        "teamNum":115,
+        "teamName":"The 26th of May movement",
+        "division":"",
+        "time":"1:03:33.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Conor Lanahan",
+        "position":285,
+        "teamNum":234,
+        "teamName":"Ski to Sea All Stars",
+        "division":"",
+        "time":"1:03:50.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Erinn Haley",
+        "position":286,
+        "teamNum":73,
+        "teamName":"American Canoe Association Women",
+        "division":"",
+        "time":"1:03:55.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kenny  Pyne",
+        "position":287,
+        "teamNum":30,
+        "teamName":"Couch Surfin' USA",
+        "division":"",
+        "time":"1:03:58.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Fiona Drum",
+        "position":288,
+        "teamNum":58,
+        "teamName":"HI MOM",
+        "division":"",
+        "time":"1:04:00.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Amy Hart",
+        "position":289,
+        "teamNum":50,
+        "teamName":"Bombastic Side Eye",
+        "division":"",
+        "time":"1:04:00.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean Michael",
+        "position":290,
+        "teamNum":142,
+        "teamName":"Keep Portland Weird",
+        "division":"",
+        "time":"1:04:05.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Blake Hansen",
+        "position":291,
+        "teamNum":408,
+        "teamName":"Lick My Glit",
+        "division":"",
+        "time":"1:04:07.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hugh McGough",
+        "position":292,
+        "teamNum":203,
+        "teamName":"The Dingleberry Fairies",
+        "division":"",
+        "time":"1:04:13.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brenna McDaniel",
+        "position":293,
+        "teamNum":176,
+        "teamName":"Best team ever",
+        "division":"",
+        "time":"1:04:14.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andrew Thurber",
+        "position":294,
+        "teamNum":9,
+        "teamName":"Tardigraders",
+        "division":"",
+        "time":"1:04:20.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alexander Tellekson",
+        "position":295,
+        "teamNum":138,
+        "teamName":"Relay-ted",
+        "division":"",
+        "time":"1:04:21.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hailey Linville",
+        "position":296,
+        "teamNum":72,
+        "teamName":"Crank My Shaft",
+        "division":"",
+        "time":"1:04:25.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Gene Dalferes ",
+        "position":297,
+        "teamNum":186,
+        "teamName":"Fresh off the Couch",
+        "division":"",
+        "time":"1:04:34.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eric Gallo",
+        "position":298,
+        "teamNum":275,
+        "teamName":"Joel's Mogul Meowsters",
+        "division":"",
+        "time":"1:04:34.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"todd luther",
+        "position":299,
+        "teamNum":273,
+        "teamName":"TulipTeers",
+        "division":"",
+        "time":"1:04:40.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Michael Bloom",
+        "position":300,
+        "teamNum":308,
+        "teamName":"Here For The Ap-race (Apr\u00e8s)",
+        "division":"",
+        "time":"1:04:45.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brooke McNally",
+        "position":301,
+        "teamNum":297,
+        "teamName":"Absher Construction Hammer Time",
+        "division":"",
+        "time":"1:04:46.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Charlie Jefferies",
+        "position":302,
+        "teamNum":111,
+        "teamName":"ORCA Team",
+        "division":"",
+        "time":"1:04:47.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jovanna Talarico",
+        "position":303,
+        "teamNum":414,
+        "teamName":"Peaks and Professors",
+        "division":"",
+        "time":"1:04:49.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Julian  Czopp",
+        "position":304,
+        "teamNum":482,
+        "teamName":"Got fish?",
+        "division":"",
+        "time":"1:04:50.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jake Badalamenti",
+        "position":305,
+        "teamNum":384,
+        "teamName":"Lions, Tigers, and Bears, Oh My",
+        "division":"",
+        "time":"1:04:52.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tyler Calabro",
+        "position":306,
+        "teamNum":222,
+        "teamName":"Snowtorious Bikecurious Canoedlers",
+        "division":"",
+        "time":"1:04:52.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"matt schlough",
+        "position":307,
+        "teamNum":292,
+        "teamName":"Gumby All-Stars",
+        "division":"",
+        "time":"1:04:54.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ellie Bruns",
+        "position":308,
+        "teamNum":389,
+        "teamName":"The Biggest Rippers",
+        "division":"",
+        "time":"1:04:55.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eben Levey",
+        "position":309,
+        "teamNum":259,
+        "teamName":"Baker Babes",
+        "division":"",
+        "time":"1:04:59.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mitch  Williams ",
+        "position":310,
+        "teamNum":120,
+        "teamName":"No Pee Breaks ",
+        "division":"",
+        "time":"1:04:59.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mark Miller",
+        "position":311,
+        "teamNum":229,
+        "teamName":"Flotsam",
+        "division":"",
+        "time":"1:04:59.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Robin Wilder",
+        "position":312,
+        "teamNum":377,
+        "teamName":"Plus Ones ",
+        "division":"",
+        "time":"1:05:07.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Isaac Berthelot",
+        "position":313,
+        "teamNum":366,
+        "teamName":"Wait Up",
+        "division":"",
+        "time":"1:05:07.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alia Khan",
+        "position":314,
+        "teamNum":196,
+        "teamName":"Ski to C-",
+        "division":"",
+        "time":"1:05:10.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ezra Citron",
+        "position":315,
+        "teamNum":154,
+        "teamName":"Hash-Slinging Slashers",
+        "division":"",
+        "time":"1:05:14.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eva D",
+        "position":316,
+        "teamNum":387,
+        "teamName":"Apex Fitness Nw ",
+        "division":"",
+        "time":"1:05:28.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dennis Larkin",
+        "position":317,
+        "teamNum":335,
+        "teamName":"Yellow Aster Butts",
+        "division":"",
+        "time":"1:05:30.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Charlie Barnhart",
+        "position":318,
+        "teamNum":424,
+        "teamName":"Escar-no!",
+        "division":"",
+        "time":"1:05:35.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jennifer Spriggs",
+        "position":319,
+        "teamNum":39,
+        "teamName":"Real Housewives Fan Club",
+        "division":"",
+        "time":"1:05:38.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Henry Head",
+        "position":320,
+        "teamNum":465,
+        "teamName":"Team Betty",
+        "division":"",
+        "time":"1:05:38.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chase Smith",
+        "position":321,
+        "teamNum":205,
+        "teamName":"We Mean Business",
+        "division":"",
+        "time":"1:05:38.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex Hill",
+        "position":322,
+        "teamNum":301,
+        "teamName":"Sporty Barbies",
+        "division":"",
+        "time":"1:05:48.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kateri Rinallo",
+        "position":323,
+        "teamNum":400,
+        "teamName":"Ski\u00f1or-to-Se\u00f1ior",
+        "division":"",
+        "time":"1:05:53.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh Bennion",
+        "position":324,
+        "teamNum":209,
+        "teamName":"Worst Pace Scenario",
+        "division":"",
+        "time":"1:05:54.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Max Peston",
+        "position":325,
+        "teamNum":19,
+        "teamName":"High Octane",
+        "division":"",
+        "time":"1:06:07.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Clifford York",
+        "position":326,
+        "teamNum":170,
+        "teamName":"Station 2 Turbo Racing Team",
+        "division":"",
+        "time":"1:06:09.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Merv Parr",
+        "position":327,
+        "teamNum":265,
+        "teamName":"Nucor-Allspan",
+        "division":"",
+        "time":"1:06:11.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Andrew  Nelson",
+        "position":328,
+        "teamNum":446,
+        "teamName":"Northwest Hydraulic Consultants - WA",
+        "division":"",
+        "time":"1:06:15.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lauren March",
+        "position":329,
+        "teamNum":278,
+        "teamName":"The Lactic Kool-Aid Acid Test",
+        "division":"",
+        "time":"1:06:16.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"William Hawley",
+        "position":330,
+        "teamNum":25,
+        "teamName":"Man I Love Frogs",
+        "division":"",
+        "time":"1:06:17.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Soren Almquist",
+        "position":331,
+        "teamNum":162,
+        "teamName":"Flying Hellfish",
+        "division":"",
+        "time":"1:06:20.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Johnny Lahr",
+        "position":332,
+        "teamNum":435,
+        "teamName":"VECA Electric",
+        "division":"",
+        "time":"1:06:22.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jess Tonsberg",
+        "position":333,
+        "teamNum":97,
+        "teamName":"Derp dog zeph and the humans",
+        "division":"",
+        "time":"1:06:23.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Francois",
+        "position":334,
+        "teamNum":284,
+        "teamName":"Bham and Cheese Sandwiches",
+        "division":"",
+        "time":"1:06:38.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Paul  Peterson",
+        "position":335,
+        "teamNum":434,
+        "teamName":"B Shift ",
+        "division":"",
+        "time":"1:06:48.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Rory McMahon",
+        "position":336,
+        "teamNum":190,
+        "teamName":"Purple Hat Cheetah Shrimp",
+        "division":"",
+        "time":"1:06:58.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh Healey",
+        "position":337,
+        "teamNum":348,
+        "teamName":"Fighting Snails of Snowline",
+        "division":"",
+        "time":"1:07:04.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Elise Rasmussen",
+        "position":338,
+        "teamNum":71,
+        "teamName":"Annealed 4 ever",
+        "division":"",
+        "time":"1:07:09.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Zach Hamlin-Rifai",
+        "position":339,
+        "teamNum":323,
+        "teamName":"Charlie's Angels",
+        "division":"",
+        "time":"1:07:12.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dan Lau",
+        "position":340,
+        "teamNum":189,
+        "teamName":"&BC Party A",
+        "division":"",
+        "time":"1:07:17.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ryan McConnell",
+        "position":341,
+        "teamNum":114,
+        "teamName":"Edmonds Engineering",
+        "division":"",
+        "time":"1:07:24.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Emily  Martin-Shakya",
+        "position":342,
+        "teamNum":353,
+        "teamName":"Out & About",
+        "division":"",
+        "time":"1:07:25.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Steve Chick",
+        "position":343,
+        "teamNum":107,
+        "teamName":"Super 8",
+        "division":"",
+        "time":"1:07:29.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kailey Schillinger-Brokaw",
+        "position":344,
+        "teamNum":318,
+        "teamName":"Twispians",
+        "division":"",
+        "time":"1:07:30.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tom Horton",
+        "position":345,
+        "teamNum":464,
+        "teamName":"The Sportin' Hortons",
+        "division":"",
+        "time":"1:07:49.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Brett Chamberlain",
+        "position":346,
+        "teamNum":171,
+        "teamName":"Salt Water Crocodiles ",
+        "division":"",
+        "time":"1:08:01.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hillary Kaufman",
+        "position":347,
+        "teamNum":155,
+        "teamName":"Heading Weast",
+        "division":"",
+        "time":"1:08:06.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Bryan Carriker",
+        "position":348,
+        "teamNum":122,
+        "teamName":"Insert clever name here",
+        "division":"",
+        "time":"1:08:11.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"David Urbina",
+        "position":349,
+        "teamNum":419,
+        "teamName":"Starfish and Coffee",
+        "division":"",
+        "time":"1:08:26.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Gabby Mednick",
+        "position":350,
+        "teamNum":77,
+        "teamName":"glitter girls",
+        "division":"",
+        "time":"1:08:31.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Will Jones",
+        "position":351,
+        "teamNum":449,
+        "teamName":"Janicki Composite Commandos",
+        "division":"",
+        "time":"1:08:33.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Shane Plamondon",
+        "position":352,
+        "teamNum":141,
+        "teamName":"Full Spectrum",
+        "division":"",
+        "time":"1:08:53.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nick Lois",
+        "position":353,
+        "teamNum":282,
+        "teamName":"Half Bakered",
+        "division":"",
+        "time":"1:08:58.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cedric Couder",
+        "position":354,
+        "teamNum":241,
+        "teamName":"Cascadia One Pass",
+        "division":"",
+        "time":"1:08:58.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kevin Tsuchida",
+        "position":355,
+        "teamNum":365,
+        "teamName":"Get Betsy to the Bay",
+        "division":"",
+        "time":"1:09:02.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Paul Bickel",
+        "position":356,
+        "teamNum":255,
+        "teamName":"Mambo Pt. II ",
+        "division":"",
+        "time":"1:09:13.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sarah Snow",
+        "position":357,
+        "teamNum":388,
+        "teamName":"Bonjour Couloir ",
+        "division":"",
+        "time":"1:09:15.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Poindexter",
+        "position":358,
+        "teamNum":164,
+        "teamName":"Eat My Jorts",
+        "division":"",
+        "time":"1:09:31.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kay Taylor",
+        "position":359,
+        "teamNum":214,
+        "teamName":"Leisure Sportsmen",
+        "division":"",
+        "time":"1:09:35.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tim Tabert",
+        "position":360,
+        "teamNum":430,
+        "teamName":"Exxel Pacific Too",
+        "division":"",
+        "time":"1:09:35.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Baine Werny",
+        "position":361,
+        "teamNum":178,
+        "teamName":"NW Chum",
+        "division":"",
+        "time":"1:09:39.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Joel Hahn",
+        "position":362,
+        "teamNum":127,
+        "teamName":"Joggers and Lagers",
+        "division":"",
+        "time":"1:09:40.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Corey Hsu",
+        "position":363,
+        "teamNum":202,
+        "teamName":"Capitol Hill Boys",
+        "division":"",
+        "time":"1:09:40.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Rachel Fricke",
+        "position":364,
+        "teamNum":397,
+        "teamName":"Badass Strawberry Shortski Adventurers",
+        "division":"",
+        "time":"1:09:47.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Anna Thompson",
+        "position":365,
+        "teamNum":364,
+        "teamName":"Rowdy Roosters",
+        "division":"",
+        "time":"1:09:56.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jack Saunders",
+        "position":366,
+        "teamNum":109,
+        "teamName":"We Brought Our Dads",
+        "division":"",
+        "time":"1:10:03.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Pam Fonda",
+        "position":367,
+        "teamNum":21,
+        "teamName":"I'm Givin' It All She's Got, Captain!",
+        "division":"",
+        "time":"1:10:04.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Steve Edvalds",
+        "position":368,
+        "teamNum":145,
+        "teamName":"Tops to hops",
+        "division":"",
+        "time":"1:10:17.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mitchell Everly",
+        "position":369,
+        "teamNum":228,
+        "teamName":"The Ski and The Sea (2024)",
+        "division":"",
+        "time":"1:10:19.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Elizabeth Weeks",
+        "position":370,
+        "teamNum":319,
+        "teamName":"Bilbo Laggins Behind",
+        "division":"",
+        "time":"1:10:21.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lanna Jin",
+        "position":371,
+        "teamNum":192,
+        "teamName":"Washington State Ferries",
+        "division":"",
+        "time":"1:10:28.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Heather Thomson",
+        "position":372,
+        "teamNum":76,
+        "teamName":"whatcom family medicine ladies",
+        "division":"",
+        "time":"1:10:30.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Will Middlebrooks",
+        "position":373,
+        "teamNum":246,
+        "teamName":"Fred Meyer",
+        "division":"",
+        "time":"1:10:52.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Elliot Gray",
+        "position":374,
+        "teamNum":488,
+        "teamName":"Broccalicious",
+        "division":"",
+        "time":"1:10:53.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Craig Coyne",
+        "position":375,
+        "teamNum":132,
+        "teamName":"Burning Bunions",
+        "division":"",
+        "time":"1:10:58.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hannah Hinton",
+        "position":376,
+        "teamNum":197,
+        "teamName":"Off Constantly",
+        "division":"",
+        "time":"1:11:10.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Bob Reitinger",
+        "position":377,
+        "teamNum":230,
+        "teamName":"Jetsam",
+        "division":"",
+        "time":"1:11:11.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mica Gold",
+        "position":378,
+        "teamNum":342,
+        "teamName":"Cocodona 250 Prep Team",
+        "division":"",
+        "time":"1:11:23.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jeffrey Durmer",
+        "position":379,
+        "teamNum":313,
+        "teamName":"Frick-Yeah",
+        "division":"",
+        "time":"1:11:43.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aaron  Anthony",
+        "position":380,
+        "teamNum":82,
+        "teamName":"542 Zoo",
+        "division":"",
+        "time":"1:11:44.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mikaela  Ericksen",
+        "position":381,
+        "teamNum":467,
+        "teamName":"TydalWave",
+        "division":"",
+        "time":"1:11:44.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dustin Mennella",
+        "position":382,
+        "teamNum":195,
+        "teamName":"Pflueger Inc",
+        "division":"",
+        "time":"1:12:04.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chantelle Lyrae",
+        "position":383,
+        "teamNum":310,
+        "teamName":"Prima Mastodonnas",
+        "division":"",
+        "time":"1:12:10.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stanislaus Whitcomb",
+        "position":384,
+        "teamNum":116,
+        "teamName":"Dirty Snoqualmie Rats",
+        "division":"",
+        "time":"1:12:22.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ellie Beckett",
+        "position":385,
+        "teamNum":392,
+        "teamName":"Athenas",
+        "division":"",
+        "time":"1:12:22.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alex  Sauer ",
+        "position":386,
+        "teamNum":100,
+        "teamName":"Fury CEO",
+        "division":"",
+        "time":"1:12:22.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dale Bernstein",
+        "position":387,
+        "teamNum":450,
+        "teamName":"Therapy Ravens",
+        "division":"",
+        "time":"1:12:35.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Josh McMinn",
+        "position":388,
+        "teamNum":180,
+        "teamName":"Washed-Up Athletes",
+        "division":"",
+        "time":"1:12:40.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ilya Ivanov",
+        "position":389,
+        "teamNum":340,
+        "teamName":"Wake & Baker",
+        "division":"",
+        "time":"1:12:42.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Gehrig Uhles",
+        "position":390,
+        "teamNum":252,
+        "teamName":"Tortoises & Hares (Blue)",
+        "division":"",
+        "time":"1:12:42.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ron Doering",
+        "position":391,
+        "teamNum":376,
+        "teamName":"DTF",
+        "division":"",
+        "time":"1:12:48.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sean O'Grady",
+        "position":392,
+        "teamNum":267,
+        "teamName":"But wait there's myrrh",
+        "division":"",
+        "time":"1:13:03.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mary Metcalf",
+        "position":393,
+        "teamNum":90,
+        "teamName":"Mixed Nuts",
+        "division":"",
+        "time":"1:13:42.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ivy N",
+        "position":394,
+        "teamNum":188,
+        "teamName":"&BC Party B",
+        "division":"",
+        "time":"1:13:48.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Michael Beach",
+        "position":395,
+        "teamNum":182,
+        "teamName":"Murder Hornet Hot Sauce",
+        "division":"",
+        "time":"1:13:53.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Danielle Skufca",
+        "position":396,
+        "teamNum":404,
+        "teamName":"Ski to Seeesters",
+        "division":"",
+        "time":"1:13:57.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Rachel Morgan",
+        "position":397,
+        "teamNum":390,
+        "teamName":"The Leisurelete Loons",
+        "division":"",
+        "time":"1:14:22.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"David Bergvelt",
+        "position":398,
+        "teamNum":112,
+        "teamName":"Slog Dogs",
+        "division":"",
+        "time":"1:14:32.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Phil Thompson",
+        "position":399,
+        "teamNum":5,
+        "teamName":"Nordic Death",
+        "division":"",
+        "time":"1:14:46.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jan Rogers",
+        "position":400,
+        "teamNum":321,
+        "teamName":"Alaska All-Stars",
+        "division":"",
+        "time":"1:14:49.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Berndt Jung",
+        "position":401,
+        "teamNum":106,
+        "teamName":"Surprisingly Athletic!",
+        "division":"",
+        "time":"1:14:59.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Michael Cecil",
+        "position":402,
+        "teamNum":93,
+        "teamName":"Whatcom's Wildest",
+        "division":"",
+        "time":"1:15:08.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kevin Zhang ",
+        "position":403,
+        "teamNum":375,
+        "teamName":"Lactic Acid Intolerant",
+        "division":"",
+        "time":"1:16:10.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sydney Mederos",
+        "position":404,
+        "teamNum":87,
+        "teamName":"Plague cowboys",
+        "division":"",
+        "time":"1:17:11.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Tara Saideman",
+        "position":405,
+        "teamNum":411,
+        "teamName":"purple hat cheetah print",
+        "division":"",
+        "time":"1:17:15.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Eric Ren",
+        "position":406,
+        "teamNum":339,
+        "teamName":"Row Roe Rho You're Boot",
+        "division":"",
+        "time":"1:17:24.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Shannon Campbell",
+        "position":407,
+        "teamNum":503,
+        "teamName":"The Not-So Neighbors",
+        "division":"",
+        "time":"1:17:28.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sydney Zeldes",
+        "position":408,
+        "teamNum":250,
+        "teamName":"Metabolize to Freedom ",
+        "division":"",
+        "time":"1:18:03.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Steve Bush",
+        "position":409,
+        "teamNum":261,
+        "teamName":"Vitality--V8",
+        "division":"",
+        "time":"1:18:31.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jessica Sankey",
+        "position":410,
+        "teamNum":266,
+        "teamName":"saxe",
+        "division":"",
+        "time":"1:18:54.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Gabe Berkley",
+        "position":411,
+        "teamNum":215,
+        "teamName":"What's the character limit?Because I wa-",
+        "division":"",
+        "time":"1:18:58.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Christopher Gerwels",
+        "position":412,
+        "teamNum":452,
+        "teamName":"WTBrigade",
+        "division":"",
+        "time":"1:19:13.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lynea Baudino",
+        "position":413,
+        "teamNum":356,
+        "teamName":"Lord of the Skis: Fellowship of the Sea",
+        "division":"",
+        "time":"1:19:17.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dani Biering",
+        "position":414,
+        "teamNum":487,
+        "teamName":"Delivering Strong ",
+        "division":"",
+        "time":"1:19:31.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Amir Freund",
+        "position":415,
+        "teamNum":173,
+        "teamName":"We've Been Robbed",
+        "division":"",
+        "time":"1:19:32.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alexa Johnson",
+        "position":416,
+        "teamNum":470,
+        "teamName":"PB&J",
+        "division":"",
+        "time":"1:19:40.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Marty Neifart",
+        "position":417,
+        "teamNum":206,
+        "teamName":"PlantHoarders",
+        "division":"",
+        "time":"1:19:48.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Aaron Haran",
+        "position":418,
+        "teamNum":326,
+        "teamName":"Shuck Buddies",
+        "division":"",
+        "time":"1:19:55.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Noelle Tripp",
+        "position":419,
+        "teamNum":359,
+        "teamName":"Happy Birthday Olivia!",
+        "division":"",
+        "time":"1:20:08.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chelsea Ericson",
+        "position":420,
+        "teamNum":361,
+        "teamName":"Out With the Gold, In With the New",
+        "division":"",
+        "time":"1:20:29.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Sarah McCauley",
+        "position":421,
+        "teamNum":263,
+        "teamName":"Quigleys Quest",
+        "division":"",
+        "time":"1:20:31.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Chelsea Fries",
+        "position":422,
+        "teamNum":416,
+        "teamName":"Kween County Flames",
+        "division":"",
+        "time":"1:20:44.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Hannah Safouane",
+        "position":423,
+        "teamNum":316,
+        "teamName":"Getting Wiggy With It",
+        "division":"",
+        "time":"1:20:45.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Claire Green",
+        "position":424,
+        "teamNum":257,
+        "teamName":"Indefatigable ",
+        "division":"",
+        "time":"1:20:58.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Avani Reddy",
+        "position":425,
+        "teamNum":394,
+        "teamName":"Sassy Lassies",
+        "division":"",
+        "time":"1:21:03.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mary Forbes",
+        "position":426,
+        "teamNum":358,
+        "teamName":"The 7 Deadly Wins",
+        "division":"",
+        "time":"1:21:30.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Taylor  McCombs",
+        "position":427,
+        "teamNum":372,
+        "teamName":"Slopes & Hoes",
+        "division":"",
+        "time":"1:22:12.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Angela Smith",
+        "position":428,
+        "teamNum":286,
+        "teamName":"South Whatcom Firefighters",
+        "division":"",
+        "time":"1:22:55.9"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Lydia Rush",
+        "position":429,
+        "teamNum":177,
+        "teamName":"Mighty Geoducks",
+        "division":"",
+        "time":"1:23:06.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ellie Mason",
+        "position":430,
+        "teamNum":325,
+        "teamName":"The Snafflehounds",
+        "division":"",
+        "time":"1:23:27.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stuart Mason",
+        "position":431,
+        "teamNum":184,
+        "teamName":"Josh's Hammer",
+        "division":"",
+        "time":"1:24:04.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Teri Rutherford",
+        "position":432,
+        "teamNum":380,
+        "teamName":"The Horse Girls",
+        "division":"",
+        "time":"1:24:47.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Cole Balen",
+        "position":433,
+        "teamNum":475,
+        "teamName":"Kenny-Balen",
+        "division":"",
+        "time":"1:25:08.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Will Pranzini",
+        "position":434,
+        "teamNum":299,
+        "teamName":"Party Animals Going BellingHAM",
+        "division":"",
+        "time":"1:26:24.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dan Pensinger",
+        "position":435,
+        "teamNum":179,
+        "teamName":"The Snoozing Sloths",
+        "division":"",
+        "time":"1:26:38.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mimi McMurray",
+        "position":436,
+        "teamNum":391,
+        "teamName":"Fifth Gear Fr\u00e4uleins",
+        "division":"",
+        "time":"1:26:39.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Ben Harris",
+        "position":437,
+        "teamNum":134,
+        "teamName":"The Reasonable Doubters ",
+        "division":"",
+        "time":"1:27:50.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Dani Ramirez",
+        "position":438,
+        "teamNum":472,
+        "teamName":"Cousin Crew",
+        "division":"",
+        "time":"1:28:24.0"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Edward matyasi",
+        "position":439,
+        "teamNum":428,
+        "teamName":"Triumphantly Triumphant",
+        "division":"",
+        "time":"1:28:47.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stacey Luke",
+        "position":440,
+        "teamNum":151,
+        "teamName":"Biscuit Buttering Buddies",
+        "division":"",
+        "time":"1:28:47.4"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"John Loudermilk",
+        "position":441,
+        "teamNum":489,
+        "teamName":"Fit(ish) over 40",
+        "division":"",
+        "time":"1:28:50.7"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Zach Mlynarczyk",
+        "position":442,
+        "teamNum":95,
+        "teamName":"Tres Leches",
+        "division":"",
+        "time":"1:29:05.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Devon Johnson",
+        "position":443,
+        "teamNum":378,
+        "teamName":"SkizNutz",
+        "division":"",
+        "time":"1:29:10.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Connor Switkney",
+        "position":444,
+        "teamNum":139,
+        "teamName":"PAH!",
+        "division":"",
+        "time":"1:29:34.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Matt Glibota",
+        "position":445,
+        "teamNum":150,
+        "teamName":"Dom and the Terry T's",
+        "division":"",
+        "time":"1:29:54.2"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Jennifer Harris",
+        "position":446,
+        "teamNum":268,
+        "teamName":"Ooo!",
+        "division":"",
+        "time":"1:31:45.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Austin Wright",
+        "position":447,
+        "teamNum":235,
+        "teamName":"Evergreen",
+        "division":"",
+        "time":"1:33:56.3"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Nicole Casanova",
+        "position":448,
+        "teamNum":373,
+        "teamName":"Space Noodles",
+        "division":"",
+        "time":"1:35:58.5"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Mark Mydan",
+        "position":449,
+        "teamNum":385,
+        "teamName":"Capstone",
+        "division":"",
+        "time":"1:37:15.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Staci Conocchioli",
+        "position":450,
+        "teamNum":249,
+        "teamName":"Sisyphus boulders",
+        "division":"",
+        "time":"1:45:18.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Harry Partsafas",
+        "position":451,
+        "teamNum":231,
+        "teamName":"Just Nuts",
+        "division":"",
+        "time":"1:45:20.6"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Stephanie Mills",
+        "position":452,
+        "teamNum":415,
+        "teamName":"Brown Girl Magic",
+        "division":"",
+        "time":"1:51:43.1"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Kevin Burklin",
+        "position":453,
+        "teamNum":35,
+        "teamName":"Hype Beasts",
+        "division":"",
+        "time":"2:17:12.8"
+    },
+    {
+        "leg":"Cyclocross",
+        "name":"Alexander Peterson",
+        "position":454,
+        "teamNum":221,
+        "teamName":"Data-Driven Downhillers",
+        "division":"",
+        "time":"2:21:32.5"
+    }
+]

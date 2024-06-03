@@ -1,0 +1,4106 @@
+[
+    {
+        "leg":"Canoe",
+        "name":"Bob Woodman \/ Glenn Bond",
+        "position":1,
+        "teamNum":1,
+        "teamName":"BIRCH EQUIPMENT",
+        "division":"",
+        "time":"1:59:37.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mark Chamberlain \/ Collin Smith",
+        "position":2,
+        "teamNum":102,
+        "teamName":"Bellingham Firefighters Team 1",
+        "division":"",
+        "time":"1:59:51.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matt Stodola \/ Geoff Stodola",
+        "position":3,
+        "teamNum":94,
+        "teamName":"Inn at Lynden",
+        "division":"",
+        "time":"2:00:05.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brad Bauer \/ Dave  Jensen",
+        "position":4,
+        "teamNum":2,
+        "teamName":"Boomer's Drive-In",
+        "division":"",
+        "time":"2:00:41.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Scott Decker \/ Jonas Decker",
+        "position":5,
+        "teamNum":37,
+        "teamName":"Vendovi",
+        "division":"",
+        "time":"2:01:54.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Liam Price \/ Edoh Amiran",
+        "position":6,
+        "teamNum":497,
+        "teamName":"Two Cubed To Finish",
+        "division":"",
+        "time":"2:02:12.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eric Gerstl \/ Mike Hammer",
+        "position":7,
+        "teamNum":494,
+        "teamName":"Boomer's Drive-In Legends",
+        "division":"",
+        "time":"2:02:58.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryan Grady \/ Jonathan Grady",
+        "position":8,
+        "teamNum":23,
+        "teamName":"American Canoe Association Men",
+        "division":"",
+        "time":"2:03:16.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Cupp \/ Thom Prichard",
+        "position":9,
+        "teamNum":500,
+        "teamName":"Peoples Bank",
+        "division":"",
+        "time":"2:03:43.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brandon Nelson \/ Heather Nelson",
+        "position":10,
+        "teamNum":91,
+        "teamName":"Bellingham Senior Activity Center",
+        "division":"",
+        "time":"2:03:56.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gwyn Howat \/ Shek Aven",
+        "position":11,
+        "teamNum":496,
+        "teamName":"Mt. Baker Ravens",
+        "division":"",
+        "time":"2:03:57.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Peter Scherrer \/ Jesse Allen",
+        "position":12,
+        "teamNum":86,
+        "teamName":"Hard Core Physio",
+        "division":"",
+        "time":"2:05:18.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kim Dolezsar \/ Dave Riley",
+        "position":13,
+        "teamNum":486,
+        "teamName":"FasterBakers",
+        "division":"",
+        "time":"2:06:15.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Casey Lien \/ Bill Auchterlonie",
+        "position":14,
+        "teamNum":13,
+        "teamName":"Whatcom Family Medicine - Open",
+        "division":"",
+        "time":"2:07:26.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Michael  Lee \/ Brian Boatman",
+        "position":15,
+        "teamNum":99,
+        "teamName":"BEAVERS TREE SERVICE",
+        "division":"",
+        "time":"2:07:40.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lance Romo \/ Gabe Starbuck",
+        "position":16,
+        "teamNum":492,
+        "teamName":"Wander Brewing",
+        "division":"",
+        "time":"2:09:00.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kevin Olney \/ Amber Zipperer",
+        "position":17,
+        "teamNum":423,
+        "teamName":"Surfrider Mavericks",
+        "division":"",
+        "time":"2:09:00.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Carolyn Tse \/ James Healy",
+        "position":18,
+        "teamNum":43,
+        "teamName":"Galloping Gonads",
+        "division":"",
+        "time":"2:09:15.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rob Rogers \/ Carter Kiesau",
+        "position":19,
+        "teamNum":483,
+        "teamName":"Greatest American Heroes",
+        "division":"",
+        "time":"2:09:42.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Greg Fosty \/ Michael Baker",
+        "position":20,
+        "teamNum":485,
+        "teamName":"Chuckanut Bay Distillery",
+        "division":"",
+        "time":"2:09:43.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Clinton Overman \/ Reilly  Kintzele",
+        "position":21,
+        "teamNum":98,
+        "teamName":"Team Jake",
+        "division":"",
+        "time":"2:09:50.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryan Lee \/ Andrew Mao",
+        "position":22,
+        "teamNum":479,
+        "teamName":"The Kids Aren't Alright ",
+        "division":"",
+        "time":"2:09:55.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Derek Buse \/ Henry TePaske",
+        "position":23,
+        "teamNum":20,
+        "teamName":"Evil Bike Company",
+        "division":"",
+        "time":"2:10:14.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gabriel Drury \/ Charlie Drury",
+        "position":24,
+        "teamNum":16,
+        "teamName":"Colony Wharf",
+        "division":"",
+        "time":"2:10:57.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nicholas Plaut \/ James Plaut",
+        "position":25,
+        "teamNum":7,
+        "teamName":"Pavlov's Dawgs",
+        "division":"",
+        "time":"2:11:49.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Shaun Koos \/ Skip Johnson",
+        "position":26,
+        "teamNum":259,
+        "teamName":"Baker Babes",
+        "division":"",
+        "time":"2:11:55.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mike Trowbridge \/ Rowan Yyerxa",
+        "position":27,
+        "teamNum":53,
+        "teamName":"Gondwanaland United",
+        "division":"",
+        "time":"2:12:37.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Megan Irwin \/ Tyler Irwin",
+        "position":28,
+        "teamNum":54,
+        "teamName":"Strider Construction",
+        "division":"",
+        "time":"2:13:09.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Pred Vadjic \/ Chris Baker",
+        "position":29,
+        "teamNum":491,
+        "teamName":"Darwin's Bulldogs",
+        "division":"",
+        "time":"2:13:38.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ken Crosby \/ Candice Bourque",
+        "position":30,
+        "teamNum":338,
+        "teamName":"MasterBakers (M&K Ready Mix)",
+        "division":"",
+        "time":"2:13:41.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Isaac Leitz \/ Andy Shepard",
+        "position":31,
+        "teamNum":55,
+        "teamName":"Delicate Flowers ",
+        "division":"",
+        "time":"2:13:55.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Steve  Hollenhorst \/ Glenn Biernacki",
+        "position":32,
+        "teamNum":498,
+        "teamName":"Barkley Village People",
+        "division":"",
+        "time":"2:14:02.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joe Erfle \/ Jay Ostby",
+        "position":33,
+        "teamNum":36,
+        "teamName":"VANDAMMAGE",
+        "division":"",
+        "time":"2:14:15.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Levi Yoos \/ Alden Jacobs",
+        "position":34,
+        "teamNum":481,
+        "teamName":"Fast Action Racing Team",
+        "division":"",
+        "time":"2:14:48.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sam Stoner \/ Brady Lester",
+        "position":35,
+        "teamNum":274,
+        "teamName":"Jolly Jezzercisers",
+        "division":"",
+        "time":"2:14:52.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Hugh Klinedinst \/ Michael Meyer",
+        "position":36,
+        "teamNum":484,
+        "teamName":"The Monkey Wrench Gang",
+        "division":"",
+        "time":"2:15:00.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Schalka \/ Brian Flannelly",
+        "position":37,
+        "teamNum":159,
+        "teamName":"NWIC Hooligans",
+        "division":"",
+        "time":"2:15:58.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Isaac Day \/ David Anderson",
+        "position":38,
+        "teamNum":421,
+        "teamName":"Yeager\u2019s Sporting Goods",
+        "division":"",
+        "time":"2:15:59.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"ryan allsop \/ Aspen Allsop",
+        "position":39,
+        "teamNum":458,
+        "teamName":"The Aleshops",
+        "division":"",
+        "time":"2:16:43.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Bert  Hinkley \/ Rich Roehner",
+        "position":40,
+        "teamNum":501,
+        "teamName":"American Canoe Association Veterans",
+        "division":"",
+        "time":"2:17:05.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mark  Hatton  \/ Tristan Nichols",
+        "position":41,
+        "teamNum":493,
+        "teamName":"Deep Cove Gentlemen's Tiddlywinks Club",
+        "division":"",
+        "time":"2:17:13.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Derek Stuart \/ Colin Taylor",
+        "position":42,
+        "teamNum":457,
+        "teamName":"Northwest Hydraulic Consultants - BC",
+        "division":"",
+        "time":"2:17:17.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nick Brown \/ Mike Bakke",
+        "position":43,
+        "teamNum":4,
+        "teamName":"The Locust Rundgrave Band Ski to Sea RT",
+        "division":"",
+        "time":"2:17:20.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Heath Sowers \/ Walker Capra-Smith",
+        "position":44,
+        "teamNum":15,
+        "teamName":"Dawson Construction",
+        "division":"",
+        "time":"2:17:23.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mel Avi\u00f1on \/ scarlett graham",
+        "position":45,
+        "teamNum":78,
+        "teamName":"Car free Green Mountain PT ",
+        "division":"",
+        "time":"2:17:34.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Trevor Lackey \/ Lucas Hansen",
+        "position":46,
+        "teamNum":476,
+        "teamName":"Cheese raiders of doom ",
+        "division":"",
+        "time":"2:17:36.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Finn Smith \/ Hayden Nelson",
+        "position":47,
+        "teamNum":478,
+        "teamName":"Twinkle Bros",
+        "division":"",
+        "time":"2:17:36.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tim Ahern \/ Morgan Shank",
+        "position":48,
+        "teamNum":495,
+        "teamName":"GRUBS PAIN PARADE",
+        "division":"",
+        "time":"2:18:03.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Barb Willson \/ Kari Wright",
+        "position":49,
+        "teamNum":69,
+        "teamName":"SHEroes",
+        "division":"",
+        "time":"2:18:30.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Azusa Murphy \/ Anna McGrory",
+        "position":50,
+        "teamNum":58,
+        "teamName":"HI MOM",
+        "division":"",
+        "time":"2:18:51.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kelly  Abbott \/ Regan  Levinson",
+        "position":51,
+        "teamNum":406,
+        "teamName":"Beastie Belles",
+        "division":"",
+        "time":"2:20:37.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Drew  Smith \/ Travis  Johnson ",
+        "position":52,
+        "teamNum":242,
+        "teamName":"Dad Bods",
+        "division":"",
+        "time":"2:20:58.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rachel  Krinsky \/ Coreen Schmidt",
+        "position":53,
+        "teamNum":81,
+        "teamName":"Aging Disgracefully",
+        "division":"",
+        "time":"2:21:11.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alan Burgmuller  \/ Megan Burgmuller",
+        "position":54,
+        "teamNum":239,
+        "teamName":"WA-AK Attack!",
+        "division":"",
+        "time":"2:21:38.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Buckley \/ Jordan  Emery",
+        "position":55,
+        "teamNum":166,
+        "teamName":"Bellingham Athletic Club",
+        "division":"",
+        "time":"2:21:42.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stephen McCauley \/ Andrew Mrosla",
+        "position":56,
+        "teamNum":28,
+        "teamName":"Kirkland Fire",
+        "division":"",
+        "time":"2:21:45.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryan  Fromm \/ Jake Ferro",
+        "position":57,
+        "teamNum":432,
+        "teamName":"Everett Firefighter Association ",
+        "division":"",
+        "time":"2:21:48.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Janice Lapsansky \/ Jackie Caplan-Auerbach",
+        "position":58,
+        "teamNum":52,
+        "teamName":"Zeek's Wild Combo",
+        "division":"",
+        "time":"2:21:59.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alyson Morse \/ Zoe Libner",
+        "position":59,
+        "teamNum":73,
+        "teamName":"American Canoe Association Women",
+        "division":"",
+        "time":"2:22:40.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Spoelstra \/ Darin Hayes",
+        "position":60,
+        "teamNum":431,
+        "teamName":"Lynden Door",
+        "division":"",
+        "time":"2:22:53.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Daniel Roeter \/ Dan Reznicek",
+        "position":61,
+        "teamNum":60,
+        "teamName":"DRIVEN ATHLETICS - WAY COOL",
+        "division":"",
+        "time":"2:22:55.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erin Lapsansky \/ Sarah  Tanuvasa",
+        "position":62,
+        "teamNum":65,
+        "teamName":"The Real Housewives of Whatcom County",
+        "division":"",
+        "time":"2:23:05.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jake Haynes \/ Matt Payne",
+        "position":63,
+        "teamNum":24,
+        "teamName":"Husky Has-Beens",
+        "division":"",
+        "time":"2:23:13.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"James Wilson \/ Mark Allaway",
+        "position":64,
+        "teamNum":262,
+        "teamName":"Where's Marv?",
+        "division":"",
+        "time":"2:23:28.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John All \/ Brent Turner",
+        "position":65,
+        "teamNum":44,
+        "teamName":"Bellingham Mountain Rescue",
+        "division":"",
+        "time":"2:23:29.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jim Lackey \/ Mark Lackey",
+        "position":66,
+        "teamNum":490,
+        "teamName":"HPC Racing",
+        "division":"",
+        "time":"2:23:34.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Steve Lindsey \/ Danielle Burnett",
+        "position":67,
+        "teamNum":92,
+        "teamName":"North Coast Credit Union",
+        "division":"",
+        "time":"2:23:41.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Damian Madan \/ Mike Wallace",
+        "position":68,
+        "teamNum":22,
+        "teamName":"The Lover's Eight",
+        "division":"",
+        "time":"2:24:07.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jean-Paul Martin \/ Debrah Zemanek",
+        "position":69,
+        "teamNum":309,
+        "teamName":"Where do people source their boats?",
+        "division":"",
+        "time":"2:24:10.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Clai Seier \/ Padraic Casserly",
+        "position":70,
+        "teamNum":211,
+        "teamName":"Meatheart",
+        "division":"",
+        "time":"2:24:32.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rebecca  Pederson \/ Sarah Pernick",
+        "position":71,
+        "teamNum":70,
+        "teamName":"Bellingham Firefighters team two",
+        "division":"",
+        "time":"2:24:33.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lyle Sieg \/ Brian Clements",
+        "position":72,
+        "teamNum":265,
+        "teamName":"Nucor-Allspan",
+        "division":"",
+        "time":"2:24:48.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joan Guitart \/ Julia Durmer",
+        "position":73,
+        "teamNum":313,
+        "teamName":"Frick-Yeah",
+        "division":"",
+        "time":"2:25:42.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sam Wright \/ Matt Wright",
+        "position":74,
+        "teamNum":235,
+        "teamName":"Evergreen",
+        "division":"",
+        "time":"2:25:53.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kevin Springer \/ Justin Verweire",
+        "position":75,
+        "teamNum":245,
+        "teamName":"Fresh for Everyone",
+        "division":"",
+        "time":"2:26:20.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Connor Simmons \/ Zach Gustlin",
+        "position":76,
+        "teamNum":148,
+        "teamName":"JZ Outdoors",
+        "division":"",
+        "time":"2:27:11.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eric Kupp \/ Matthew Lum",
+        "position":77,
+        "teamNum":14,
+        "teamName":"Daddy's Girls",
+        "division":"",
+        "time":"2:27:15.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Noah Brunk \/ John Sousa",
+        "position":78,
+        "teamNum":160,
+        "teamName":"Real Bros of Simi Valley",
+        "division":"",
+        "time":"2:27:43.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matt Cormier \/ Mike Milic",
+        "position":79,
+        "teamNum":244,
+        "teamName":"Whales Outta Water",
+        "division":"",
+        "time":"2:27:43.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Adam Cleveland \/ Matt Schumacher",
+        "position":80,
+        "teamNum":89,
+        "teamName":"DRIVEN ATHLETICS - AWESOME",
+        "division":"",
+        "time":"2:28:21.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ed Fordham \/ Alex Wittmershaus",
+        "position":81,
+        "teamNum":446,
+        "teamName":"Northwest Hydraulic Consultants - WA",
+        "division":"",
+        "time":"2:28:36.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Moench \/ Clare Fogelsong",
+        "position":82,
+        "teamNum":425,
+        "teamName":"Soy House Pho the Win",
+        "division":"",
+        "time":"2:28:37.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":" \/ Julie Morgan",
+        "position":83,
+        "teamNum":168,
+        "teamName":"7 Ferns and a Wildflower",
+        "division":"",
+        "time":"2:29:04.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Max Cook \/ Megan Freel",
+        "position":84,
+        "teamNum":307,
+        "teamName":"BrewSKI to BarSEAt",
+        "division":"",
+        "time":"2:29:07.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brennan  Menninger \/ Cole Mcilvaine",
+        "position":85,
+        "teamNum":238,
+        "teamName":"Arlis\u2019s Restaurant  ",
+        "division":"",
+        "time":"2:29:12.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"zac carsten \/ Dan  Jones",
+        "position":86,
+        "teamNum":201,
+        "teamName":"Tumwater Shadies",
+        "division":"",
+        "time":"2:29:25.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brien Gronemyer \/ Chris Skagen",
+        "position":87,
+        "teamNum":438,
+        "teamName":"Marysville Firefighters",
+        "division":"",
+        "time":"2:29:26.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tavin Jackson \/ Mackenzie Brown",
+        "position":88,
+        "teamNum":463,
+        "teamName":"Jacksons speak louder than words",
+        "division":"",
+        "time":"2:29:27.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Solomon Bill \/ Connor Glenn",
+        "position":89,
+        "teamNum":46,
+        "teamName":"Team de Haan",
+        "division":"",
+        "time":"2:29:49.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ruth  Taylor \/ David Kane",
+        "position":90,
+        "teamNum":83,
+        "teamName":"Don't Call It a Comeback ",
+        "division":"",
+        "time":"2:29:52.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Duncan Robb \/ Adam Resnick",
+        "position":91,
+        "teamNum":283,
+        "teamName":"Ping Pong Club",
+        "division":"",
+        "time":"2:30:00.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Bierman \/ Ashley Zopolos",
+        "position":92,
+        "teamNum":103,
+        "teamName":"Cold cuts and mayo",
+        "division":"",
+        "time":"2:30:26.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Boris Weinfurt \/ Abigail Blethen",
+        "position":93,
+        "teamNum":176,
+        "teamName":"Best team ever",
+        "division":"",
+        "time":"2:30:32.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tyler Hamke \/ Storrie Skalisky",
+        "position":94,
+        "teamNum":441,
+        "teamName":"Slurry in a Hurry",
+        "division":"",
+        "time":"2:30:40.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Justin Vorhees \/ James Lemley",
+        "position":95,
+        "teamNum":284,
+        "teamName":"Bham and Cheese Sandwiches",
+        "division":"",
+        "time":"2:31:00.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ben Bradley \/ Doug Barthold",
+        "position":96,
+        "teamNum":210,
+        "teamName":"Huge Whales",
+        "division":"",
+        "time":"2:31:14.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nathaniel Freedman \/ Garrett Lassiter",
+        "position":97,
+        "teamNum":10,
+        "teamName":"GAR Magenta",
+        "division":"",
+        "time":"2:31:23.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Guy Evans \/ Oliver Owen",
+        "position":98,
+        "teamNum":118,
+        "teamName":"The Weasels",
+        "division":"",
+        "time":"2:31:25.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Cali Caughie \/ Casey Gannon",
+        "position":99,
+        "teamNum":295,
+        "teamName":"Indie Gals & New England's Finest",
+        "division":"",
+        "time":"2:31:25.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Davis \/ Bob Millard",
+        "position":100,
+        "teamNum":429,
+        "teamName":"Exxel Pacific",
+        "division":"",
+        "time":"2:31:27.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dennis Bouwens \/ Choyu Brandon",
+        "position":101,
+        "teamNum":254,
+        "teamName":"Don't Stop Us Now!",
+        "division":"",
+        "time":"2:31:42.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Crystal  Williams  \/ Casey Griesemer",
+        "position":102,
+        "teamNum":427,
+        "teamName":"I Don't Car(e)",
+        "division":"",
+        "time":"2:31:46.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mitch Taylor \/ John White",
+        "position":103,
+        "teamNum":214,
+        "teamName":"Leisure Sportsmen",
+        "division":"",
+        "time":"2:31:53.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rob Slack \/ Miles Slack",
+        "position":104,
+        "teamNum":186,
+        "teamName":"Fresh off the Couch",
+        "division":"",
+        "time":"2:32:12.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dan Yerkes \/ Rob Coslick",
+        "position":105,
+        "teamNum":112,
+        "teamName":"Slog Dogs",
+        "division":"",
+        "time":"2:32:12.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Seth K \/ Jeannette Butcher",
+        "position":106,
+        "teamNum":387,
+        "teamName":"Apex Fitness Nw ",
+        "division":"",
+        "time":"2:32:26.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"barb heckrodt \/ Val Heckrodt ",
+        "position":107,
+        "teamNum":471,
+        "teamName":"Heck We Need Moore Laines",
+        "division":"",
+        "time":"2:32:35.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lizzie Schjelderup \/ Katherine Slack",
+        "position":108,
+        "teamNum":369,
+        "teamName":"The Gubernaculums",
+        "division":"",
+        "time":"2:32:41.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Denney \/ Rodrigo Lobos",
+        "position":109,
+        "teamNum":3,
+        "teamName":"Bad Rads 2",
+        "division":"",
+        "time":"2:32:49.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dustin Heins \/ Tony Kovich",
+        "position":110,
+        "teamNum":440,
+        "teamName":"Samson Rope Technologies",
+        "division":"",
+        "time":"2:32:53.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Horner \/ Saul Weisberg",
+        "position":111,
+        "teamNum":247,
+        "teamName":"Desolation Angels",
+        "division":"",
+        "time":"2:32:57.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Francisco Paillot \/ Kyle Stevens",
+        "position":112,
+        "teamNum":169,
+        "teamName":"Lichtenberg Guys",
+        "division":"",
+        "time":"2:33:01.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erin Coghlan \/ Kjell Peterson",
+        "position":113,
+        "teamNum":333,
+        "teamName":"Chris in Shorts",
+        "division":"",
+        "time":"2:33:13.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Taylor Coston \/ Pearson Daniels",
+        "position":114,
+        "teamNum":129,
+        "teamName":"Globe Corp, Inc.",
+        "division":"",
+        "time":"2:33:16.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris LeBoa \/ Ben  Gaiarin ",
+        "position":115,
+        "teamNum":285,
+        "teamName":"Spiny Lumpsuckers ",
+        "division":"",
+        "time":"2:33:35.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Justin Morgan \/ Robbie Robinson",
+        "position":116,
+        "teamNum":435,
+        "teamName":"VECA Electric",
+        "division":"",
+        "time":"2:33:37.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kathryn  Abercrombie \/ Julia Melo",
+        "position":117,
+        "teamNum":5,
+        "teamName":"Nordic Death",
+        "division":"",
+        "time":"2:33:42.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Hilary  Greenwood  \/ Makenna Pittman",
+        "position":118,
+        "teamNum":84,
+        "teamName":"Insured to Win ",
+        "division":"",
+        "time":"2:33:44.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jude Restis \/ Vincent Couming",
+        "position":119,
+        "teamNum":29,
+        "teamName":"Noon Patrol",
+        "division":"",
+        "time":"2:33:48.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jeremy Vanderpool \/ Jacob Perry",
+        "position":120,
+        "teamNum":97,
+        "teamName":"Derp dog zeph and the humans",
+        "division":"",
+        "time":"2:34:08.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tyler Gustafson \/ Jake Motzny",
+        "position":121,
+        "teamNum":170,
+        "teamName":"Station 2 Turbo Racing Team",
+        "division":"",
+        "time":"2:34:09.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Charlotte O'Donnell \/ Nell Highleyman",
+        "position":122,
+        "teamNum":397,
+        "teamName":"Badass Strawberry Shortski Adventurers",
+        "division":"",
+        "time":"2:34:12.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Zack Schweitzer \/ Casey Whitmer",
+        "position":123,
+        "teamNum":45,
+        "teamName":"Stinging Nettles",
+        "division":"",
+        "time":"2:34:13.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alice Liu \/ Harrison Andina",
+        "position":124,
+        "teamNum":185,
+        "teamName":"Steez Patrol",
+        "division":"",
+        "time":"2:34:18.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jason Brock \/ Sebastian Sittig",
+        "position":125,
+        "teamNum":445,
+        "teamName":"EFFA",
+        "division":"",
+        "time":"2:34:24.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jacob Peterson \/ Jon Rabourn",
+        "position":126,
+        "teamNum":203,
+        "teamName":"The Dingleberry Fairies",
+        "division":"",
+        "time":"2:34:37.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kevin  Harber \/ Patrick Harber",
+        "position":127,
+        "teamNum":31,
+        "teamName":"1 for the money, 4 for the show",
+        "division":"",
+        "time":"2:34:39.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Labrie \/ Diarmuid Murphy",
+        "position":128,
+        "teamNum":123,
+        "teamName":"Broken bodies",
+        "division":"",
+        "time":"2:34:42.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Charlie Saad \/ Josh Schacht",
+        "position":129,
+        "teamNum":218,
+        "teamName":"Rec Reqs Met",
+        "division":"",
+        "time":"2:34:43.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ingrid Nishiyama \/ Heather Honey",
+        "position":130,
+        "teamNum":88,
+        "teamName":"DRIVEN ATHLETICS - TUBULAR",
+        "division":"",
+        "time":"2:34:45.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryan  DeKnikker \/ Ginevra  Moore ",
+        "position":131,
+        "teamNum":444,
+        "teamName":"The Logjammers ",
+        "division":"",
+        "time":"2:34:48.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"James Price \/ Errol Bowman",
+        "position":132,
+        "teamNum":48,
+        "teamName":"Birdemic",
+        "division":"",
+        "time":"2:34:52.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ian Laursen \/ Fletcher Kurita",
+        "position":133,
+        "teamNum":448,
+        "teamName":"Janicki Tool Tech Titans",
+        "division":"",
+        "time":"2:34:56.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Madison Johnson \/ Alex Voboril",
+        "position":134,
+        "teamNum":172,
+        "teamName":"Pebble Wrestlers Go Multisporting",
+        "division":"",
+        "time":"2:34:58.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eric Carlson \/ Otis Hatfield",
+        "position":135,
+        "teamNum":330,
+        "teamName":"Green M&M Fan Club",
+        "division":"",
+        "time":"2:35:01.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Keenan Elliott \/ Gavin Johnson",
+        "position":136,
+        "teamNum":17,
+        "teamName":"Well Hungover",
+        "division":"",
+        "time":"2:35:01.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Morgan Duffy \/ Grant Duffy",
+        "position":137,
+        "teamNum":150,
+        "teamName":"Dom and the Terry T's",
+        "division":"",
+        "time":"2:35:14.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Russell Patterson \/ Suzy Whitehead",
+        "position":138,
+        "teamNum":132,
+        "teamName":"Burning Bunions",
+        "division":"",
+        "time":"2:35:20.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jasper Smith \/ Tristan Smith",
+        "position":139,
+        "teamNum":229,
+        "teamName":"Flotsam",
+        "division":"",
+        "time":"2:35:22.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Randy Winjum \/ Patrick Eelnurme",
+        "position":140,
+        "teamNum":348,
+        "teamName":"Fighting Snails of Snowline",
+        "division":"",
+        "time":"2:36:15.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Karen Okeefe \/ Victoria Anderson",
+        "position":141,
+        "teamNum":80,
+        "teamName":"On Your Left",
+        "division":"",
+        "time":"2:36:16.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jonathan Callans \/ Neil Schaner",
+        "position":142,
+        "teamNum":90,
+        "teamName":"Mixed Nuts",
+        "division":"",
+        "time":"2:36:31.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryder Pell \/ Matt Pearson",
+        "position":143,
+        "teamNum":40,
+        "teamName":"Half natty daddies ",
+        "division":"",
+        "time":"2:36:40.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Steve Sundin \/ Caleb Haner Sundin",
+        "position":144,
+        "teamNum":101,
+        "teamName":"City Haul",
+        "division":"",
+        "time":"2:36:45.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erik  Walker  \/ Kellen Wiggins",
+        "position":145,
+        "teamNum":198,
+        "teamName":"Fringe racing",
+        "division":"",
+        "time":"2:36:46.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Barker \/ Daniel De Vries",
+        "position":146,
+        "teamNum":273,
+        "teamName":"TulipTeers",
+        "division":"",
+        "time":"2:36:47.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"THOM FISCHER \/ JENNA GOODMAN",
+        "position":147,
+        "teamNum":219,
+        "teamName":"DRIVEN ATHLETICS - GNARLY",
+        "division":"",
+        "time":"2:36:51.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Elliott Magill \/ Ira Sutherland",
+        "position":148,
+        "teamNum":141,
+        "teamName":"Full Spectrum",
+        "division":"",
+        "time":"2:36:53.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kirby Wetherbee \/ Kylee Kennedy",
+        "position":149,
+        "teamNum":191,
+        "teamName":"Baker? I hardly know her!",
+        "division":"",
+        "time":"2:36:58.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Wilder Schaaf \/ John Karabinos",
+        "position":150,
+        "teamNum":310,
+        "teamName":"Prima Mastodonnas",
+        "division":"",
+        "time":"2:37:06.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Melissa  Peloquin \/ Forrest  Peloquin",
+        "position":151,
+        "teamNum":346,
+        "teamName":"Nuthin\u2019 But a Ski Thang ",
+        "division":"",
+        "time":"2:37:08.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"James Erving \/ Chris Archer",
+        "position":152,
+        "teamNum":143,
+        "teamName":"The Purple Cobras",
+        "division":"",
+        "time":"2:37:09.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Amber Powers \/ Kanyon Powers",
+        "position":153,
+        "teamNum":360,
+        "teamName":"Erin Baker's",
+        "division":"",
+        "time":"2:37:12.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jordan Crim \/ Casey Locker",
+        "position":154,
+        "teamNum":474,
+        "teamName":"Family Comes First",
+        "division":"",
+        "time":"2:37:26.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Philippe  Deserres \/ F\u00e9lix  Lapointe",
+        "position":155,
+        "teamNum":108,
+        "teamName":"The Alpine Baguettes",
+        "division":"",
+        "time":"2:37:42.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Steve Webb \/ Jake  Christianson ",
+        "position":156,
+        "teamNum":100,
+        "teamName":"Fury CEO",
+        "division":"",
+        "time":"2:37:44.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ryan Gutheil \/ Hannah Katz",
+        "position":157,
+        "teamNum":59,
+        "teamName":"The Katz Pajamas ",
+        "division":"",
+        "time":"2:37:53.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jacob Hamm \/ Blake Harmon",
+        "position":158,
+        "teamNum":208,
+        "teamName":"Beach Cat Brewing",
+        "division":"",
+        "time":"2:37:54.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eli Hollon \/ Hunter Anderson",
+        "position":159,
+        "teamNum":342,
+        "teamName":"Cocodona 250 Prep Team",
+        "division":"",
+        "time":"2:38:15.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Michael Cerbone \/ Allison Pfeiffer ",
+        "position":160,
+        "teamNum":367,
+        "teamName":"Are we there yet?",
+        "division":"",
+        "time":"2:38:15.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Zac Persz \/ Michael Akland",
+        "position":161,
+        "teamNum":289,
+        "teamName":"Gaggle of Geezers",
+        "division":"",
+        "time":"2:38:19.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"ben davis \/ tom hutch",
+        "position":162,
+        "teamNum":292,
+        "teamName":"Gumby All-Stars",
+        "division":"",
+        "time":"2:38:28.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Malia Douglas \/ Gabby Markoff",
+        "position":163,
+        "teamNum":291,
+        "teamName":"Good Question",
+        "division":"",
+        "time":"2:38:30.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brenden Bernal \/ Hailey Sanders",
+        "position":164,
+        "teamNum":155,
+        "teamName":"Heading Weast",
+        "division":"",
+        "time":"2:38:36.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lucas Hendrickson \/ Chris Woodruff",
+        "position":165,
+        "teamNum":315,
+        "teamName":"Sea Panthers",
+        "division":"",
+        "time":"2:38:38.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Max Hart \/ Coleman Davidson",
+        "position":166,
+        "teamNum":227,
+        "teamName":"~we should think of a team name~",
+        "division":"",
+        "time":"2:38:39.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Peter Edvalds \/ Jonathan Hubbard",
+        "position":167,
+        "teamNum":145,
+        "teamName":"Tops to hops",
+        "division":"",
+        "time":"2:38:39.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alex  Swanson \/ Julia De La Puente",
+        "position":168,
+        "teamNum":459,
+        "teamName":"Sasquatch Sprinters",
+        "division":"",
+        "time":"2:38:41.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Hope Thompson \/ Liz Donovan",
+        "position":169,
+        "teamNum":300,
+        "teamName":"Nacho Average Team",
+        "division":"",
+        "time":"2:38:41.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Becca Cleary \/ Tyler Martin",
+        "position":170,
+        "teamNum":12,
+        "teamName":"The Jury's Still Out",
+        "division":"",
+        "time":"2:38:44.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kyle Kelln \/ Brad Kelln",
+        "position":171,
+        "teamNum":21,
+        "teamName":"I'm Givin' It All She's Got, Captain!",
+        "division":"",
+        "time":"2:38:47.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Paul Sheppard \/ Sharon Sheppard",
+        "position":172,
+        "teamNum":200,
+        "teamName":"Grey Jays",
+        "division":"",
+        "time":"2:39:02.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dave Dall'Osto \/ Leah Tivoli",
+        "position":173,
+        "teamNum":158,
+        "teamName":"Middlemarch to the Sea",
+        "division":"",
+        "time":"2:39:05.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jeanie McConnell \/ Ryan Hague",
+        "position":174,
+        "teamNum":114,
+        "teamName":"Edmonds Engineering",
+        "division":"",
+        "time":"2:39:09.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Meg Link \/ Amy Wilson",
+        "position":175,
+        "teamNum":147,
+        "teamName":"Picnic Girls",
+        "division":"",
+        "time":"2:39:11.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ned Davies \/ Jay Graham",
+        "position":176,
+        "teamNum":113,
+        "teamName":"Doc Racer",
+        "division":"",
+        "time":"2:39:30.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Andrew Mitchell \/ Jacob Wohnoutka",
+        "position":177,
+        "teamNum":503,
+        "teamName":"The Not-So Neighbors",
+        "division":"",
+        "time":"2:39:34.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"William Franklin \/ Pearlene Cheah",
+        "position":178,
+        "teamNum":340,
+        "teamName":"Wake & Baker",
+        "division":"",
+        "time":"2:39:42.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dalton Rockwell \/ Spencer Mennella",
+        "position":179,
+        "teamNum":195,
+        "teamName":"Pflueger Inc",
+        "division":"",
+        "time":"2:39:44.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jeffrey Sloat \/ Angelina Sloat",
+        "position":180,
+        "teamNum":371,
+        "teamName":"Ridiculous Speed",
+        "division":"",
+        "time":"2:39:46.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Trine Ready \/ Liza Townsend",
+        "position":181,
+        "teamNum":426,
+        "teamName":"The Rack Pack",
+        "division":"",
+        "time":"2:39:48.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Clyde Brannan \/ Isaiah Pope",
+        "position":182,
+        "teamNum":209,
+        "teamName":"Worst Pace Scenario",
+        "division":"",
+        "time":"2:39:52.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stephen Podwojski \/ Zach Hershberger",
+        "position":183,
+        "teamNum":125,
+        "teamName":"Bonus 5",
+        "division":"",
+        "time":"2:39:54.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Connor Vincent \/ Angelo Boitano",
+        "position":184,
+        "teamNum":140,
+        "teamName":"Uncontrolled Descent",
+        "division":"",
+        "time":"2:40:02.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jason Slye \/ Yesh Ganta",
+        "position":185,
+        "teamNum":181,
+        "teamName":"Speed Sold Separately",
+        "division":"",
+        "time":"2:40:03.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Avery Maverick \/ Nyle Weldon",
+        "position":186,
+        "teamNum":85,
+        "teamName":"Crevasse Play",
+        "division":"",
+        "time":"2:40:11.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"William Klemmer \/ Nancy Bignell",
+        "position":187,
+        "teamNum":349,
+        "teamName":"The Loosest Units",
+        "division":"",
+        "time":"2:40:28.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kevin Dyer \/ Rachel Nolan",
+        "position":188,
+        "teamNum":335,
+        "teamName":"Yellow Aster Butts",
+        "division":"",
+        "time":"2:40:35.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stone Kaech \/ Mohneel  Parakh",
+        "position":189,
+        "teamNum":30,
+        "teamName":"Couch Surfin' USA",
+        "division":"",
+        "time":"2:40:37.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Andrew Latimer \/ Bret Betz",
+        "position":190,
+        "teamNum":133,
+        "teamName":"We'll Be Faster Next Year",
+        "division":"",
+        "time":"2:40:46.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sean McCurdy \/ Chase Baune",
+        "position":191,
+        "teamNum":149,
+        "teamName":"Darwin's Revenge",
+        "division":"",
+        "time":"2:40:52.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Will Shaw \/ Sims Corbett",
+        "position":192,
+        "teamNum":19,
+        "teamName":"High Octane",
+        "division":"",
+        "time":"2:41:04.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Grant Peltier \/ Tim Angelos",
+        "position":193,
+        "teamNum":205,
+        "teamName":"We Mean Business",
+        "division":"",
+        "time":"2:41:07.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gabriel Maggiotto \/ Weston Bryant",
+        "position":194,
+        "teamNum":377,
+        "teamName":"Plus Ones ",
+        "division":"",
+        "time":"2:41:12.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chase Hughes \/ Trey Bourne",
+        "position":195,
+        "teamNum":228,
+        "teamName":"The Ski and The Sea (2024)",
+        "division":"",
+        "time":"2:41:21.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stephanie Bostwick \/ Eleanor Hines",
+        "position":196,
+        "teamNum":422,
+        "teamName":"Surfrider Sea Sirens",
+        "division":"",
+        "time":"2:41:25.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nate  Brown \/ James Anderson",
+        "position":197,
+        "teamNum":223,
+        "teamName":"Sweet As Waffles",
+        "division":"",
+        "time":"2:42:01.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mason Weston \/ Paul Owens",
+        "position":198,
+        "teamNum":321,
+        "teamName":"Alaska All-Stars",
+        "division":"",
+        "time":"2:42:02.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sora Dionne \/ Lulu Hestad ",
+        "position":199,
+        "teamNum":482,
+        "teamName":"Got fish?",
+        "division":"",
+        "time":"2:42:08.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jim  Brennan \/ Michael Diego",
+        "position":200,
+        "teamNum":213,
+        "teamName":"Risky Biscuits",
+        "division":"",
+        "time":"2:42:08.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emma Kranz \/ Hannah Wong",
+        "position":201,
+        "teamNum":193,
+        "teamName":"PCC Factory Racing",
+        "division":"",
+        "time":"2:42:11.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kevin Bukowski \/ Allie Brown",
+        "position":202,
+        "teamNum":224,
+        "teamName":"Team Dinoco",
+        "division":"",
+        "time":"2:42:15.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Morgan Fox \/ Abby  McCormack",
+        "position":203,
+        "teamNum":67,
+        "teamName":"Ski to Sea Sissies",
+        "division":"",
+        "time":"2:42:15.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Craig Manalili \/ Kevin Bedlington",
+        "position":204,
+        "teamNum":452,
+        "teamName":"WTBrigade",
+        "division":"",
+        "time":"2:42:16.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Cameron McVicker \/ Erik Simonsen",
+        "position":205,
+        "teamNum":286,
+        "teamName":"South Whatcom Firefighters",
+        "division":"",
+        "time":"2:42:24.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eloise  Watts \/ Josie  Hutt",
+        "position":206,
+        "teamNum":51,
+        "teamName":"Skida Cheeta Babes",
+        "division":"",
+        "time":"2:42:29.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Carolyn Wise \/ Aly Robinson",
+        "position":207,
+        "teamNum":74,
+        "teamName":"Hypegirls",
+        "division":"",
+        "time":"2:42:33.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stacey Mouser \/ Josh Mouser",
+        "position":208,
+        "teamNum":182,
+        "teamName":"Murder Hornet Hot Sauce",
+        "division":"",
+        "time":"2:42:48.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Travis Perry \/ Ryan Johnson ",
+        "position":209,
+        "teamNum":270,
+        "teamName":"Geneva Ghomes",
+        "division":"",
+        "time":"2:42:48.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Charles Tilton \/ Eric Nettles",
+        "position":210,
+        "teamNum":430,
+        "teamName":"Exxel Pacific Too",
+        "division":"",
+        "time":"2:42:52.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Orion McGann \/ Alex Kramer",
+        "position":211,
+        "teamNum":480,
+        "teamName":"Oly",
+        "division":"",
+        "time":"2:43:00.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Polly Saunders \/ Richard Saunders",
+        "position":212,
+        "teamNum":252,
+        "teamName":"Tortoises & Hares (Blue)",
+        "division":"",
+        "time":"2:43:12.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matt Haggen \/ Amber Haggen",
+        "position":213,
+        "teamNum":217,
+        "teamName":"RAM Construction",
+        "division":"",
+        "time":"2:43:13.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jackson Hoppis \/ Jake Hoppis",
+        "position":214,
+        "teamNum":256,
+        "teamName":"Safety Third",
+        "division":"",
+        "time":"2:43:15.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Annalise Nordgren \/ Steve Carnahan",
+        "position":215,
+        "teamNum":33,
+        "teamName":"Roscals",
+        "division":"",
+        "time":"2:43:15.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kaarlo Laukkanen \/ Tapani Von Rauner",
+        "position":216,
+        "teamNum":128,
+        "teamName":"Hullut Oravat",
+        "division":"",
+        "time":"2:43:20.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"TJ Nichols \/ Devon McKibbin",
+        "position":217,
+        "teamNum":439,
+        "teamName":"Alpha Dogs",
+        "division":"",
+        "time":"2:43:23.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Preston Butler \/ Bella Stokes",
+        "position":218,
+        "teamNum":328,
+        "teamName":"Gumby Goats",
+        "division":"",
+        "time":"2:43:25.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rebecca Henenlotter \/ Ryan Chiasson",
+        "position":219,
+        "teamNum":8,
+        "teamName":"Quiet Professionals",
+        "division":"",
+        "time":"2:43:26.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Channing Fisher \/ Jamie  Smith",
+        "position":220,
+        "teamNum":345,
+        "teamName":"Ellie's Little Biddies ",
+        "division":"",
+        "time":"2:43:28.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Neha Tembey \/ Peter Streit",
+        "position":221,
+        "teamNum":165,
+        "teamName":"All the Peeps",
+        "division":"",
+        "time":"2:43:42.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Zehao Huang \/ Asher Didier",
+        "position":222,
+        "teamNum":115,
+        "teamName":"The 26th of May movement",
+        "division":"",
+        "time":"2:43:45.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ruby Moore-Bloom \/ Whiting\t Moore-Bloom Tennis",
+        "position":223,
+        "teamNum":121,
+        "teamName":"My Beasts ",
+        "division":"",
+        "time":"2:43:51.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Zender \/ Nick Hosler",
+        "position":224,
+        "teamNum":248,
+        "teamName":"Changeit",
+        "division":"",
+        "time":"2:43:52.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jake  Robertson \/ Levi Lux",
+        "position":225,
+        "teamNum":477,
+        "teamName":"ski till we pee",
+        "division":"",
+        "time":"2:44:05.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nick Swanson \/ Elliott Lauritzen",
+        "position":226,
+        "teamNum":298,
+        "teamName":"Here For a Good Time ",
+        "division":"",
+        "time":"2:44:09.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kaeley Stout \/ Aidan Curtin",
+        "position":227,
+        "teamNum":278,
+        "teamName":"The Lactic Kool-Aid Acid Test",
+        "division":"",
+        "time":"2:44:20.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erick Jackson \/ Ian Hunter",
+        "position":228,
+        "teamNum":162,
+        "teamName":"Flying Hellfish",
+        "division":"",
+        "time":"2:44:22.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nicole Rioseco \/ Beatrice Rost-Komiya",
+        "position":229,
+        "teamNum":56,
+        "teamName":"something better than last year",
+        "division":"",
+        "time":"2:44:29.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dylan Kershaw \/ Brittany Casavant",
+        "position":230,
+        "teamNum":154,
+        "teamName":"Hash-Slinging Slashers",
+        "division":"",
+        "time":"2:44:31.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Christopher Brown \/ Imants Holmquist",
+        "position":231,
+        "teamNum":126,
+        "teamName":"The Ranch",
+        "division":"",
+        "time":"2:44:35.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Neva Wiederspohn \/ BJ Pratum",
+        "position":232,
+        "teamNum":175,
+        "teamName":"Pat's Dr Pepper team",
+        "division":"",
+        "time":"2:44:36.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Bourgeois \/ Allison Brown",
+        "position":233,
+        "teamNum":137,
+        "teamName":"Good Vibes Only",
+        "division":"",
+        "time":"2:44:40.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jorge Avalos \/ Carley Logan",
+        "position":234,
+        "teamNum":326,
+        "teamName":"Shuck Buddies",
+        "division":"",
+        "time":"2:44:40.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Amy Arisco \/ Calvin Milbach",
+        "position":235,
+        "teamNum":489,
+        "teamName":"Fit(ish) over 40",
+        "division":"",
+        "time":"2:44:45.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Suzanne Joh \/ Patrick Stauffer",
+        "position":236,
+        "teamNum":197,
+        "teamName":"Off Constantly",
+        "division":"",
+        "time":"2:44:54.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Guy Thibodeau \/ Kiley Roberson",
+        "position":237,
+        "teamNum":49,
+        "teamName":"Poly's Powder Pedal Paddlers",
+        "division":"",
+        "time":"2:44:56.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Bradley Day-Bazhaw \/ Mary Wuest",
+        "position":238,
+        "teamNum":280,
+        "teamName":"Nacho Average Team (Extra Cheese)",
+        "division":"",
+        "time":"2:45:03.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brian Fass \/ Lindsey Smith",
+        "position":239,
+        "teamNum":196,
+        "teamName":"Ski to C-",
+        "division":"",
+        "time":"2:45:07.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Kinney \/ Curt Bauer",
+        "position":240,
+        "teamNum":374,
+        "teamName":"VALLEY TO SOUND",
+        "division":"",
+        "time":"2:45:08.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alex Weibinski \/ Adam Kinard",
+        "position":241,
+        "teamNum":174,
+        "teamName":"Ski to C300",
+        "division":"",
+        "time":"2:45:13.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jacob Wishart \/ Davis Mihelich",
+        "position":242,
+        "teamNum":460,
+        "teamName":"Cousin Clan",
+        "division":"",
+        "time":"2:45:14.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Anne  annekbt@gmail.com \/ Amy Macfadyen ",
+        "position":243,
+        "teamNum":184,
+        "teamName":"Josh's Hammer",
+        "division":"",
+        "time":"2:45:15.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Grant Allgood \/ Amanda Bak",
+        "position":244,
+        "teamNum":164,
+        "teamName":"Eat My Jorts",
+        "division":"",
+        "time":"2:45:20.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"pam sankey \/ Eric  Sankey",
+        "position":245,
+        "teamNum":266,
+        "teamName":"saxe",
+        "division":"",
+        "time":"2:45:21.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Russell Rose \/ Morgan Rockey",
+        "position":246,
+        "teamNum":386,
+        "teamName":"Ski-sy Does It",
+        "division":"",
+        "time":"2:45:29.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kristin Beauchamp \/ Alyssa Beauchamp",
+        "position":247,
+        "teamNum":413,
+        "teamName":"Reverse Ski Girl ",
+        "division":"",
+        "time":"2:45:30.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Bruce Guenzler \/ Sarah Faubion",
+        "position":248,
+        "teamNum":442,
+        "teamName":"Associated Earth Sciences Inc.",
+        "division":"",
+        "time":"2:45:34.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Lenci \/ Nicholas Beyer",
+        "position":249,
+        "teamNum":272,
+        "teamName":"You look like a rat with glasses",
+        "division":"",
+        "time":"2:45:37.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Samuel Gjerstad \/ Mikaela Anderson",
+        "position":250,
+        "teamNum":320,
+        "teamName":"Donuts",
+        "division":"",
+        "time":"2:45:49.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris McCall \/ Clara McCall",
+        "position":251,
+        "teamNum":257,
+        "teamName":"Indefatigable ",
+        "division":"",
+        "time":"2:45:54.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Michael Walsh \/ Jake Gruber",
+        "position":252,
+        "teamNum":161,
+        "teamName":"8 Guys, 1 Canoe",
+        "division":"",
+        "time":"2:45:56.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dana Bronstein \/ Hannah Clorite",
+        "position":253,
+        "teamNum":408,
+        "teamName":"Lick My Glit",
+        "division":"",
+        "time":"2:46:00.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Corinne Horner \/ Emily Neufeld",
+        "position":254,
+        "teamNum":293,
+        "teamName":"SportBOI ",
+        "division":"",
+        "time":"2:46:08.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brandon Bass \/ Ryan Cardiff",
+        "position":255,
+        "teamNum":11,
+        "teamName":"Blue Bird Blowers",
+        "division":"",
+        "time":"2:46:11.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emma Renner \/ Owen Valdescruz",
+        "position":256,
+        "teamNum":194,
+        "teamName":"Friends of Maya",
+        "division":"",
+        "time":"2:46:16.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jarred Snowden \/ Kirk Brosnahan",
+        "position":257,
+        "teamNum":380,
+        "teamName":"The Horse Girls",
+        "division":"",
+        "time":"2:46:19.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Julia Lorraine Davis \/ Olivia Chapman",
+        "position":258,
+        "teamNum":64,
+        "teamName":"Money on the dash ",
+        "division":"",
+        "time":"2:46:27.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Derek Marion \/ Conor Lanahan",
+        "position":259,
+        "teamNum":234,
+        "teamName":"Ski to Sea All Stars",
+        "division":"",
+        "time":"2:46:29.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Parker Parmacek \/ Peter Walters",
+        "position":260,
+        "teamNum":241,
+        "teamName":"Cascadia One Pass",
+        "division":"",
+        "time":"2:46:33.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jessie Liu \/ Isadore Dodard Friedman",
+        "position":261,
+        "teamNum":119,
+        "teamName":"Wokaz",
+        "division":"",
+        "time":"2:46:44.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Izaiha Ellis \/ Bryce Diras",
+        "position":262,
+        "teamNum":279,
+        "teamName":"best skiers on the mountain",
+        "division":"",
+        "time":"2:46:55.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Noah Engel \/ Zach Mlynarczyk",
+        "position":263,
+        "teamNum":95,
+        "teamName":"Tres Leches",
+        "division":"",
+        "time":"2:47:00.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Colin Higman \/ Carrie Mckewanc",
+        "position":264,
+        "teamNum":138,
+        "teamName":"Relay-ted",
+        "division":"",
+        "time":"2:47:04.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Isaac Gundersen \/ Jared Schneider",
+        "position":265,
+        "teamNum":232,
+        "teamName":"Savage Pandas",
+        "division":"",
+        "time":"2:47:07.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Taylor Banner \/ Liam Kearney",
+        "position":266,
+        "teamNum":142,
+        "teamName":"Keep Portland Weird",
+        "division":"",
+        "time":"2:47:09.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lucie Reizian \/ Erik Perkins",
+        "position":267,
+        "teamNum":304,
+        "teamName":"sloths in sleeping bags",
+        "division":"",
+        "time":"2:47:11.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alex Jones \/ Emily Jones",
+        "position":268,
+        "teamNum":354,
+        "teamName":"Snow way we\u2019ll win",
+        "division":"",
+        "time":"2:47:11.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ian Gaul \/ Kirsten Holmquist",
+        "position":269,
+        "teamNum":225,
+        "teamName":"37.5% Holmquist",
+        "division":"",
+        "time":"2:47:34.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kai Fletcher \/ Cedar Rossel",
+        "position":270,
+        "teamNum":35,
+        "teamName":"Hype Beasts",
+        "division":"",
+        "time":"2:47:35.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alex Trendelman \/ Spencer Hovorka",
+        "position":271,
+        "teamNum":258,
+        "teamName":"Blame the Kids",
+        "division":"",
+        "time":"2:47:40.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Bob Aiken \/ cathy Nichols",
+        "position":272,
+        "teamNum":499,
+        "teamName":"Green Eggs and Bellingham",
+        "division":"",
+        "time":"2:47:56.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dan Cleghorn \/ Nicole Miller",
+        "position":273,
+        "teamNum":433,
+        "teamName":"TC Legend Homes",
+        "division":"",
+        "time":"2:48:02.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nicholas Covington \/ Lars Stenseth",
+        "position":274,
+        "teamNum":449,
+        "teamName":"Janicki Composite Commandos",
+        "division":"",
+        "time":"2:48:10.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alexis Pinkley \/ Gina Miani",
+        "position":275,
+        "teamNum":344,
+        "teamName":"Chafing the Dream",
+        "division":"",
+        "time":"2:48:22.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joey Nishida \/ Ryan Devane",
+        "position":276,
+        "teamNum":318,
+        "teamName":"Twispians",
+        "division":"",
+        "time":"2:48:24.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Olivia Pedersen \/ Jess Leone",
+        "position":277,
+        "teamNum":404,
+        "teamName":"Ski to Seeesters",
+        "division":"",
+        "time":"2:48:26.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Liam McCarthy-Edwards \/ Elyana Steinberg",
+        "position":278,
+        "teamNum":301,
+        "teamName":"Sporty Barbies",
+        "division":"",
+        "time":"2:48:27.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Curtis Pierce \/ Ken Poitras",
+        "position":279,
+        "teamNum":111,
+        "teamName":"ORCA Team",
+        "division":"",
+        "time":"2:48:29.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Justin Palm \/ Carl Lamoureux",
+        "position":280,
+        "teamNum":146,
+        "teamName":"8 Musketeers ",
+        "division":"",
+        "time":"2:48:29.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Aaron Bandstra \/ Xavier Lee",
+        "position":281,
+        "teamNum":221,
+        "teamName":"Data-Driven Downhillers",
+        "division":"",
+        "time":"2:48:33.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Benjamin Schottle \/ Elizabeth D'Eramo",
+        "position":282,
+        "teamNum":144,
+        "teamName":"Party Possums",
+        "division":"",
+        "time":"2:48:33.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gabrielle Fernandopulle \/ Camille Fougere ",
+        "position":283,
+        "teamNum":381,
+        "teamName":"Sponsored by Cheddar",
+        "division":"",
+        "time":"2:48:34.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joe Rodden \/ Sam Jeffrey",
+        "position":284,
+        "teamNum":240,
+        "teamName":"Goose!",
+        "division":"",
+        "time":"2:48:35.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emily Cain \/ Kilian Morales",
+        "position":285,
+        "teamNum":352,
+        "teamName":"Ellie\u2019s Little Baddies ",
+        "division":"",
+        "time":"2:48:40.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jill Mcmahon \/ RT McMahon",
+        "position":286,
+        "teamNum":50,
+        "teamName":"Bombastic Side Eye",
+        "division":"",
+        "time":"2:48:52.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gianna Pistoresi  \/ Hunter Mulliken",
+        "position":287,
+        "teamNum":260,
+        "teamName":"Off The Couch",
+        "division":"",
+        "time":"2:48:52.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Stuart Duett \/ Zachary Mcgiverin",
+        "position":288,
+        "teamNum":216,
+        "teamName":"We Pee in the Sea",
+        "division":"",
+        "time":"2:48:52.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sage Mailhiot \/ Synnove Price-Huish",
+        "position":289,
+        "teamNum":303,
+        "teamName":"Sephora",
+        "division":"",
+        "time":"2:48:58.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Berto Graham \/ Brooke Nelson",
+        "position":290,
+        "teamNum":365,
+        "teamName":"Get Betsy to the Bay",
+        "division":"",
+        "time":"2:49:06.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emma Bauer \/ Frannie Myers",
+        "position":291,
+        "teamNum":61,
+        "teamName":"D1 Haters",
+        "division":"",
+        "time":"2:49:06.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Conor Neal \/ Natalie Piper",
+        "position":292,
+        "teamNum":177,
+        "teamName":"Mighty Geoducks",
+        "division":"",
+        "time":"2:49:09.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Trevor Braund \/ Marc Lobree",
+        "position":293,
+        "teamNum":25,
+        "teamName":"Man I Love Frogs",
+        "division":"",
+        "time":"2:49:17.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Josh Holsopple \/ Jacob Pressler",
+        "position":294,
+        "teamNum":275,
+        "teamName":"Joel's Mogul Meowsters",
+        "division":"",
+        "time":"2:49:17.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Javier Fernandez-Han \/ Amy Blom",
+        "position":295,
+        "teamNum":419,
+        "teamName":"Starfish and Coffee",
+        "division":"",
+        "time":"2:49:19.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Andy Thurmann \/ Jake Carter",
+        "position":296,
+        "teamNum":255,
+        "teamName":"Mambo Pt. II ",
+        "division":"",
+        "time":"2:49:29.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Terry  Lee \/ Michael Chambers",
+        "position":297,
+        "teamNum":136,
+        "teamName":"Humble Hundal\u2019s",
+        "division":"",
+        "time":"2:49:36.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Andrew MacDonnell \/ Sarah  Garrison",
+        "position":298,
+        "teamNum":267,
+        "teamName":"But wait there's myrrh",
+        "division":"",
+        "time":"2:49:42.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erika Kay \/ Julie Dahlen",
+        "position":299,
+        "teamNum":237,
+        "teamName":"Bandu",
+        "division":"",
+        "time":"2:49:43.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Steven Sweet \/ John  Clark",
+        "position":300,
+        "teamNum":455,
+        "teamName":"Soundview Consultants ",
+        "division":"",
+        "time":"2:49:48.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Lindsey Gaunt \/ Pat Chappelle",
+        "position":301,
+        "teamNum":130,
+        "teamName":"Swifties to Sea",
+        "division":"",
+        "time":"2:49:55.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Eleanor Plaunt \/ Cari Sparks",
+        "position":302,
+        "teamNum":317,
+        "teamName":"Glizzy ",
+        "division":"",
+        "time":"2:50:54.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tiernan Murrell \/ Russell Ohnemus",
+        "position":303,
+        "teamNum":39,
+        "teamName":"Real Housewives Fan Club",
+        "division":"",
+        "time":"2:51:00.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joey Burgoyne \/ Maddie Burgoyne",
+        "position":304,
+        "teamNum":27,
+        "teamName":"5 O\u2019Clock Somewhere",
+        "division":"",
+        "time":"2:51:06.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jane Nightengale \/ BRITTANY Hurst",
+        "position":305,
+        "teamNum":71,
+        "teamName":"Annealed 4 ever",
+        "division":"",
+        "time":"2:51:07.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Pate \/ David Pate",
+        "position":306,
+        "teamNum":470,
+        "teamName":"PB&J",
+        "division":"",
+        "time":"2:51:14.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Josie LaCoe \/ Maggie Davis",
+        "position":307,
+        "teamNum":68,
+        "teamName":"Babe Train",
+        "division":"",
+        "time":"2:51:16.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Erin Baer \/ Will Babb",
+        "position":308,
+        "teamNum":18,
+        "teamName":"Midwestern Anonymous ",
+        "division":"",
+        "time":"2:51:19.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Gregory Eagle \/ Sophie Hummer",
+        "position":309,
+        "teamNum":222,
+        "teamName":"Snowtorious Bikecurious Canoedlers",
+        "division":"",
+        "time":"2:51:23.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"David Keller \/ Tyler Vitti",
+        "position":310,
+        "teamNum":450,
+        "teamName":"Therapy Ravens",
+        "division":"",
+        "time":"2:51:25.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Melissa Willis \/ Sean Willis",
+        "position":311,
+        "teamNum":351,
+        "teamName":"Maddie & The Misfits",
+        "division":"",
+        "time":"2:51:33.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Michael Rudolf \/ Bryan Smith",
+        "position":312,
+        "teamNum":116,
+        "teamName":"Dirty Snoqualmie Rats",
+        "division":"",
+        "time":"2:51:38.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rick Taylor \/ Brett Igbinoba",
+        "position":313,
+        "teamNum":314,
+        "teamName":"Here for the Free T-Shirt",
+        "division":"",
+        "time":"2:51:40.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jacqueline Kimmel \/ Serena Bernthal-Jones",
+        "position":314,
+        "teamNum":246,
+        "teamName":"Fred Meyer",
+        "division":"",
+        "time":"2:51:41.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Amanda Azalone \/ Rachel Johnson",
+        "position":315,
+        "teamNum":362,
+        "teamName":"Pauly D and Massimo are in love ",
+        "division":"",
+        "time":"2:51:41.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Davis  Turner \/ Reya Fore",
+        "position":316,
+        "teamNum":364,
+        "teamName":"Rowdy Roosters",
+        "division":"",
+        "time":"2:51:42.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Janel Warrington  \/ Liz Laureau",
+        "position":317,
+        "teamNum":417,
+        "teamName":"Hot Tacos ",
+        "division":"",
+        "time":"2:51:42.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emily Palmer \/ Laura Fuller",
+        "position":318,
+        "teamNum":230,
+        "teamName":"Jetsam",
+        "division":"",
+        "time":"2:51:51.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Richard Jacobs \/ Julia Petersen",
+        "position":319,
+        "teamNum":139,
+        "teamName":"PAH!",
+        "division":"",
+        "time":"2:51:55.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"MEGHAN SAUNDERS \/ Emma Nestvold",
+        "position":320,
+        "teamNum":251,
+        "teamName":"Tortoises and the Hares (Green)",
+        "division":"",
+        "time":"2:52:01.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brielle Lonsberry \/ Meera Rajagopalan",
+        "position":321,
+        "teamNum":393,
+        "teamName":"The Girly Pops ",
+        "division":"",
+        "time":"2:52:01.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Roan Villa \/ Marcus Magera",
+        "position":322,
+        "teamNum":215,
+        "teamName":"What's the character limit?Because I wa-",
+        "division":"",
+        "time":"2:52:09.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kinsey Drake \/ Cholpisit Ice Kiattisewee",
+        "position":323,
+        "teamNum":212,
+        "teamName":"The Nerd Clusters",
+        "division":"",
+        "time":"2:52:22.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Greg Stegeman \/ Bret Kehle",
+        "position":324,
+        "teamNum":192,
+        "teamName":"Washington State Ferries",
+        "division":"",
+        "time":"2:52:22.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Caiden Titus \/ Alexander Titus",
+        "position":325,
+        "teamNum":468,
+        "teamName":"OFY",
+        "division":"",
+        "time":"2:52:23.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Calli Millang \/ Sam Olsen",
+        "position":326,
+        "teamNum":469,
+        "teamName":"Locknane Athletic Medicine",
+        "division":"",
+        "time":"2:52:23.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sydney Papritz \/ Richard Duval",
+        "position":327,
+        "teamNum":355,
+        "teamName":"The Uncrustables",
+        "division":"",
+        "time":"2:52:23.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ashli Leete \/ Annie Leete",
+        "position":328,
+        "teamNum":287,
+        "teamName":"Team Big Tetons",
+        "division":"",
+        "time":"2:52:23.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Marie Berthelot \/ Phil Antunes",
+        "position":329,
+        "teamNum":366,
+        "teamName":"Wait Up",
+        "division":"",
+        "time":"2:52:34.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matt Earley \/ Matt Joseph",
+        "position":330,
+        "teamNum":250,
+        "teamName":"Metabolize to Freedom ",
+        "division":"",
+        "time":"2:52:37.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Megan Bellusci \/ Tarn Bregman",
+        "position":331,
+        "teamNum":424,
+        "teamName":"Escar-no!",
+        "division":"",
+        "time":"2:52:39.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jesse  Miles \/ Bryan Krause",
+        "position":332,
+        "teamNum":38,
+        "teamName":"Placeholder For Team Name",
+        "division":"",
+        "time":"2:52:41.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Samantha Olsen \/ Kurt Harris",
+        "position":333,
+        "teamNum":151,
+        "teamName":"Biscuit Buttering Buddies",
+        "division":"",
+        "time":"2:52:44.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Leah Bosman \/ Lance Ellis",
+        "position":334,
+        "teamNum":47,
+        "teamName":"Peacehealth Cardiology",
+        "division":"",
+        "time":"2:52:47.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Shannon  Nardi \/ Katherine Nardi",
+        "position":335,
+        "teamNum":306,
+        "teamName":"Hedgehog the Loaf Dogs",
+        "division":"",
+        "time":"2:52:54.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kayla Welton \/ Carlee Rowell",
+        "position":336,
+        "teamNum":428,
+        "teamName":"Triumphantly Triumphant",
+        "division":"",
+        "time":"2:53:04.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Gilbride \/ Claire Riley",
+        "position":337,
+        "teamNum":72,
+        "teamName":"Crank My Shaft",
+        "division":"",
+        "time":"2:53:11.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Camden Malone \/ Nina Chenu",
+        "position":338,
+        "teamNum":363,
+        "teamName":"Skiyii! to Seamen",
+        "division":"",
+        "time":"2:53:22.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Madi Burke \/ Jacqui Bergner",
+        "position":339,
+        "teamNum":282,
+        "teamName":"Half Bakered",
+        "division":"",
+        "time":"2:53:23.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Will Hanson \/ Thomas Ferguson",
+        "position":340,
+        "teamNum":42,
+        "teamName":"Filthy Casual",
+        "division":"",
+        "time":"2:53:24.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ruthie Yawney \/ Britta Sloan",
+        "position":341,
+        "teamNum":400,
+        "teamName":"Ski\u00f1or-to-Se\u00f1ior",
+        "division":"",
+        "time":"2:53:25.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kristin Erickson \/ Megan Erickson",
+        "position":342,
+        "teamNum":75,
+        "teamName":"Bell Belles",
+        "division":"",
+        "time":"2:53:31.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Anna  Keywood \/ Shannon Billau",
+        "position":343,
+        "teamNum":76,
+        "teamName":"whatcom family medicine ladies",
+        "division":"",
+        "time":"2:53:32.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Peter Zakshevsky \/ Tom Zakshevsky",
+        "position":344,
+        "teamNum":488,
+        "teamName":"Broccalicious",
+        "division":"",
+        "time":"2:53:33.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Meagan Cojocar \/ Tess Beeler",
+        "position":345,
+        "teamNum":394,
+        "teamName":"Sassy Lassies",
+        "division":"",
+        "time":"2:53:43.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Casey  Mclaughlin \/ Ken Unterseher",
+        "position":346,
+        "teamNum":231,
+        "teamName":"Just Nuts",
+        "division":"",
+        "time":"2:53:53.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jessamine Anderson \/ Corinne Bintz",
+        "position":347,
+        "teamNum":409,
+        "teamName":"Ski to She",
+        "division":"",
+        "time":"2:53:54.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emily  Barber  \/ Krysta  Sadowski",
+        "position":348,
+        "teamNum":120,
+        "teamName":"No Pee Breaks ",
+        "division":"",
+        "time":"2:53:57.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Webb \/ Maggie Webb",
+        "position":349,
+        "teamNum":405,
+        "teamName":"Legs Mis\u00e9rables",
+        "division":"",
+        "time":"2:54:06.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Patrick  Buckley  \/ Courtney  Zink",
+        "position":350,
+        "teamNum":173,
+        "teamName":"We've Been Robbed",
+        "division":"",
+        "time":"2:54:31.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kameron Jackson \/ Kelsi Jackson",
+        "position":351,
+        "teamNum":472,
+        "teamName":"Cousin Crew",
+        "division":"",
+        "time":"2:54:42.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Laurel Schmidt \/ Mo Kappes",
+        "position":352,
+        "teamNum":179,
+        "teamName":"The Snoozing Sloths",
+        "division":"",
+        "time":"2:55:10.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jessi Wilder \/ Ethan Knox",
+        "position":353,
+        "teamNum":372,
+        "teamName":"Slopes & Hoes",
+        "division":"",
+        "time":"2:55:10.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Craig Saunders \/ Luke Saunders ",
+        "position":354,
+        "teamNum":109,
+        "teamName":"We Brought Our Dads",
+        "division":"",
+        "time":"2:55:17.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Paulina Thurmann \/ Lindsey Ernst",
+        "position":355,
+        "teamNum":183,
+        "teamName":"Zoogers",
+        "division":"",
+        "time":"2:55:42.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jill Joiner \/ Chris Downs",
+        "position":356,
+        "teamNum":281,
+        "teamName":"Slurp Slippers",
+        "division":"",
+        "time":"2:55:46.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"zack Burke \/ Dela Bartol",
+        "position":357,
+        "teamNum":332,
+        "teamName":"Banana bread people",
+        "division":"",
+        "time":"2:55:50.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Grace Baldus \/ Virginia Winslow",
+        "position":358,
+        "teamNum":454,
+        "teamName":"Puget Sound Energy",
+        "division":"",
+        "time":"2:55:55.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Makani Kema-Kaleiwahea \/ Kealii Guzman",
+        "position":359,
+        "teamNum":434,
+        "teamName":"B Shift ",
+        "division":"",
+        "time":"2:55:55.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Antonella  Fillet \/ Rachel Kolveck ",
+        "position":360,
+        "teamNum":398,
+        "teamName":"Slaydies ",
+        "division":"",
+        "time":"2:55:57.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kate Pluth \/ Paul  Cooley ",
+        "position":361,
+        "teamNum":302,
+        "teamName":"Racey McRaceFace",
+        "division":"",
+        "time":"2:56:08.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emma Thompson \/ Rachel Wood",
+        "position":362,
+        "teamNum":327,
+        "teamName":"Here for Even More Beer ",
+        "division":"",
+        "time":"2:56:12.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Josh Sheppard \/ Kyle McCaff",
+        "position":363,
+        "teamNum":325,
+        "teamName":"The Snafflehounds",
+        "division":"",
+        "time":"2:56:13.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alma Pronove \/ Zachary McCutcheon",
+        "position":364,
+        "teamNum":341,
+        "teamName":"JoJo's Angels",
+        "division":"",
+        "time":"2:56:27.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Megan O'Keefe \/ Mark Tellez",
+        "position":365,
+        "teamNum":297,
+        "teamName":"Absher Construction Hammer Time",
+        "division":"",
+        "time":"2:56:52.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ty Hoback \/ Neall Koetje",
+        "position":366,
+        "teamNum":41,
+        "teamName":"Dude I Love Frogs",
+        "division":"",
+        "time":"2:56:53.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Christopher Utterback \/ Nina Olivier",
+        "position":367,
+        "teamNum":358,
+        "teamName":"The 7 Deadly Wins",
+        "division":"",
+        "time":"2:56:58.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Anna Jensen-MacDonald \/ Marie Bolin",
+        "position":368,
+        "teamNum":323,
+        "teamName":"Charlie's Angels",
+        "division":"",
+        "time":"2:57:00.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rhian Horton \/ Sarah Millham",
+        "position":369,
+        "teamNum":464,
+        "teamName":"The Sportin' Hortons",
+        "division":"",
+        "time":"2:57:03.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Annika Cook \/ Danielle Ford",
+        "position":370,
+        "teamNum":263,
+        "teamName":"Quigleys Quest",
+        "division":"",
+        "time":"2:57:13.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rusty Nawrocki \/ Michael Nini",
+        "position":371,
+        "teamNum":268,
+        "teamName":"Ooo!",
+        "division":"",
+        "time":"2:57:18.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Skylar Williams \/ Will Sadowski",
+        "position":372,
+        "teamNum":269,
+        "teamName":"Nardi Party",
+        "division":"",
+        "time":"2:57:19.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ed Rucinski \/ Sabryna Rucinski",
+        "position":373,
+        "teamNum":373,
+        "teamName":"Space Noodles",
+        "division":"",
+        "time":"2:57:28.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Ciresi \/ Austin Hong",
+        "position":374,
+        "teamNum":370,
+        "teamName":"Cuervo no chafers",
+        "division":"",
+        "time":"2:57:31.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rohun Atluri \/ Gordon Li",
+        "position":375,
+        "teamNum":243,
+        "teamName":"Ski to Steez",
+        "division":"",
+        "time":"2:57:31.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Briana Adhikusuma \/ Tori Kunz",
+        "position":376,
+        "teamNum":308,
+        "teamName":"Here For The Ap-race (Apr\u00e8s)",
+        "division":"",
+        "time":"2:57:38.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rebecca Conner \/ Harshal Savla",
+        "position":377,
+        "teamNum":206,
+        "teamName":"PlantHoarders",
+        "division":"",
+        "time":"2:57:42.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Renee Hatch \/ Becky Vega",
+        "position":378,
+        "teamNum":9,
+        "teamName":"Tardigraders",
+        "division":"",
+        "time":"2:57:50.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dennis Leete \/ Kelly Dorey",
+        "position":379,
+        "teamNum":82,
+        "teamName":"542 Zoo",
+        "division":"",
+        "time":"2:57:51.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alison Williams \/ Dana Leahy",
+        "position":380,
+        "teamNum":403,
+        "teamName":"Beers and Bros",
+        "division":"",
+        "time":"2:57:57.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Peter Boyd \/ Tessa Wood",
+        "position":381,
+        "teamNum":356,
+        "teamName":"Lord of the Skis: Fellowship of the Sea",
+        "division":"",
+        "time":"2:57:57.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chelsea Helmkamp \/ Brooklynd Saar",
+        "position":382,
+        "teamNum":127,
+        "teamName":"Joggers and Lagers",
+        "division":"",
+        "time":"2:58:08.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Neal Wychock \/ Abderrahmane Senhou",
+        "position":383,
+        "teamNum":456,
+        "teamName":"PeaceHealth Cancer Center Tumornators",
+        "division":"",
+        "time":"2:58:10.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ben Carroll  \/ Robert Orth",
+        "position":384,
+        "teamNum":264,
+        "teamName":"Is This The Krusty Krab?",
+        "division":"",
+        "time":"2:58:13.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chris Sturiale \/ Micah Jonet",
+        "position":385,
+        "teamNum":347,
+        "teamName":"Loco 4loco",
+        "division":"",
+        "time":"2:58:13.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Wright \/ Brett Tietz",
+        "position":386,
+        "teamNum":180,
+        "teamName":"Washed-Up Athletes",
+        "division":"",
+        "time":"2:58:18.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Marissa Schlemmer \/ Terra Archuletta",
+        "position":387,
+        "teamNum":105,
+        "teamName":"NON SIBI SED ALIIS",
+        "division":"",
+        "time":"2:58:21.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emily Langkow \/ Richard Schurman",
+        "position":388,
+        "teamNum":378,
+        "teamName":"SkizNutz",
+        "division":"",
+        "time":"2:58:22.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matt Krause \/ Cherise Lao",
+        "position":389,
+        "teamNum":487,
+        "teamName":"Delivering Strong ",
+        "division":"",
+        "time":"2:58:26.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nathan Thomas \/ Drew Thomas",
+        "position":390,
+        "teamNum":466,
+        "teamName":"Hot Tomatoes",
+        "division":"",
+        "time":"2:58:31.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Matthew Kenny \/ Tim Kenny",
+        "position":391,
+        "teamNum":475,
+        "teamName":"Kenny-Balen",
+        "division":"",
+        "time":"2:58:47.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sean McCauley \/ Jahldi Merritt",
+        "position":392,
+        "teamNum":204,
+        "teamName":"Bonney Lake Worship Group",
+        "division":"",
+        "time":"2:58:48.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Charlea Olmstead \/ Jason Knoepfler",
+        "position":393,
+        "teamNum":368,
+        "teamName":"SlowMotion2theOcean",
+        "division":"",
+        "time":"2:58:54.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Jack Hempleman \/ Clarice Ruhlin-Hicks",
+        "position":394,
+        "teamNum":87,
+        "teamName":"Plague cowboys",
+        "division":"",
+        "time":"2:58:54.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Emma Sullivan \/ Jon Mellman",
+        "position":395,
+        "teamNum":288,
+        "teamName":"Downhill Current Chasers",
+        "division":"",
+        "time":"2:58:56.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chelsee Henderson \/ Lindsay Bellarks",
+        "position":396,
+        "teamNum":190,
+        "teamName":"Purple Hat Cheetah Shrimp",
+        "division":"",
+        "time":"2:59:33.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mark Roth  \/ Stella Biehl",
+        "position":397,
+        "teamNum":135,
+        "teamName":"Bread",
+        "division":"",
+        "time":"2:59:34.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"marisa messina \/ Michael Huntley",
+        "position":398,
+        "teamNum":299,
+        "teamName":"Party Animals Going BellingHAM",
+        "division":"",
+        "time":"3:00:04.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Raney Peterson \/ Delaney Peterson",
+        "position":399,
+        "teamNum":334,
+        "teamName":"Chris in Shorter Shorts",
+        "division":"",
+        "time":"3:00:06.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Tom Scott \/ Kip Kaiser",
+        "position":400,
+        "teamNum":178,
+        "teamName":"NW Chum",
+        "division":"",
+        "time":"3:00:07.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Dan  Wilson \/ chris Rogers",
+        "position":401,
+        "teamNum":131,
+        "teamName":"SFD Station 4",
+        "division":"",
+        "time":"3:00:34.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alex Meyer \/ Jules Perkins",
+        "position":402,
+        "teamNum":388,
+        "teamName":"Bonjour Couloir ",
+        "division":"",
+        "time":"3:00:52.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"kristina salazar \/ Katie Riordan",
+        "position":403,
+        "teamNum":385,
+        "teamName":"Capstone",
+        "division":"",
+        "time":"3:01:11.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alyssa Jones \/ Olas Perpich",
+        "position":404,
+        "teamNum":233,
+        "teamName":"The Rohirim",
+        "division":"",
+        "time":"3:01:14.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Shelby Groppuso \/ Jimmy Choi",
+        "position":405,
+        "teamNum":418,
+        "teamName":"Summit at All Costs",
+        "division":"",
+        "time":"3:01:18.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kristen Moon \/ Phil  Schultz",
+        "position":406,
+        "teamNum":329,
+        "teamName":"The Spud Squad: Unpeeled ",
+        "division":"",
+        "time":"3:01:20.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Adrian Horton \/ Bernice Brythorne",
+        "position":407,
+        "teamNum":465,
+        "teamName":"Team Betty",
+        "division":"",
+        "time":"3:01:47.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Joe Gauthier  \/ Justin Campbell",
+        "position":408,
+        "teamNum":171,
+        "teamName":"Salt Water Crocodiles ",
+        "division":"",
+        "time":"3:02:10.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kyra Herzberger \/ Sydney Jantsch",
+        "position":409,
+        "teamNum":93,
+        "teamName":"Whatcom's Wildest",
+        "division":"",
+        "time":"3:02:17.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Veronica Calayan \/ Kris Koegel",
+        "position":410,
+        "teamNum":316,
+        "teamName":"Getting Wiggy With It",
+        "division":"",
+        "time":"3:02:43.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Zach Sayler \/ Zach Word",
+        "position":411,
+        "teamNum":443,
+        "teamName":"High Vibes",
+        "division":"",
+        "time":"3:02:48.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sarah Frahm \/ Tia Frahm",
+        "position":412,
+        "teamNum":343,
+        "teamName":"Lilac City",
+        "division":"",
+        "time":"3:03:12.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Colin  O'Rourke \/ Marco Espana",
+        "position":413,
+        "teamNum":152,
+        "teamName":"Men of Mcconnell",
+        "division":"",
+        "time":"3:03:57.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Annika Taylor \/ Trinity Wilson",
+        "position":414,
+        "teamNum":339,
+        "teamName":"Row Roe Rho You're Boot",
+        "division":"",
+        "time":"3:04:23.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Laurin Hammond \/ Vlad Chirkov",
+        "position":415,
+        "teamNum":207,
+        "teamName":"Murkey Sizemores ",
+        "division":"",
+        "time":"3:04:52.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Callie Hefstad \/ Rachel Morgan",
+        "position":416,
+        "teamNum":390,
+        "teamName":"The Leisurelete Loons",
+        "division":"",
+        "time":"3:05:30.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Charlie Weierke \/ Olivia Weierke",
+        "position":417,
+        "teamNum":249,
+        "teamName":"Sisyphus boulders",
+        "division":"",
+        "time":"3:05:33.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sydney Pazera \/ Taylor Nonnemacher",
+        "position":418,
+        "teamNum":416,
+        "teamName":"Kween County Flames",
+        "division":"",
+        "time":"3:05:40.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Necole King \/ Natasha Bishop",
+        "position":419,
+        "teamNum":107,
+        "teamName":"Super 8",
+        "division":"",
+        "time":"3:05:43.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Alan Min \/ Lincoln Harris",
+        "position":420,
+        "teamNum":271,
+        "teamName":"Masculine Death Drive",
+        "division":"",
+        "time":"3:06:43.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Amelia Weeks \/ Audrey Neubauer",
+        "position":421,
+        "teamNum":376,
+        "teamName":"DTF",
+        "division":"",
+        "time":"3:06:46.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sean Daley \/ Andrea Gleichweith",
+        "position":422,
+        "teamNum":319,
+        "teamName":"Bilbo Laggins Behind",
+        "division":"",
+        "time":"3:06:58.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Frances Tung \/ Alex Banh",
+        "position":423,
+        "teamNum":188,
+        "teamName":"&BC Party B",
+        "division":"",
+        "time":"3:07:39.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Anya Steinberg \/ Tessa Hall",
+        "position":424,
+        "teamNum":322,
+        "teamName":"The Honey Bucket",
+        "division":"",
+        "time":"3:07:53.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Brigitte Coan \/ Montana Tucker",
+        "position":425,
+        "teamNum":77,
+        "teamName":"glitter girls",
+        "division":"",
+        "time":"3:09:30.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ellen Graham \/ Andrea Boskovic",
+        "position":426,
+        "teamNum":156,
+        "teamName":"Peak Freaks",
+        "division":"",
+        "time":"3:09:47.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sophie Ziliak \/ Brian Walker",
+        "position":427,
+        "teamNum":157,
+        "teamName":"Salish Seapeople",
+        "division":"",
+        "time":"3:10:05.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rio Tissot \/ Aidan Aschoff",
+        "position":428,
+        "teamNum":104,
+        "teamName":"WWU Men's Rugby",
+        "division":"",
+        "time":"3:10:11.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Angeli Feri \/ Tina Parrish",
+        "position":429,
+        "teamNum":415,
+        "teamName":"Brown Girl Magic",
+        "division":"",
+        "time":"3:10:12.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mack Cook \/ Frazer Anderson",
+        "position":430,
+        "teamNum":124,
+        "teamName":"Bronson's Baddies",
+        "division":"",
+        "time":"3:10:20.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kennedy Garrison \/ Alyssa Rice-Heckman",
+        "position":431,
+        "teamNum":375,
+        "teamName":"Lactic Acid Intolerant",
+        "division":"",
+        "time":"3:10:28.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Katy Clark \/ Julie Sayigh",
+        "position":432,
+        "teamNum":106,
+        "teamName":"Surprisingly Athletic!",
+        "division":"",
+        "time":"3:10:42.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Cameron findlay \/ Cait Carew",
+        "position":433,
+        "teamNum":461,
+        "teamName":"Powered by Fudge",
+        "division":"",
+        "time":"3:10:51.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Chandler Batiste \/ Rachel Maxwell",
+        "position":434,
+        "teamNum":436,
+        "teamName":"Proliance Pacific Rim",
+        "division":"",
+        "time":"3:11:20.7"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kelsey Gross \/ Sara Stern",
+        "position":435,
+        "teamNum":392,
+        "teamName":"Athenas",
+        "division":"",
+        "time":"3:12:13.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Sophie Manning \/ Grace Whitmer",
+        "position":436,
+        "teamNum":411,
+        "teamName":"purple hat cheetah print",
+        "division":"",
+        "time":"3:12:38.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Melissa Murray \/ Freddy Yano",
+        "position":437,
+        "teamNum":361,
+        "teamName":"Out With the Gold, In With the New",
+        "division":"",
+        "time":"3:12:43.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Shukri Abdul Jalil \/ ABDEL WAHAB BOURAI",
+        "position":438,
+        "teamNum":6,
+        "teamName":"Codec Avatars",
+        "division":"",
+        "time":"3:13:07.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Nate Caprile \/ Brooke Weir",
+        "position":439,
+        "teamNum":467,
+        "teamName":"TydalWave",
+        "division":"",
+        "time":"3:13:47.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mar Paden \/ Chlelsea Harmon",
+        "position":440,
+        "teamNum":389,
+        "teamName":"The Biggest Rippers",
+        "division":"",
+        "time":"3:13:57.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Caroline  Ceravolo  \/ Megan Desing",
+        "position":441,
+        "teamNum":336,
+        "teamName":"Ibprofun",
+        "division":"",
+        "time":"3:14:28.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ximenna Hofsetz \/ Tiffany Sandell",
+        "position":442,
+        "teamNum":296,
+        "teamName":"Napping Turtles",
+        "division":"",
+        "time":"3:14:42.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Daniel Blue \/ Chelsie Chelsierommel@outlook.com",
+        "position":443,
+        "teamNum":134,
+        "teamName":"The Reasonable Doubters ",
+        "division":"",
+        "time":"3:14:50.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Kathy Adams \/ Meredith  Caplan",
+        "position":444,
+        "teamNum":261,
+        "teamName":"Vitality--V8",
+        "division":"",
+        "time":"3:15:10.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Claire Naughton \/ Julia Walz",
+        "position":445,
+        "teamNum":384,
+        "teamName":"Lions, Tigers, and Bears, Oh My",
+        "division":"",
+        "time":"3:15:47.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Shivpreet Brar \/ Katie Pattenaude",
+        "position":446,
+        "teamNum":391,
+        "teamName":"Fifth Gear Fr\u00e4uleins",
+        "division":"",
+        "time":"3:16:29.0"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Paige Yerton \/ Mia Yerton",
+        "position":447,
+        "teamNum":359,
+        "teamName":"Happy Birthday Olivia!",
+        "division":"",
+        "time":"3:16:45.6"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Scott Kennedy \/ Elise Adland",
+        "position":448,
+        "teamNum":462,
+        "teamName":"Family Tries",
+        "division":"",
+        "time":"3:16:59.9"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Mikayla Kutsher \/ Ciara Drum",
+        "position":449,
+        "teamNum":414,
+        "teamName":"Peaks and Professors",
+        "division":"",
+        "time":"3:17:01.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Connor Quinn \/ Nick Daly",
+        "position":450,
+        "teamNum":122,
+        "teamName":"Insert clever name here",
+        "division":"",
+        "time":"3:17:55.1"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Bryna Antonia Cortes \/ Patrick Babbitt",
+        "position":451,
+        "teamNum":353,
+        "teamName":"Out & About",
+        "division":"",
+        "time":"3:17:55.8"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Ann Schraufnagel \/ Meredith Nissen",
+        "position":452,
+        "teamNum":66,
+        "teamName":"Annealiators",
+        "division":"",
+        "time":"3:19:09.4"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Meaghan Leferink \/ Rebecca Guest",
+        "position":453,
+        "teamNum":331,
+        "teamName":"Em's Birthday Entourage",
+        "division":"",
+        "time":"3:20:00.2"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Allen Fong \/ Ellen Su-Marquez",
+        "position":454,
+        "teamNum":189,
+        "teamName":"&BC Party A",
+        "division":"",
+        "time":"3:20:25.5"
+    },
+    {
+        "leg":"Canoe",
+        "name":"John Dore \/ Ketan Konanur",
+        "position":455,
+        "teamNum":202,
+        "teamName":"Capitol Hill Boys",
+        "division":"",
+        "time":"3:24:35.3"
+    },
+    {
+        "leg":"Canoe",
+        "name":"Rachel Brennan \/ Lizzie Armstrong ",
+        "position":456,
+        "teamNum":410,
+        "teamName":"Scrambled Legs",
+        "division":"",
+        "time":"3:24:43.7"
+    }
+]

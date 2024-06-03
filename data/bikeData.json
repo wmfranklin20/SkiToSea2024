@@ -1,0 +1,4124 @@
+[
+    {
+        "leg":"Road Bike",
+        "name":"Matt Bailey",
+        "position":1,
+        "teamNum":1,
+        "teamName":"BIRCH EQUIPMENT",
+        "division":"Competitive Open",
+        "time":"1:23:00.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Patrick Laird",
+        "position":2,
+        "teamNum":94,
+        "teamName":"Inn at Lynden",
+        "division":"Whatcom County Open",
+        "time":"1:27:31.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Elouan Gardon",
+        "position":3,
+        "teamNum":159,
+        "teamName":"NWIC Hooligans",
+        "division":"Recreational Open",
+        "time":"1:27:59.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ben Shaklee",
+        "position":4,
+        "teamNum":99,
+        "teamName":"BEAVERS TREE SERVICE",
+        "division":"Whatcom County Open",
+        "time":"1:28:06.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Finley",
+        "position":5,
+        "teamNum":2,
+        "teamName":"Boomer's Drive-In",
+        "division":"Competitive Open",
+        "time":"1:29:23.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Leighton Overson",
+        "position":6,
+        "teamNum":483,
+        "teamName":"Greatest American Heroes",
+        "division":"Masters",
+        "time":"1:32:29.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kristian Biela",
+        "position":7,
+        "teamNum":244,
+        "teamName":"Whales Outta Water",
+        "division":"Recreational Open",
+        "time":"1:32:40.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Johann Lahud-Zahner",
+        "position":8,
+        "teamNum":218,
+        "teamName":"Rec Reqs Met",
+        "division":"Recreational Open",
+        "time":"1:32:44.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ian Spivack",
+        "position":9,
+        "teamNum":3,
+        "teamName":"Bad Rads 2",
+        "division":"Competitive Open",
+        "time":"1:33:48.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Josh  Dyck",
+        "position":10,
+        "teamNum":37,
+        "teamName":"Vendovi",
+        "division":"Competitive Open",
+        "time":"1:33:57.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mike Robson",
+        "position":11,
+        "teamNum":496,
+        "teamName":"Mt. Baker Ravens",
+        "division":"Veterans",
+        "time":"1:34:41.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John Lackey",
+        "position":12,
+        "teamNum":484,
+        "teamName":"The Monkey Wrench Gang",
+        "division":"Masters",
+        "time":"1:35:03.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brittani Shappell",
+        "position":13,
+        "teamNum":369,
+        "teamName":"The Gubernaculums",
+        "division":"Recreational Mixed",
+        "time":"1:35:07.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Adam Greene",
+        "position":14,
+        "teamNum":458,
+        "teamName":"The Aleshops",
+        "division":"Family",
+        "time":"1:35:12.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jon  Takao",
+        "position":15,
+        "teamNum":36,
+        "teamName":"VANDAMMAGE",
+        "division":"Competitive Open",
+        "time":"1:35:13.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Justin Daniels",
+        "position":16,
+        "teamNum":423,
+        "teamName":"Surfrider Mavericks",
+        "division":"Car-Free",
+        "time":"1:35:34.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Joosse",
+        "position":17,
+        "teamNum":486,
+        "teamName":"FasterBakers",
+        "division":"Masters",
+        "time":"1:35:57.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andy Leveto",
+        "position":18,
+        "teamNum":427,
+        "teamName":"I Don't Car(e)",
+        "division":"Car-Free",
+        "time":"1:36:06.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jason Moeschler",
+        "position":19,
+        "teamNum":20,
+        "teamName":"Evil Bike Company",
+        "division":"Competitive Open",
+        "time":"1:36:15.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brendan  McCurdy ",
+        "position":20,
+        "teamNum":242,
+        "teamName":"Dad Bods",
+        "division":"Recreational Open",
+        "time":"1:36:38.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Deborah Eckhouse",
+        "position":21,
+        "teamNum":52,
+        "teamName":"Zeek's Wild Combo",
+        "division":"Competitive Mixed",
+        "time":"1:37:05.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Milner",
+        "position":22,
+        "teamNum":125,
+        "teamName":"Bonus 5",
+        "division":"Recreational Open",
+        "time":"1:37:15.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"David Larpenteur",
+        "position":23,
+        "teamNum":28,
+        "teamName":"Kirkland Fire",
+        "division":"Competitive Open",
+        "time":"1:37:17.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mischa Burnett",
+        "position":24,
+        "teamNum":494,
+        "teamName":"Boomer's Drive-In Legends",
+        "division":"Veterans",
+        "time":"1:37:31.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andre Dempsey",
+        "position":25,
+        "teamNum":7,
+        "teamName":"Pavlov's Dawgs",
+        "division":"Competitive Open",
+        "time":"1:37:56.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Petterson",
+        "position":26,
+        "teamNum":54,
+        "teamName":"Strider Construction",
+        "division":"Competitive Mixed",
+        "time":"1:38:08.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mark Schroeder",
+        "position":27,
+        "teamNum":418,
+        "teamName":"Summit at All Costs",
+        "division":"Car-Free",
+        "time":"1:39:05.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sam Alexander",
+        "position":28,
+        "teamNum":91,
+        "teamName":"Bellingham Senior Activity Center",
+        "division":"Whatcom County Mixed",
+        "time":"1:39:35.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Robert Ragotte",
+        "position":29,
+        "teamNum":309,
+        "teamName":"Where do people source their boats?",
+        "division":"Recreational Mixed",
+        "time":"1:39:39.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Casey Bloomer",
+        "position":30,
+        "teamNum":449,
+        "teamName":"Janicki Composite Commandos",
+        "division":"Corporate",
+        "time":"1:39:41.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Katie Hall",
+        "position":31,
+        "teamNum":16,
+        "teamName":"Colony Wharf",
+        "division":"Competitive Open",
+        "time":"1:39:52.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Adrian Vanderhelm",
+        "position":32,
+        "teamNum":17,
+        "teamName":"Well Hungover",
+        "division":"Competitive Open",
+        "time":"1:40:09.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"TJ Parnow",
+        "position":33,
+        "teamNum":421,
+        "teamName":"Yeager\u2019s Sporting Goods",
+        "division":"Car-Free",
+        "time":"1:40:09.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"LUNDEN FRIBERG",
+        "position":34,
+        "teamNum":219,
+        "teamName":"DRIVEN ATHLETICS - GNARLY",
+        "division":"Competitive Mixed",
+        "time":"1:40:21.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jeff  Nyman",
+        "position":35,
+        "teamNum":166,
+        "teamName":"Bellingham Athletic Club",
+        "division":"Competitive Open",
+        "time":"1:40:31.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eli  Braverman ",
+        "position":36,
+        "teamNum":84,
+        "teamName":"Insured to Win ",
+        "division":"Whatcom County Mixed",
+        "time":"1:40:44.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Dave Comp",
+        "position":37,
+        "teamNum":102,
+        "teamName":"Bellingham Firefighters Team 1",
+        "division":"Whatcom County Open",
+        "time":"1:40:48.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"CJ Surrusco",
+        "position":38,
+        "teamNum":42,
+        "teamName":"Filthy Casual",
+        "division":"Competitive Open",
+        "time":"1:40:51.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Seth Swanson",
+        "position":39,
+        "teamNum":100,
+        "teamName":"Fury CEO",
+        "division":"Whatcom County Open",
+        "time":"1:40:53.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Evan Mega",
+        "position":40,
+        "teamNum":240,
+        "teamName":"Goose!",
+        "division":"Recreational Open",
+        "time":"1:41:11.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brian Pal",
+        "position":41,
+        "teamNum":22,
+        "teamName":"The Lover's Eight",
+        "division":"Competitive Open",
+        "time":"1:41:12.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John Acord",
+        "position":42,
+        "teamNum":19,
+        "teamName":"High Octane",
+        "division":"Competitive Open",
+        "time":"1:41:28.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Damon Burnett",
+        "position":43,
+        "teamNum":92,
+        "teamName":"North Coast Credit Union",
+        "division":"Whatcom County Mixed",
+        "time":"1:41:41.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ethan Hunger",
+        "position":44,
+        "teamNum":333,
+        "teamName":"Chris in Shorts",
+        "division":"Recreational Mixed",
+        "time":"1:42:02.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Javier Santana",
+        "position":45,
+        "teamNum":245,
+        "teamName":"Fresh for Everyone",
+        "division":"Recreational Open",
+        "time":"1:42:57.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Treter",
+        "position":46,
+        "teamNum":485,
+        "teamName":"Chuckanut Bay Distillery",
+        "division":"Masters",
+        "time":"1:44:03.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sebastian Matt",
+        "position":47,
+        "teamNum":310,
+        "teamName":"Prima Mastodonnas",
+        "division":"Recreational Mixed",
+        "time":"1:44:55.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sebastian Braun",
+        "position":48,
+        "teamNum":29,
+        "teamName":"Noon Patrol",
+        "division":"Competitive Open",
+        "time":"1:44:56.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John Kodin",
+        "position":49,
+        "teamNum":500,
+        "teamName":"Peoples Bank",
+        "division":"Veterans",
+        "time":"1:45:20.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Evan Rush",
+        "position":50,
+        "teamNum":478,
+        "teamName":"Twinkle Bros",
+        "division":"High School",
+        "time":"1:45:26.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kenny Kasperbauer",
+        "position":51,
+        "teamNum":23,
+        "teamName":"American Canoe Association Men",
+        "division":"Competitive Open",
+        "time":"1:45:57.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bryan Fakkema",
+        "position":52,
+        "teamNum":38,
+        "teamName":"Placeholder For Team Name",
+        "division":"Competitive Open",
+        "time":"1:45:58.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jonathan Anderson",
+        "position":53,
+        "teamNum":463,
+        "teamName":"Jacksons speak louder than words",
+        "division":"Family",
+        "time":"1:46:12.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Leyland Rudholm",
+        "position":54,
+        "teamNum":429,
+        "teamName":"Exxel Pacific",
+        "division":"Corporate",
+        "time":"1:46:30.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Trevor Post",
+        "position":55,
+        "teamNum":5,
+        "teamName":"Nordic Death",
+        "division":"Competitive Open",
+        "time":"1:46:53.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Miles Wood",
+        "position":56,
+        "teamNum":11,
+        "teamName":"Blue Bird Blowers",
+        "division":"Competitive Open",
+        "time":"1:46:53.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mitch Lee",
+        "position":57,
+        "teamNum":98,
+        "teamName":"Team Jake",
+        "division":"Whatcom County Open",
+        "time":"1:47:01.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Christine Hancock",
+        "position":58,
+        "teamNum":86,
+        "teamName":"Hard Core Physio",
+        "division":"Whatcom County Mixed",
+        "time":"1:47:06.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brandon Mulligan",
+        "position":59,
+        "teamNum":24,
+        "teamName":"Husky Has-Beens",
+        "division":"Competitive Open",
+        "time":"1:47:18.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jessica Rogers",
+        "position":60,
+        "teamNum":65,
+        "teamName":"The Real Housewives of Whatcom County",
+        "division":"Competitive Women",
+        "time":"1:47:19.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Thomas  Gorcynski",
+        "position":61,
+        "teamNum":53,
+        "teamName":"Gondwanaland United",
+        "division":"Competitive Open",
+        "time":"1:47:34.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Steve Bloom",
+        "position":62,
+        "teamNum":13,
+        "teamName":"Whatcom Family Medicine - Open",
+        "division":"Competitive Open",
+        "time":"1:47:56.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joel Sellinger",
+        "position":63,
+        "teamNum":432,
+        "teamName":"Everett Firefighter Association ",
+        "division":"Corporate",
+        "time":"1:47:58.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Charlie Sunderlage",
+        "position":64,
+        "teamNum":430,
+        "teamName":"Exxel Pacific Too",
+        "division":"Corporate",
+        "time":"1:48:36.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brent Detta",
+        "position":65,
+        "teamNum":81,
+        "teamName":"Aging Disgracefully",
+        "division":"Whatcom County Mixed",
+        "time":"1:48:57.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Christian Steele",
+        "position":66,
+        "teamNum":8,
+        "teamName":"Quiet Professionals",
+        "division":"Competitive Open",
+        "time":"1:49:21.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Han Hiller",
+        "position":67,
+        "teamNum":204,
+        "teamName":"Bonney Lake Worship Group",
+        "division":"Recreational Open",
+        "time":"1:49:41.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kristen Schafer",
+        "position":68,
+        "teamNum":55,
+        "teamName":"Delicate Flowers ",
+        "division":"Competitive Mixed",
+        "time":"1:49:43.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matthew Beaver",
+        "position":69,
+        "teamNum":291,
+        "teamName":"Good Question",
+        "division":"Recreational Mixed",
+        "time":"1:49:50.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Vidur Vij",
+        "position":70,
+        "teamNum":185,
+        "teamName":"Steez Patrol",
+        "division":"Recreational Open",
+        "time":"1:49:54.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Newbold",
+        "position":71,
+        "teamNum":50,
+        "teamName":"Bombastic Side Eye",
+        "division":"Competitive Mixed",
+        "time":"1:50:07.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maxwell Kelsch",
+        "position":72,
+        "teamNum":43,
+        "teamName":"Galloping Gonads",
+        "division":"Competitive Open",
+        "time":"1:50:17.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chad Bentley",
+        "position":73,
+        "teamNum":493,
+        "teamName":"Deep Cove Gentlemen's Tiddlywinks Club",
+        "division":"Masters",
+        "time":"1:50:21.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Aliya Schenck",
+        "position":74,
+        "teamNum":64,
+        "teamName":"Money on the dash ",
+        "division":"Recreational Women",
+        "time":"1:50:22.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Lively",
+        "position":75,
+        "teamNum":269,
+        "teamName":"Nardi Party",
+        "division":"Recreational Open",
+        "time":"1:50:25.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Talya Lehrich",
+        "position":76,
+        "teamNum":414,
+        "teamName":"Peaks and Professors",
+        "division":"Recreational Women",
+        "time":"1:50:43.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kyle Buckham",
+        "position":77,
+        "teamNum":168,
+        "teamName":"7 Ferns and a Wildflower",
+        "division":"Recreational Open",
+        "time":"1:50:44.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kevin Terpstra",
+        "position":78,
+        "teamNum":287,
+        "teamName":"Team Big Tetons",
+        "division":"Competitive Open",
+        "time":"1:51:01.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Cale Hendricks",
+        "position":79,
+        "teamNum":492,
+        "teamName":"Wander Brewing",
+        "division":"Masters",
+        "time":"1:51:22.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Patrick Spilsbury",
+        "position":80,
+        "teamNum":286,
+        "teamName":"South Whatcom Firefighters",
+        "division":"Corporate",
+        "time":"1:51:35.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Wallace Estenson",
+        "position":81,
+        "teamNum":191,
+        "teamName":"Baker? I hardly know her!",
+        "division":"Recreational Open",
+        "time":"1:51:37.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tyler Walker",
+        "position":82,
+        "teamNum":196,
+        "teamName":"Ski to C-",
+        "division":"Recreational Open",
+        "time":"1:51:48.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kristen Chalmers",
+        "position":83,
+        "teamNum":68,
+        "teamName":"Babe Train",
+        "division":"Competitive Women",
+        "time":"1:51:53.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Spencer Judge",
+        "position":84,
+        "teamNum":12,
+        "teamName":"The Jury's Still Out",
+        "division":"Competitive Open",
+        "time":"1:51:55.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"brandon Fisher",
+        "position":85,
+        "teamNum":51,
+        "teamName":"Skida Cheeta Babes",
+        "division":"Competitive Mixed",
+        "time":"1:52:00.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Shane Oconnell",
+        "position":86,
+        "teamNum":4,
+        "teamName":"The Locust Rundgrave Band Ski to Sea RT",
+        "division":"Competitive Open",
+        "time":"1:52:07.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Burrin",
+        "position":87,
+        "teamNum":129,
+        "teamName":"Globe Corp, Inc.",
+        "division":"Recreational Open",
+        "time":"1:52:10.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Preston Mui",
+        "position":88,
+        "teamNum":189,
+        "teamName":"&BC Party A",
+        "division":"Recreational Open",
+        "time":"1:52:22.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Gregory Cook",
+        "position":89,
+        "teamNum":497,
+        "teamName":"Two Cubed To Finish",
+        "division":"Veterans",
+        "time":"1:52:23.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Erik Poulin",
+        "position":90,
+        "teamNum":334,
+        "teamName":"Chris in Shorter Shorts",
+        "division":"Recreational Mixed",
+        "time":"1:52:49.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andy Sen",
+        "position":91,
+        "teamNum":32,
+        "teamName":"Ludicrous Speed",
+        "division":"Competitive Open",
+        "time":"1:52:51.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Reece Williams",
+        "position":92,
+        "teamNum":438,
+        "teamName":"Marysville Firefighters",
+        "division":"Corporate",
+        "time":"1:52:56.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Riley Lehecka",
+        "position":93,
+        "teamNum":439,
+        "teamName":"Alpha Dogs",
+        "division":"Corporate",
+        "time":"1:53:05.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sean Grealish",
+        "position":94,
+        "teamNum":336,
+        "teamName":"Ibprofun",
+        "division":"Recreational Mixed",
+        "time":"1:53:07.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Christian Linares",
+        "position":95,
+        "teamNum":156,
+        "teamName":"Peak Freaks",
+        "division":"Recreational Open",
+        "time":"1:53:08.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Greg Schott",
+        "position":96,
+        "teamNum":237,
+        "teamName":"Bandu",
+        "division":"Recreational Open",
+        "time":"1:53:28.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Anna Talman",
+        "position":97,
+        "teamNum":69,
+        "teamName":"SHEroes",
+        "division":"Competitive Women",
+        "time":"1:53:29.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tim Grieb",
+        "position":98,
+        "teamNum":435,
+        "teamName":"VECA Electric",
+        "division":"Corporate",
+        "time":"1:53:30.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rutger Thiele",
+        "position":99,
+        "teamNum":148,
+        "teamName":"JZ Outdoors",
+        "division":"Recreational Open",
+        "time":"1:54:03.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Georgia Bertelstein",
+        "position":100,
+        "teamNum":425,
+        "teamName":"Soy House Pho the Win",
+        "division":"Car-Free",
+        "time":"1:54:09.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kevin Williamson",
+        "position":101,
+        "teamNum":498,
+        "teamName":"Barkley Village People",
+        "division":"Veterans",
+        "time":"1:54:29.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andrew Thurber",
+        "position":102,
+        "teamNum":9,
+        "teamName":"Tardigraders",
+        "division":"Competitive Open",
+        "time":"1:54:29.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brianna Clark",
+        "position":103,
+        "teamNum":88,
+        "teamName":"DRIVEN ATHLETICS - TUBULAR",
+        "division":"Competitive Women",
+        "time":"1:54:29.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Todd Mason",
+        "position":104,
+        "teamNum":184,
+        "teamName":"Josh's Hammer",
+        "division":"Recreational Open",
+        "time":"1:54:31.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ryan Pflueger",
+        "position":105,
+        "teamNum":490,
+        "teamName":"HPC Racing",
+        "division":"Masters",
+        "time":"1:54:33.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Daniel Hart",
+        "position":106,
+        "teamNum":203,
+        "teamName":"The Dingleberry Fairies",
+        "division":"Recreational Open",
+        "time":"1:55:08.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Wyatt Hall",
+        "position":107,
+        "teamNum":217,
+        "teamName":"RAM Construction",
+        "division":"Recreational Open",
+        "time":"1:55:18.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Robert Fundy",
+        "position":108,
+        "teamNum":488,
+        "teamName":"Broccalicious",
+        "division":"Recreational Open",
+        "time":"1:55:33.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Micah Stumme-Diers",
+        "position":109,
+        "teamNum":138,
+        "teamName":"Relay-ted",
+        "division":"Recreational Open",
+        "time":"1:55:37.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rachael Mallon",
+        "position":110,
+        "teamNum":78,
+        "teamName":"Car free Green Mountain PT ",
+        "division":"Whatcom County Women",
+        "time":"1:55:40.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alex Van Roijen",
+        "position":111,
+        "teamNum":255,
+        "teamName":"Mambo Pt. II ",
+        "division":"Recreational Open",
+        "time":"1:55:56.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Case Isac ",
+        "position":112,
+        "teamNum":171,
+        "teamName":"Salt Water Crocodiles ",
+        "division":"Recreational Open",
+        "time":"1:56:05.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Scott Stanley",
+        "position":113,
+        "teamNum":193,
+        "teamName":"PCC Factory Racing",
+        "division":"Competitive Open",
+        "time":"1:56:07.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Patrick Jensen-MacDonald",
+        "position":114,
+        "teamNum":323,
+        "teamName":"Charlie's Angels",
+        "division":"Recreational Mixed",
+        "time":"1:56:12.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Colton Rekers",
+        "position":115,
+        "teamNum":474,
+        "teamName":"Family Comes First",
+        "division":"Family",
+        "time":"1:56:12.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nathan Stiles",
+        "position":116,
+        "teamNum":433,
+        "teamName":"TC Legend Homes",
+        "division":"Corporate",
+        "time":"1:56:27.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"James  Smith",
+        "position":117,
+        "teamNum":200,
+        "teamName":"Grey Jays",
+        "division":"Recreational Open",
+        "time":"1:56:37.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joey Watermeyer",
+        "position":118,
+        "teamNum":72,
+        "teamName":"Crank My Shaft",
+        "division":"Competitive Women",
+        "time":"1:56:38.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tim McKenna",
+        "position":119,
+        "teamNum":97,
+        "teamName":"Derp dog zeph and the humans",
+        "division":"Whatcom County Open",
+        "time":"1:56:47.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sam Sachs",
+        "position":120,
+        "teamNum":213,
+        "teamName":"Risky Biscuits",
+        "division":"Recreational Open",
+        "time":"1:56:50.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John  Clark",
+        "position":121,
+        "teamNum":455,
+        "teamName":"Soundview Consultants ",
+        "division":"Corporate",
+        "time":"1:56:53.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Blaine Nesbit",
+        "position":122,
+        "teamNum":137,
+        "teamName":"Good Vibes Only",
+        "division":"Recreational Open",
+        "time":"1:57:01.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Katelyn Stearns",
+        "position":123,
+        "teamNum":239,
+        "teamName":"WA-AK Attack!",
+        "division":"Recreational Open",
+        "time":"1:57:11.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Greg Penner",
+        "position":124,
+        "teamNum":385,
+        "teamName":"Capstone",
+        "division":"Recreational Mixed",
+        "time":"1:57:33.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sheri Allred",
+        "position":125,
+        "teamNum":174,
+        "teamName":"Ski to C300",
+        "division":"Recreational Open",
+        "time":"1:57:44.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Barry Landau",
+        "position":126,
+        "teamNum":283,
+        "teamName":"Ping Pong Club",
+        "division":"Whatcom County Open",
+        "time":"1:57:44.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Liam Hood",
+        "position":127,
+        "teamNum":375,
+        "teamName":"Lactic Acid Intolerant",
+        "division":"Recreational Mixed",
+        "time":"1:57:48.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Graeme Truschel",
+        "position":128,
+        "teamNum":25,
+        "teamName":"Man I Love Frogs",
+        "division":"Competitive Open",
+        "time":"1:58:05.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Niamh Durfee",
+        "position":129,
+        "teamNum":338,
+        "teamName":"MasterBakers (M&K Ready Mix)",
+        "division":"Recreational Mixed",
+        "time":"1:58:08.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brian Drangsholt",
+        "position":130,
+        "teamNum":247,
+        "teamName":"Desolation Angels",
+        "division":"Recreational Open",
+        "time":"1:58:13.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mark Pollack",
+        "position":131,
+        "teamNum":280,
+        "teamName":"Nacho Average Team (Extra Cheese)",
+        "division":"Recreational Open",
+        "time":"1:58:15.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alan Min",
+        "position":132,
+        "teamNum":271,
+        "teamName":"Masculine Death Drive",
+        "division":"Recreational Open",
+        "time":"1:58:24.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Duff Horton",
+        "position":133,
+        "teamNum":464,
+        "teamName":"The Sportin' Hortons",
+        "division":"Family",
+        "time":"1:58:30.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nathan Critchfield",
+        "position":134,
+        "teamNum":454,
+        "teamName":"Puget Sound Energy",
+        "division":"Corporate",
+        "time":"1:58:34.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Casey Schwenk",
+        "position":135,
+        "teamNum":243,
+        "teamName":"Ski to Steez",
+        "division":"Recreational Open",
+        "time":"1:58:35.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Tass-Parker",
+        "position":136,
+        "teamNum":288,
+        "teamName":"Downhill Current Chasers",
+        "division":"Recreational Open",
+        "time":"1:58:43.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Donnelly Miller",
+        "position":137,
+        "teamNum":384,
+        "teamName":"Lions, Tigers, and Bears, Oh My",
+        "division":"Recreational Open",
+        "time":"1:58:45.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Garrett  Parker",
+        "position":138,
+        "teamNum":40,
+        "teamName":"Half natty daddies ",
+        "division":"Competitive Open",
+        "time":"1:58:50.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"forrest Moore",
+        "position":139,
+        "teamNum":471,
+        "teamName":"Heck We Need Moore Laines",
+        "division":"Family",
+        "time":"1:58:50.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John Williams",
+        "position":140,
+        "teamNum":346,
+        "teamName":"Nuthin\u2019 But a Ski Thang ",
+        "division":"Recreational Mixed",
+        "time":"1:59:06.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maya Hunger",
+        "position":141,
+        "teamNum":70,
+        "teamName":"Bellingham Firefighters team two",
+        "division":"Competitive Women",
+        "time":"1:59:11.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alan Chu",
+        "position":142,
+        "teamNum":192,
+        "teamName":"Washington State Ferries",
+        "division":"Recreational Open",
+        "time":"1:59:15.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Casey Hopple",
+        "position":143,
+        "teamNum":14,
+        "teamName":"Daddy's Girls",
+        "division":"Competitive Open",
+        "time":"1:59:27.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"TK Laidman",
+        "position":144,
+        "teamNum":284,
+        "teamName":"Bham and Cheese Sandwiches",
+        "division":"Recreational Open",
+        "time":"1:59:41.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bertrand  Hauss",
+        "position":145,
+        "teamNum":114,
+        "teamName":"Edmonds Engineering",
+        "division":"Recreational Open",
+        "time":"1:59:44.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kat Klass",
+        "position":146,
+        "teamNum":59,
+        "teamName":"The Katz Pajamas ",
+        "division":"Competitive Mixed",
+        "time":"1:59:45.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Daryl Hill",
+        "position":147,
+        "teamNum":175,
+        "teamName":"Pat's Dr Pepper team",
+        "division":"Recreational Open",
+        "time":"1:59:51.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Liam Simcic",
+        "position":148,
+        "teamNum":144,
+        "teamName":"Party Possums",
+        "division":"Recreational Open",
+        "time":"1:59:51.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Noah Flaherty",
+        "position":149,
+        "teamNum":10,
+        "teamName":"GAR Magenta",
+        "division":"Competitive Open",
+        "time":"1:59:52.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alice Hall",
+        "position":150,
+        "teamNum":272,
+        "teamName":"You look like a rat with glasses",
+        "division":"Recreational Open",
+        "time":"2:00:02.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Elliott Lauritzen",
+        "position":151,
+        "teamNum":298,
+        "teamName":"Here For a Good Time ",
+        "division":"Recreational Mixed",
+        "time":"2:00:20.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Trevor Velasco",
+        "position":152,
+        "teamNum":222,
+        "teamName":"Snowtorious Bikecurious Canoedlers",
+        "division":"Recreational Open",
+        "time":"2:00:27.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Hilary Higgins",
+        "position":153,
+        "teamNum":406,
+        "teamName":"Beastie Belles",
+        "division":"Recreational Women",
+        "time":"2:00:29.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Davis Mihelich",
+        "position":154,
+        "teamNum":460,
+        "teamName":"Cousin Clan",
+        "division":"Family",
+        "time":"2:00:37.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tey Steenbergen",
+        "position":155,
+        "teamNum":366,
+        "teamName":"Wait Up",
+        "division":"Recreational Mixed",
+        "time":"2:00:37.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andy Nelsen",
+        "position":156,
+        "teamNum":246,
+        "teamName":"Fred Meyer",
+        "division":"Competitive Open",
+        "time":"2:00:39.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ethan Grassley",
+        "position":157,
+        "teamNum":104,
+        "teamName":"WWU Men's Rugby",
+        "division":"Whatcom County Open",
+        "time":"2:00:48.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Patrick Borden",
+        "position":158,
+        "teamNum":262,
+        "teamName":"Where's Marv?",
+        "division":"Masters",
+        "time":"2:00:58.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Hayden Ryan",
+        "position":159,
+        "teamNum":162,
+        "teamName":"Flying Hellfish",
+        "division":"Recreational Open",
+        "time":"2:01:13.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Botterbusch",
+        "position":160,
+        "teamNum":440,
+        "teamName":"Samson Rope Technologies",
+        "division":"Corporate",
+        "time":"2:01:14.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jeff  Ridlon",
+        "position":161,
+        "teamNum":131,
+        "teamName":"SFD Station 4",
+        "division":"Recreational Open",
+        "time":"2:01:32.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Billy White",
+        "position":162,
+        "teamNum":27,
+        "teamName":"5 O\u2019Clock Somewhere",
+        "division":"Competitive Open",
+        "time":"2:01:35.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alex  Lund",
+        "position":163,
+        "teamNum":15,
+        "teamName":"Dawson Construction",
+        "division":"Competitive Open",
+        "time":"2:01:42.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Caspar  Dennehy",
+        "position":164,
+        "teamNum":30,
+        "teamName":"Couch Surfin' USA",
+        "division":"Competitive Open",
+        "time":"2:02:07.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Nieman",
+        "position":165,
+        "teamNum":313,
+        "teamName":"Frick-Yeah",
+        "division":"Recreational Mixed",
+        "time":"2:02:09.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Thomas Balk",
+        "position":166,
+        "teamNum":160,
+        "teamName":"Real Bros of Simi Valley",
+        "division":"Recreational Open",
+        "time":"2:02:20.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"David Bloom",
+        "position":167,
+        "teamNum":315,
+        "teamName":"Sea Panthers",
+        "division":"Recreational Open",
+        "time":"2:02:23.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tyler Johansson",
+        "position":168,
+        "teamNum":344,
+        "teamName":"Chafing the Dream",
+        "division":"Recreational Mixed",
+        "time":"2:02:24.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Zach Fowler",
+        "position":169,
+        "teamNum":360,
+        "teamName":"Erin Baker's",
+        "division":"Recreational Mixed",
+        "time":"2:02:48.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Grace Rothmeyer",
+        "position":170,
+        "teamNum":304,
+        "teamName":"sloths in sleeping bags",
+        "division":"Recreational Mixed",
+        "time":"2:02:48.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jacqueline Klecka",
+        "position":171,
+        "teamNum":321,
+        "teamName":"Alaska All-Stars",
+        "division":"Recreational Mixed",
+        "time":"2:02:50.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Keddy Conocchioli",
+        "position":172,
+        "teamNum":249,
+        "teamName":"Sisyphus boulders",
+        "division":"Recreational Open",
+        "time":"2:03:04.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Josh Rutz",
+        "position":173,
+        "teamNum":223,
+        "teamName":"Sweet As Waffles",
+        "division":"Recreational Open",
+        "time":"2:03:09.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ryder Locknane",
+        "position":174,
+        "teamNum":469,
+        "teamName":"Locknane Athletic Medicine",
+        "division":"Family",
+        "time":"2:03:13.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Alford",
+        "position":175,
+        "teamNum":270,
+        "teamName":"Geneva Ghomes",
+        "division":"Recreational Open",
+        "time":"2:03:13.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Gloekler",
+        "position":176,
+        "teamNum":151,
+        "teamName":"Biscuit Buttering Buddies",
+        "division":"Recreational Open",
+        "time":"2:03:18.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Enja Ahearn",
+        "position":177,
+        "teamNum":394,
+        "teamName":"Sassy Lassies",
+        "division":"Recreational Women",
+        "time":"2:03:19.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ethan Nash",
+        "position":178,
+        "teamNum":232,
+        "teamName":"Savage Pandas",
+        "division":"Recreational Open",
+        "time":"2:03:20.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jake Haught",
+        "position":179,
+        "teamNum":18,
+        "teamName":"Midwestern Anonymous ",
+        "division":"Competitive Open",
+        "time":"2:03:20.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"F\u00e9lix  Lapointe",
+        "position":180,
+        "teamNum":108,
+        "teamName":"The Alpine Baguettes",
+        "division":"Recreational Open",
+        "time":"2:03:28.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rebecca Bunn",
+        "position":181,
+        "teamNum":491,
+        "teamName":"Darwin's Bulldogs",
+        "division":"Masters",
+        "time":"2:03:30.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Dieder Maas",
+        "position":182,
+        "teamNum":209,
+        "teamName":"Worst Pace Scenario",
+        "division":"Recreational Open",
+        "time":"2:03:42.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Zach Marsh",
+        "position":183,
+        "teamNum":501,
+        "teamName":"American Canoe Association Veterans",
+        "division":"Veterans",
+        "time":"2:03:51.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Peter Escher",
+        "position":184,
+        "teamNum":126,
+        "teamName":"The Ranch",
+        "division":"Recreational Open",
+        "time":"2:03:52.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Adam Zakrzewski",
+        "position":185,
+        "teamNum":170,
+        "teamName":"Station 2 Turbo Racing Team",
+        "division":"Recreational Open",
+        "time":"2:03:54.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Josh Cunningham",
+        "position":186,
+        "teamNum":123,
+        "teamName":"Broken bodies",
+        "division":"Recreational Open",
+        "time":"2:03:55.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Blue Davis",
+        "position":187,
+        "teamNum":476,
+        "teamName":"Cheese raiders of doom ",
+        "division":"High School",
+        "time":"2:04:10.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Erik Dippold",
+        "position":188,
+        "teamNum":450,
+        "teamName":"Therapy Ravens",
+        "division":"Corporate",
+        "time":"2:04:16.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alec Molve",
+        "position":189,
+        "teamNum":381,
+        "teamName":"Sponsored by Cheddar",
+        "division":"Recreational Mixed",
+        "time":"2:04:18.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jubal Harpster",
+        "position":190,
+        "teamNum":499,
+        "teamName":"Green Eggs and Bellingham",
+        "division":"Veterans",
+        "time":"2:04:29.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eli Gooding",
+        "position":191,
+        "teamNum":317,
+        "teamName":"Glizzy ",
+        "division":"Recreational Mixed",
+        "time":"2:04:35.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rob Rush",
+        "position":192,
+        "teamNum":177,
+        "teamName":"Mighty Geoducks",
+        "division":"Recreational Open",
+        "time":"2:04:53.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Daniel Lee",
+        "position":193,
+        "teamNum":215,
+        "teamName":"What's the character limit?Because I wa-",
+        "division":"Recreational Open",
+        "time":"2:04:55.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Shawn Bjorback",
+        "position":194,
+        "teamNum":178,
+        "teamName":"NW Chum",
+        "division":"Recreational Open",
+        "time":"2:05:16.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Peter Reissmann",
+        "position":195,
+        "teamNum":456,
+        "teamName":"PeaceHealth Cancer Center Tumornators",
+        "division":"Corporate",
+        "time":"2:05:20.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kyle Elliott",
+        "position":196,
+        "teamNum":169,
+        "teamName":"Lichtenberg Guys",
+        "division":"Competitive Open",
+        "time":"2:05:44.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Riley Thuleen",
+        "position":197,
+        "teamNum":198,
+        "teamName":"Fringe racing",
+        "division":"Competitive Open",
+        "time":"2:05:45.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bert Huelmann",
+        "position":198,
+        "teamNum":186,
+        "teamName":"Fresh off the Couch",
+        "division":"Recreational Open",
+        "time":"2:05:46.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matthew Chan",
+        "position":199,
+        "teamNum":267,
+        "teamName":"But wait there's myrrh",
+        "division":"Recreational Open",
+        "time":"2:05:56.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sarah Truschel",
+        "position":200,
+        "teamNum":41,
+        "teamName":"Dude I Love Frogs",
+        "division":"Competitive Open",
+        "time":"2:05:59.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kiersten Brezina",
+        "position":201,
+        "teamNum":371,
+        "teamName":"Ridiculous Speed",
+        "division":"Recreational Mixed",
+        "time":"2:06:22.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"ABDEL WAHAB BOURAI",
+        "position":202,
+        "teamNum":6,
+        "teamName":"Codec Avatars",
+        "division":"Competitive Open",
+        "time":"2:06:30.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Finley",
+        "position":203,
+        "teamNum":224,
+        "teamName":"Team Dinoco",
+        "division":"Recreational Open",
+        "time":"2:06:30.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lisanne Kennedy",
+        "position":204,
+        "teamNum":150,
+        "teamName":"Dom and the Terry T's",
+        "division":"Recreational Open",
+        "time":"2:06:31.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emma Darby",
+        "position":205,
+        "teamNum":56,
+        "teamName":"something better than last year",
+        "division":"Competitive Mixed",
+        "time":"2:06:53.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tom Ballas",
+        "position":206,
+        "teamNum":388,
+        "teamName":"Bonjour Couloir ",
+        "division":"Recreational Mixed",
+        "time":"2:06:56.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Walt Ellis",
+        "position":207,
+        "teamNum":176,
+        "teamName":"Best team ever",
+        "division":"Competitive Open",
+        "time":"2:07:06.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Austin Hanks",
+        "position":208,
+        "teamNum":441,
+        "teamName":"Slurry in a Hurry",
+        "division":"Corporate",
+        "time":"2:07:07.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"James Laing",
+        "position":209,
+        "teamNum":124,
+        "teamName":"Bronson's Baddies",
+        "division":"Recreational Open",
+        "time":"2:07:25.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alex Hornbeck",
+        "position":210,
+        "teamNum":445,
+        "teamName":"EFFA",
+        "division":"Corporate",
+        "time":"2:07:27.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Justin Huerter",
+        "position":211,
+        "teamNum":273,
+        "teamName":"TulipTeers",
+        "division":"Recreational Open",
+        "time":"2:07:29.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ben Bruce",
+        "position":212,
+        "teamNum":195,
+        "teamName":"Pflueger Inc",
+        "division":"Recreational Open",
+        "time":"2:07:32.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tyler Hotte",
+        "position":213,
+        "teamNum":210,
+        "teamName":"Huge Whales",
+        "division":"Recreational Open",
+        "time":"2:07:34.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Behee",
+        "position":214,
+        "teamNum":101,
+        "teamName":"City Haul",
+        "division":"Whatcom County Open",
+        "time":"2:07:43.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brendan Greetham",
+        "position":215,
+        "teamNum":197,
+        "teamName":"Off Constantly",
+        "division":"Recreational Open",
+        "time":"2:07:52.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Wentland",
+        "position":216,
+        "teamNum":139,
+        "teamName":"PAH!",
+        "division":"Recreational Open",
+        "time":"2:07:56.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jonathan Hightower",
+        "position":217,
+        "teamNum":172,
+        "teamName":"Pebble Wrestlers Go Multisporting",
+        "division":"Recreational Open",
+        "time":"2:08:00.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Thiran Udawatta",
+        "position":218,
+        "teamNum":436,
+        "teamName":"Proliance Pacific Rim",
+        "division":"Corporate",
+        "time":"2:08:02.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jeff Welke",
+        "position":219,
+        "teamNum":206,
+        "teamName":"PlantHoarders",
+        "division":"Recreational Open",
+        "time":"2:08:03.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jamison Weeks",
+        "position":220,
+        "teamNum":180,
+        "teamName":"Washed-Up Athletes",
+        "division":"Recreational Open",
+        "time":"2:08:10.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Aubrey Nelson",
+        "position":221,
+        "teamNum":201,
+        "teamName":"Tumwater Shadies",
+        "division":"Recreational Open",
+        "time":"2:08:24.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tyler Robinson",
+        "position":222,
+        "teamNum":103,
+        "teamName":"Cold cuts and mayo",
+        "division":"Whatcom County Open",
+        "time":"2:08:31.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Addison Verret",
+        "position":223,
+        "teamNum":479,
+        "teamName":"The Kids Aren't Alright ",
+        "division":"High School",
+        "time":"2:08:35.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jimmy Jacobson",
+        "position":224,
+        "teamNum":362,
+        "teamName":"Pauly D and Massimo are in love ",
+        "division":"Recreational Open",
+        "time":"2:08:36.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ethan Chamberlain",
+        "position":225,
+        "teamNum":328,
+        "teamName":"Gumby Goats",
+        "division":"Recreational Mixed",
+        "time":"2:08:38.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jonathan Kelley",
+        "position":226,
+        "teamNum":306,
+        "teamName":"Hedgehog the Loaf Dogs",
+        "division":"Recreational Mixed",
+        "time":"2:08:43.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Josh  James",
+        "position":227,
+        "teamNum":434,
+        "teamName":"B Shift ",
+        "division":"Corporate",
+        "time":"2:08:59.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nigel Hall",
+        "position":228,
+        "teamNum":386,
+        "teamName":"Ski-sy Does It",
+        "division":"Recreational Mixed",
+        "time":"2:09:06.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Katie Cochrane",
+        "position":229,
+        "teamNum":289,
+        "teamName":"Gaggle of Geezers",
+        "division":"Competitive Open",
+        "time":"2:09:18.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sawyer Fleming",
+        "position":230,
+        "teamNum":481,
+        "teamName":"Fast Action Racing Team",
+        "division":"High School",
+        "time":"2:09:26.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Stephanie Gowing",
+        "position":231,
+        "teamNum":297,
+        "teamName":"Absher Construction Hammer Time",
+        "division":"Recreational Mixed",
+        "time":"2:09:35.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kenneth Majander",
+        "position":232,
+        "teamNum":128,
+        "teamName":"Hullut Oravat",
+        "division":"Recreational Open",
+        "time":"2:09:39.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Hannah Pittman",
+        "position":233,
+        "teamNum":142,
+        "teamName":"Keep Portland Weird",
+        "division":"Recreational Open",
+        "time":"2:09:45.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Dominik Figueroa",
+        "position":234,
+        "teamNum":202,
+        "teamName":"Capitol Hill Boys",
+        "division":"Recreational Open",
+        "time":"2:09:55.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joy Chen",
+        "position":235,
+        "teamNum":188,
+        "teamName":"&BC Party B",
+        "division":"Recreational Open",
+        "time":"2:09:57.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Cole Wilson",
+        "position":236,
+        "teamNum":260,
+        "teamName":"Off The Couch",
+        "division":"Recreational Open",
+        "time":"2:09:58.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Scott Corbridge",
+        "position":237,
+        "teamNum":111,
+        "teamName":"ORCA Team",
+        "division":"Recreational Open",
+        "time":"2:10:11.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nate Li",
+        "position":238,
+        "teamNum":342,
+        "teamName":"Cocodona 250 Prep Team",
+        "division":"Recreational Mixed",
+        "time":"2:10:22.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Wesley Houser",
+        "position":239,
+        "teamNum":157,
+        "teamName":"Salish Seapeople",
+        "division":"Recreational Open",
+        "time":"2:10:38.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Denali Jones",
+        "position":240,
+        "teamNum":302,
+        "teamName":"Racey McRaceFace",
+        "division":"Recreational Mixed",
+        "time":"2:10:47.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tamara Harris",
+        "position":241,
+        "teamNum":403,
+        "teamName":"Beers and Bros",
+        "division":"Recreational Women",
+        "time":"2:10:47.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alejandro Rey",
+        "position":242,
+        "teamNum":105,
+        "teamName":"NON SIBI SED ALIIS",
+        "division":"Whatcom County Open",
+        "time":"2:10:49.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kasey Bell",
+        "position":243,
+        "teamNum":495,
+        "teamName":"GRUBS PAIN PARADE",
+        "division":"Veterans",
+        "time":"2:10:56.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mitch Metcalf",
+        "position":244,
+        "teamNum":190,
+        "teamName":"Purple Hat Cheetah Shrimp",
+        "division":"Recreational Open",
+        "time":"2:11:11.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Adam Brayton",
+        "position":245,
+        "teamNum":214,
+        "teamName":"Leisure Sportsmen",
+        "division":"Competitive Open",
+        "time":"2:11:16.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Allen",
+        "position":246,
+        "teamNum":442,
+        "teamName":"Associated Earth Sciences Inc.",
+        "division":"Corporate",
+        "time":"2:11:17.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andrew Kimpel",
+        "position":247,
+        "teamNum":155,
+        "teamName":"Heading Weast",
+        "division":"Recreational Open",
+        "time":"2:11:21.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Beard",
+        "position":248,
+        "teamNum":472,
+        "teamName":"Cousin Crew",
+        "division":"Family",
+        "time":"2:11:27.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Heather  Pearson",
+        "position":249,
+        "teamNum":82,
+        "teamName":"542 Zoo",
+        "division":"Recreational Open",
+        "time":"2:11:28.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Silas Dejarnatt",
+        "position":250,
+        "teamNum":480,
+        "teamName":"Oly",
+        "division":"High School",
+        "time":"2:11:30.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Patrick Benjamin",
+        "position":251,
+        "teamNum":235,
+        "teamName":"Evergreen",
+        "division":"Recreational Open",
+        "time":"2:11:31.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Gretchen Pflueger",
+        "position":252,
+        "teamNum":67,
+        "teamName":"Ski to Sea Sissies",
+        "division":"Competitive Women",
+        "time":"2:11:33.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Connor Clayton",
+        "position":253,
+        "teamNum":161,
+        "teamName":"8 Guys, 1 Canoe",
+        "division":"Recreational Open",
+        "time":"2:11:40.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nina Hooper",
+        "position":254,
+        "teamNum":426,
+        "teamName":"The Rack Pack",
+        "division":"Car-Free",
+        "time":"2:11:51.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ashleigh Fischer",
+        "position":255,
+        "teamNum":419,
+        "teamName":"Starfish and Coffee",
+        "division":"Car-Free",
+        "time":"2:12:02.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Craig Weiland",
+        "position":256,
+        "teamNum":158,
+        "teamName":"Middlemarch to the Sea",
+        "division":"Recreational Open",
+        "time":"2:12:14.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Dete Mordhorst",
+        "position":257,
+        "teamNum":265,
+        "teamName":"Nucor-Allspan",
+        "division":"Recreational Open",
+        "time":"2:12:16.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sean McRoberts",
+        "position":258,
+        "teamNum":227,
+        "teamName":"~we should think of a team name~",
+        "division":"Recreational Open",
+        "time":"2:12:25.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sarah Haensley",
+        "position":259,
+        "teamNum":293,
+        "teamName":"SportBOI ",
+        "division":"Competitive Mixed",
+        "time":"2:12:41.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rachel  Luse",
+        "position":260,
+        "teamNum":332,
+        "teamName":"Banana bread people",
+        "division":"Recreational Mixed",
+        "time":"2:12:50.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matthew  Nagel",
+        "position":261,
+        "teamNum":33,
+        "teamName":"Roscals",
+        "division":"Competitive Open",
+        "time":"2:12:56.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Dane Siegfried",
+        "position":262,
+        "teamNum":238,
+        "teamName":"Arlis\u2019s Restaurant  ",
+        "division":"Recreational Open",
+        "time":"2:13:01.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Peter Hurst",
+        "position":263,
+        "teamNum":446,
+        "teamName":"Northwest Hydraulic Consultants - WA",
+        "division":"Corporate",
+        "time":"2:13:09.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Tilda Cressman",
+        "position":264,
+        "teamNum":48,
+        "teamName":"Birdemic",
+        "division":"Competitive Open",
+        "time":"2:13:15.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kyle Richards",
+        "position":265,
+        "teamNum":39,
+        "teamName":"Real Housewives Fan Club",
+        "division":"Competitive Open",
+        "time":"2:13:15.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andrew Macinnes",
+        "position":266,
+        "teamNum":250,
+        "teamName":"Metabolize to Freedom ",
+        "division":"Recreational Open",
+        "time":"2:13:26.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Svenja Fleischer",
+        "position":267,
+        "teamNum":90,
+        "teamName":"Mixed Nuts",
+        "division":"Whatcom County Mixed",
+        "time":"2:13:41.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sally  Hanson",
+        "position":268,
+        "teamNum":61,
+        "teamName":"D1 Haters",
+        "division":"Competitive Mixed",
+        "time":"2:13:53.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ryan Sadowy",
+        "position":269,
+        "teamNum":113,
+        "teamName":"Doc Racer",
+        "division":"Recreational Open",
+        "time":"2:14:10.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Grace Swanson",
+        "position":270,
+        "teamNum":459,
+        "teamName":"Sasquatch Sprinters",
+        "division":"Family",
+        "time":"2:14:25.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Paul  Cohen",
+        "position":271,
+        "teamNum":231,
+        "teamName":"Just Nuts",
+        "division":"Recreational Open",
+        "time":"2:14:36.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Grant Simpson",
+        "position":272,
+        "teamNum":133,
+        "teamName":"We'll Be Faster Next Year",
+        "division":"Recreational Open",
+        "time":"2:14:48.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Phoebe Berghout",
+        "position":273,
+        "teamNum":303,
+        "teamName":"Sephora",
+        "division":"Recreational Mixed",
+        "time":"2:14:52.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Giulia Terrana",
+        "position":274,
+        "teamNum":241,
+        "teamName":"Cascadia One Pass",
+        "division":"Recreational Open",
+        "time":"2:15:07.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eamonn Himka",
+        "position":275,
+        "teamNum":46,
+        "teamName":"Team de Haan",
+        "division":"Competitive Open",
+        "time":"2:15:14.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris  McKay",
+        "position":276,
+        "teamNum":182,
+        "teamName":"Murder Hornet Hot Sauce",
+        "division":"Recreational Open",
+        "time":"2:15:24.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lexi Pedersen",
+        "position":277,
+        "teamNum":457,
+        "teamName":"Northwest Hydraulic Consultants - BC",
+        "division":"Corporate",
+        "time":"2:15:33.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Erin Grant",
+        "position":278,
+        "teamNum":85,
+        "teamName":"Crevasse Play",
+        "division":"Whatcom County Mixed",
+        "time":"2:15:45.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maya Virshup",
+        "position":279,
+        "teamNum":349,
+        "teamName":"The Loosest Units",
+        "division":"Recreational Mixed",
+        "time":"2:15:47.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Caroline Fenelon",
+        "position":280,
+        "teamNum":320,
+        "teamName":"Donuts",
+        "division":"Recreational Mixed",
+        "time":"2:15:48.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kacy Hillman",
+        "position":281,
+        "teamNum":73,
+        "teamName":"American Canoe Association Women",
+        "division":"Competitive Women",
+        "time":"2:15:54.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Paul Elliot",
+        "position":282,
+        "teamNum":21,
+        "teamName":"I'm Givin' It All She's Got, Captain!",
+        "division":"Competitive Open",
+        "time":"2:16:03.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Zach Kiefer",
+        "position":283,
+        "teamNum":358,
+        "teamName":"The 7 Deadly Wins",
+        "division":"Recreational Mixed",
+        "time":"2:16:14.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Scott Healey",
+        "position":284,
+        "teamNum":348,
+        "teamName":"Fighting Snails of Snowline",
+        "division":"Recreational Open",
+        "time":"2:16:24.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Enrique A",
+        "position":285,
+        "teamNum":387,
+        "teamName":"Apex Fitness Nw ",
+        "division":"Recreational Open",
+        "time":"2:16:24.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kristin Clarkman",
+        "position":286,
+        "teamNum":74,
+        "teamName":"Hypegirls",
+        "division":"Whatcom County Women",
+        "time":"2:16:37.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maddison Howard",
+        "position":287,
+        "teamNum":49,
+        "teamName":"Poly's Powder Pedal Paddlers",
+        "division":"Competitive Mixed",
+        "time":"2:16:40.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joel Hahn",
+        "position":288,
+        "teamNum":127,
+        "teamName":"Joggers and Lagers",
+        "division":"Recreational Open",
+        "time":"2:16:55.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jordan Koski",
+        "position":289,
+        "teamNum":308,
+        "teamName":"Here For The Ap-race (Apr\u00e8s)",
+        "division":"Recreational Mixed",
+        "time":"2:17:06.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Williamson",
+        "position":290,
+        "teamNum":208,
+        "teamName":"Beach Cat Brewing",
+        "division":"Recreational Open",
+        "time":"2:17:23.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Stephanie  Spiekerman",
+        "position":291,
+        "teamNum":410,
+        "teamName":"Scrambled Legs",
+        "division":"Recreational Women",
+        "time":"2:17:24.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nathaniel Bennett",
+        "position":292,
+        "teamNum":228,
+        "teamName":"The Ski and The Sea (2024)",
+        "division":"Recreational Open",
+        "time":"2:17:32.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kelsey Brooks ",
+        "position":293,
+        "teamNum":120,
+        "teamName":"No Pee Breaks ",
+        "division":"Recreational Open",
+        "time":"2:17:40.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kevin Kennedy",
+        "position":294,
+        "teamNum":462,
+        "teamName":"Family Tries",
+        "division":"Family",
+        "time":"2:17:46.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Noah Engel",
+        "position":295,
+        "teamNum":95,
+        "teamName":"Tres Leches",
+        "division":"Whatcom County Open",
+        "time":"2:17:47.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Delaney Cassidy",
+        "position":296,
+        "teamNum":411,
+        "teamName":"purple hat cheetah print",
+        "division":"Recreational Women",
+        "time":"2:17:50.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ben Vernhes",
+        "position":297,
+        "teamNum":146,
+        "teamName":"8 Musketeers ",
+        "division":"Recreational Open",
+        "time":"2:18:02.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Megan Struthers",
+        "position":298,
+        "teamNum":140,
+        "teamName":"Uncontrolled Descent",
+        "division":"Recreational Open",
+        "time":"2:18:08.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily Strenk",
+        "position":299,
+        "teamNum":424,
+        "teamName":"Escar-no!",
+        "division":"Car-Free",
+        "time":"2:18:20.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Riva Davis",
+        "position":300,
+        "teamNum":422,
+        "teamName":"Surfrider Sea Sirens",
+        "division":"Car-Free",
+        "time":"2:18:25.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Zoe Krauss",
+        "position":301,
+        "teamNum":330,
+        "teamName":"Green M&M Fan Club",
+        "division":"Recreational Mixed",
+        "time":"2:18:36.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ellen Keilman",
+        "position":302,
+        "teamNum":75,
+        "teamName":"Bell Belles",
+        "division":"Whatcom County Women",
+        "time":"2:18:44.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Marcus Crandall",
+        "position":303,
+        "teamNum":431,
+        "teamName":"Lynden Door",
+        "division":"Corporate",
+        "time":"2:18:49.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Elyse Lindahl",
+        "position":304,
+        "teamNum":77,
+        "teamName":"glitter girls",
+        "division":"Whatcom County Women",
+        "time":"2:18:53.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ricardo Vivanco",
+        "position":305,
+        "teamNum":325,
+        "teamName":"The Snafflehounds",
+        "division":"Recreational Mixed",
+        "time":"2:19:09.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ishani Sahu",
+        "position":306,
+        "teamNum":370,
+        "teamName":"Cuervo no chafers",
+        "division":"Recreational Mixed",
+        "time":"2:19:09.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Marysia Kaminska",
+        "position":307,
+        "teamNum":416,
+        "teamName":"Kween County Flames",
+        "division":"Recreational Women",
+        "time":"2:19:11.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joe Dobson",
+        "position":308,
+        "teamNum":173,
+        "teamName":"We've Been Robbed",
+        "division":"Recreational Open",
+        "time":"2:19:58.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mark Nelson",
+        "position":309,
+        "teamNum":367,
+        "teamName":"Are we there yet?",
+        "division":"Recreational Mixed",
+        "time":"2:19:59.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brett Igbinoba",
+        "position":310,
+        "teamNum":314,
+        "teamName":"Here for the Free T-Shirt",
+        "division":"Recreational Mixed",
+        "time":"2:20:10.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bryan Carriker",
+        "position":311,
+        "teamNum":122,
+        "teamName":"Insert clever name here",
+        "division":"Recreational Open",
+        "time":"2:20:11.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kevin Cirilli",
+        "position":312,
+        "teamNum":341,
+        "teamName":"JoJo's Angels",
+        "division":"Recreational Mixed",
+        "time":"2:20:12.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nicholas Anderson",
+        "position":313,
+        "teamNum":467,
+        "teamName":"TydalWave",
+        "division":"Family",
+        "time":"2:20:20.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sasha Lewis",
+        "position":314,
+        "teamNum":80,
+        "teamName":"On Your Left",
+        "division":"Whatcom County Women",
+        "time":"2:20:21.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Devin Harper",
+        "position":315,
+        "teamNum":329,
+        "teamName":"The Spud Squad: Unpeeled ",
+        "division":"Recreational Open",
+        "time":"2:20:30.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Gabby Brower",
+        "position":316,
+        "teamNum":368,
+        "teamName":"SlowMotion2theOcean",
+        "division":"Recreational Mixed",
+        "time":"2:20:45.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ashley Davis",
+        "position":317,
+        "teamNum":295,
+        "teamName":"Indie Gals & New England's Finest",
+        "division":"Recreational Mixed",
+        "time":"2:20:48.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brennan  Lewis",
+        "position":318,
+        "teamNum":143,
+        "teamName":"The Purple Cobras",
+        "division":"Recreational Open",
+        "time":"2:20:52.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Andrew Huang",
+        "position":319,
+        "teamNum":285,
+        "teamName":"Spiny Lumpsuckers ",
+        "division":"Recreational Open",
+        "time":"2:21:14.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Laura Schulz",
+        "position":320,
+        "teamNum":363,
+        "teamName":"Skiyii! to Seamen",
+        "division":"Recreational Mixed",
+        "time":"2:21:33.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lucas Huibregtse",
+        "position":321,
+        "teamNum":376,
+        "teamName":"DTF",
+        "division":"Recreational Mixed",
+        "time":"2:21:37.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Trish Kerner",
+        "position":322,
+        "teamNum":404,
+        "teamName":"Ski to Seeesters",
+        "division":"Recreational Women",
+        "time":"2:21:40.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mike Gluck",
+        "position":323,
+        "teamNum":251,
+        "teamName":"Tortoises and the Hares (Green)",
+        "division":"Recreational Open",
+        "time":"2:21:45.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"carroll haymon",
+        "position":324,
+        "teamNum":292,
+        "teamName":"Gumby All-Stars",
+        "division":"Recreational Mixed",
+        "time":"2:22:02.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kat Lopez",
+        "position":325,
+        "teamNum":211,
+        "teamName":"Meatheart",
+        "division":"Recreational Open",
+        "time":"2:22:04.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eric Rudder",
+        "position":326,
+        "teamNum":230,
+        "teamName":"Jetsam",
+        "division":"Recreational Open",
+        "time":"2:22:10.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Celio Biering",
+        "position":327,
+        "teamNum":487,
+        "teamName":"Delivering Strong ",
+        "division":"Masters",
+        "time":"2:22:17.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Zoe Cowan",
+        "position":328,
+        "teamNum":400,
+        "teamName":"Ski\u00f1or-to-Se\u00f1ior",
+        "division":"Recreational Women",
+        "time":"2:22:19.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Chandler",
+        "position":329,
+        "teamNum":339,
+        "teamName":"Row Roe Rho You're Boot",
+        "division":"Recreational Mixed",
+        "time":"2:22:25.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nellie Joselyn",
+        "position":330,
+        "teamNum":322,
+        "teamName":"The Honey Bucket",
+        "division":"Recreational Mixed",
+        "time":"2:22:27.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Paige Hauter",
+        "position":331,
+        "teamNum":405,
+        "teamName":"Legs Mis\u00e9rables",
+        "division":"Recreational Women",
+        "time":"2:22:54.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kyle Snow",
+        "position":332,
+        "teamNum":221,
+        "teamName":"Data-Driven Downhillers",
+        "division":"Recreational Open",
+        "time":"2:22:55.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kristen LeBar ",
+        "position":333,
+        "teamNum":398,
+        "teamName":"Slaydies ",
+        "division":"Recreational Women",
+        "time":"2:23:04.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sara Helvestine",
+        "position":334,
+        "teamNum":130,
+        "teamName":"Swifties to Sea",
+        "division":"Recreational Open",
+        "time":"2:23:09.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rebekka Federer",
+        "position":335,
+        "teamNum":76,
+        "teamName":"whatcom family medicine ladies",
+        "division":"Whatcom County Women",
+        "time":"2:23:18.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Morgan Scott",
+        "position":336,
+        "teamNum":233,
+        "teamName":"The Rohirim",
+        "division":"Recreational Open",
+        "time":"2:23:24.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ranjan Shakya",
+        "position":337,
+        "teamNum":353,
+        "teamName":"Out & About",
+        "division":"Recreational Mixed",
+        "time":"2:23:32.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Susan Nourse",
+        "position":338,
+        "teamNum":119,
+        "teamName":"Wokaz",
+        "division":"Recreational Open",
+        "time":"2:23:42.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Clare Riva",
+        "position":339,
+        "teamNum":392,
+        "teamName":"Athenas",
+        "division":"Recreational Women",
+        "time":"2:23:47.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jordan Samford",
+        "position":340,
+        "teamNum":179,
+        "teamName":"The Snoozing Sloths",
+        "division":"Recreational Open",
+        "time":"2:23:52.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Marina Chanel",
+        "position":341,
+        "teamNum":389,
+        "teamName":"The Biggest Rippers",
+        "division":"Recreational Women",
+        "time":"2:24:02.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Elena Bauer",
+        "position":342,
+        "teamNum":257,
+        "teamName":"Indefatigable ",
+        "division":"Recreational Open",
+        "time":"2:24:04.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brett Bauer",
+        "position":343,
+        "teamNum":256,
+        "teamName":"Safety Third",
+        "division":"Recreational Open",
+        "time":"2:24:05.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jack Hogan",
+        "position":344,
+        "teamNum":194,
+        "teamName":"Friends of Maya",
+        "division":"Recreational Open",
+        "time":"2:24:12.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bob Coyne",
+        "position":345,
+        "teamNum":132,
+        "teamName":"Burning Bunions",
+        "division":"Recreational Open",
+        "time":"2:24:14.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Adam Richardson",
+        "position":346,
+        "teamNum":31,
+        "teamName":"1 for the money, 4 for the show",
+        "division":"Competitive Open",
+        "time":"2:24:17.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alexander Titus",
+        "position":347,
+        "teamNum":468,
+        "teamName":"OFY",
+        "division":"Family",
+        "time":"2:24:31.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sean Kounovsky",
+        "position":348,
+        "teamNum":205,
+        "teamName":"We Mean Business",
+        "division":"Recreational Open",
+        "time":"2:24:35.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rachel Enyeart",
+        "position":349,
+        "teamNum":296,
+        "teamName":"Napping Turtles",
+        "division":"Recreational Mixed",
+        "time":"2:24:52.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily Adams",
+        "position":350,
+        "teamNum":393,
+        "teamName":"The Girly Pops ",
+        "division":"Recreational Women",
+        "time":"2:24:58.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Holt",
+        "position":351,
+        "teamNum":361,
+        "teamName":"Out With the Gold, In With the New",
+        "division":"Recreational Mixed",
+        "time":"2:25:01.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lucian Wischik",
+        "position":352,
+        "teamNum":165,
+        "teamName":"All the Peeps",
+        "division":"Recreational Open",
+        "time":"2:25:15.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Shawn Newton",
+        "position":353,
+        "teamNum":301,
+        "teamName":"Sporty Barbies",
+        "division":"Recreational Mixed",
+        "time":"2:25:26.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lindsay Lee",
+        "position":354,
+        "teamNum":374,
+        "teamName":"VALLEY TO SOUND",
+        "division":"Recreational Mixed",
+        "time":"2:25:40.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Max Simons",
+        "position":355,
+        "teamNum":112,
+        "teamName":"Slog Dogs",
+        "division":"Recreational Open",
+        "time":"2:26:21.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Grant Wadley",
+        "position":356,
+        "teamNum":258,
+        "teamName":"Blame the Kids",
+        "division":"Recreational Open",
+        "time":"2:26:29.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"laird findlay",
+        "position":357,
+        "teamNum":461,
+        "teamName":"Powered by Fudge",
+        "division":"Family",
+        "time":"2:26:29.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rosalys Bryan",
+        "position":358,
+        "teamNum":118,
+        "teamName":"The Weasels",
+        "division":"Recreational Open",
+        "time":"2:26:31.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rowan  Stark",
+        "position":359,
+        "teamNum":482,
+        "teamName":"Got fish?",
+        "division":"High School",
+        "time":"2:26:45.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Scott Smith",
+        "position":360,
+        "teamNum":107,
+        "teamName":"Super 8",
+        "division":"Recreational Open",
+        "time":"2:27:05.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"AMY HOYT",
+        "position":361,
+        "teamNum":89,
+        "teamName":"DRIVEN ATHLETICS - AWESOME",
+        "division":"Recreational Open",
+        "time":"2:27:09.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily Mirra",
+        "position":362,
+        "teamNum":331,
+        "teamName":"Em's Birthday Entourage",
+        "division":"Recreational Mixed",
+        "time":"2:27:27.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"John All",
+        "position":363,
+        "teamNum":44,
+        "teamName":"Bellingham Mountain Rescue",
+        "division":"Veterans",
+        "time":"2:27:36.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Krista  Lowen",
+        "position":364,
+        "teamNum":181,
+        "teamName":"Speed Sold Separately",
+        "division":"Recreational Open",
+        "time":"2:27:57.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matthew  Robbins",
+        "position":365,
+        "teamNum":263,
+        "teamName":"Quigleys Quest",
+        "division":"Recreational Open",
+        "time":"2:28:40.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Britt Holmquist",
+        "position":366,
+        "teamNum":225,
+        "teamName":"37.5% Holmquist",
+        "division":"Recreational Open",
+        "time":"2:28:51.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ricardo Lopez",
+        "position":367,
+        "teamNum":254,
+        "teamName":"Don't Stop Us Now!",
+        "division":"Recreational Open",
+        "time":"2:29:12.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jordan Sheehan",
+        "position":368,
+        "teamNum":335,
+        "teamName":"Yellow Aster Butts",
+        "division":"Recreational Mixed",
+        "time":"2:29:17.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alex Simpson",
+        "position":369,
+        "teamNum":428,
+        "teamName":"Triumphantly Triumphant",
+        "division":"Corporate",
+        "time":"2:29:20.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jayden Gatewood",
+        "position":370,
+        "teamNum":503,
+        "teamName":"The Not-So Neighbors",
+        "division":"Recreational Mixed",
+        "time":"2:29:53.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily McQuarrie",
+        "position":371,
+        "teamNum":372,
+        "teamName":"Slopes & Hoes",
+        "division":"Recreational Mixed",
+        "time":"2:30:03.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jessica Rigas",
+        "position":372,
+        "teamNum":71,
+        "teamName":"Annealed 4 ever",
+        "division":"Competitive Women",
+        "time":"2:30:04.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jason Castaneda",
+        "position":373,
+        "teamNum":135,
+        "teamName":"Bread",
+        "division":"Recreational Open",
+        "time":"2:30:20.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ryan Kenny",
+        "position":374,
+        "teamNum":475,
+        "teamName":"Kenny-Balen",
+        "division":"Family",
+        "time":"2:30:57.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Rebecca Mendelsohn",
+        "position":375,
+        "teamNum":324,
+        "teamName":"Amateur Hour(z)",
+        "division":"Recreational Mixed",
+        "time":"2:30:58.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Shane Sobotks",
+        "position":376,
+        "teamNum":83,
+        "teamName":"Don't Call It a Comeback ",
+        "division":"Whatcom County Mixed",
+        "time":"2:31:11.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Will Jaroszewicz",
+        "position":377,
+        "teamNum":465,
+        "teamName":"Team Betty",
+        "division":"Family",
+        "time":"2:31:38.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jezz Kelway",
+        "position":378,
+        "teamNum":274,
+        "teamName":"Jolly Jezzercisers",
+        "division":"Recreational Open",
+        "time":"2:31:45.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jonathan  Alkan",
+        "position":379,
+        "teamNum":337,
+        "teamName":"Type 4 Fun",
+        "division":"Recreational Mixed",
+        "time":"2:32:05.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Stanislaus Whitcomb",
+        "position":380,
+        "teamNum":116,
+        "teamName":"Dirty Snoqualmie Rats",
+        "division":"Recreational Open",
+        "time":"2:32:48.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Katie Weir",
+        "position":381,
+        "teamNum":183,
+        "teamName":"Zoogers",
+        "division":"Recreational Open",
+        "time":"2:33:09.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Isabella Winston",
+        "position":382,
+        "teamNum":121,
+        "teamName":"My Beasts ",
+        "division":"Recreational Mixed",
+        "time":"2:33:11.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Thomas Ricks",
+        "position":383,
+        "teamNum":229,
+        "teamName":"Flotsam",
+        "division":"Recreational Open",
+        "time":"2:33:21.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kris Gonzalez ",
+        "position":384,
+        "teamNum":248,
+        "teamName":"Changeit",
+        "division":"Recreational Open",
+        "time":"2:33:55.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily Nathon-Farr",
+        "position":385,
+        "teamNum":106,
+        "teamName":"Surprisingly Athletic!",
+        "division":"Recreational Mixed",
+        "time":"2:34:01.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Noah Wheeler",
+        "position":386,
+        "teamNum":35,
+        "teamName":"Hype Beasts",
+        "division":"Competitive Open",
+        "time":"2:34:11.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Becca Agnor",
+        "position":387,
+        "teamNum":318,
+        "teamName":"Twispians",
+        "division":"Recreational Mixed",
+        "time":"2:34:20.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Drew Bell",
+        "position":388,
+        "teamNum":356,
+        "teamName":"Lord of the Skis: Fellowship of the Sea",
+        "division":"Recreational Mixed",
+        "time":"2:34:31.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Alex Tielker",
+        "position":389,
+        "teamNum":234,
+        "teamName":"Ski to Sea All Stars",
+        "division":"Recreational Open",
+        "time":"2:34:47.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emilie Kurth",
+        "position":390,
+        "teamNum":307,
+        "teamName":"BrewSKI to BarSEAt",
+        "division":"Recreational Mixed",
+        "time":"2:35:03.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Michael Cecil",
+        "position":391,
+        "teamNum":93,
+        "teamName":"Whatcom's Wildest",
+        "division":"Whatcom County Mixed",
+        "time":"2:35:11.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brian Darst",
+        "position":392,
+        "teamNum":212,
+        "teamName":"The Nerd Clusters",
+        "division":"Recreational Open",
+        "time":"2:35:47.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jack Wiken",
+        "position":393,
+        "teamNum":378,
+        "teamName":"SkizNutz",
+        "division":"Recreational Mixed",
+        "time":"2:35:53.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Dorio",
+        "position":394,
+        "teamNum":154,
+        "teamName":"Hash-Slinging Slashers",
+        "division":"Recreational Open",
+        "time":"2:36:12.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matthew Hovancsek",
+        "position":395,
+        "teamNum":343,
+        "teamName":"Lilac City",
+        "division":"Recreational Mixed",
+        "time":"2:36:16.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kate Bachenberg",
+        "position":396,
+        "teamNum":413,
+        "teamName":"Reverse Ski Girl ",
+        "division":"Recreational Women",
+        "time":"2:36:32.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily McKay",
+        "position":397,
+        "teamNum":319,
+        "teamName":"Bilbo Laggins Behind",
+        "division":"Recreational Mixed",
+        "time":"2:36:32.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kellen  O\u2019Neil",
+        "position":398,
+        "teamNum":282,
+        "teamName":"Half Bakered",
+        "division":"Recreational Open",
+        "time":"2:37:00.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Atticus Gilkey",
+        "position":399,
+        "teamNum":477,
+        "teamName":"ski till we pee",
+        "division":"High School",
+        "time":"2:37:26.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jeff Tuttle",
+        "position":400,
+        "teamNum":452,
+        "teamName":"WTBrigade",
+        "division":"Corporate",
+        "time":"2:37:46.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Olivia Cleburn",
+        "position":401,
+        "teamNum":364,
+        "teamName":"Rowdy Roosters",
+        "division":"Recreational Mixed",
+        "time":"2:38:03.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nicole Ferguson",
+        "position":402,
+        "teamNum":141,
+        "teamName":"Full Spectrum",
+        "division":"Recreational Open",
+        "time":"2:38:10.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jeff Morrison",
+        "position":403,
+        "teamNum":489,
+        "teamName":"Fit(ish) over 40",
+        "division":"Masters",
+        "time":"2:38:51.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Casi Lund",
+        "position":404,
+        "teamNum":377,
+        "teamName":"Plus Ones ",
+        "division":"Recreational Mixed",
+        "time":"2:38:59.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maggie Woods",
+        "position":405,
+        "teamNum":261,
+        "teamName":"Vitality--V8",
+        "division":"Recreational Open",
+        "time":"2:39:23.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eleanor  Bartolomeo",
+        "position":406,
+        "teamNum":444,
+        "teamName":"The Logjammers ",
+        "division":"Corporate",
+        "time":"2:39:24.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kenna Kuhn",
+        "position":407,
+        "teamNum":408,
+        "teamName":"Lick My Glit",
+        "division":"Recreational Women",
+        "time":"2:39:50.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Charlotte Cerveny",
+        "position":408,
+        "teamNum":164,
+        "teamName":"Eat My Jorts",
+        "division":"Recreational Open",
+        "time":"2:39:50.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kelsey Stanton",
+        "position":409,
+        "teamNum":299,
+        "teamName":"Party Animals Going BellingHAM",
+        "division":"Recreational Mixed",
+        "time":"2:40:19.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Chris Natale",
+        "position":410,
+        "teamNum":259,
+        "teamName":"Baker Babes",
+        "division":"Recreational Open",
+        "time":"2:40:20.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Olivia Magaret",
+        "position":411,
+        "teamNum":359,
+        "teamName":"Happy Birthday Olivia!",
+        "division":"Recreational Mixed",
+        "time":"2:40:22.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Briana Boylan",
+        "position":412,
+        "teamNum":207,
+        "teamName":"Murkey Sizemores ",
+        "division":"Recreational Open",
+        "time":"2:40:48.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Nick Carpenter",
+        "position":413,
+        "teamNum":352,
+        "teamName":"Ellie\u2019s Little Baddies ",
+        "division":"Recreational Mixed",
+        "time":"2:40:52.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Martha Gluck",
+        "position":414,
+        "teamNum":252,
+        "teamName":"Tortoises & Hares (Blue)",
+        "division":"Recreational Open",
+        "time":"2:40:55.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eric Weigle",
+        "position":415,
+        "teamNum":281,
+        "teamName":"Slurp Slippers",
+        "division":"Recreational Open",
+        "time":"2:40:56.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Noah  Nichols",
+        "position":416,
+        "teamNum":115,
+        "teamName":"The 26th of May movement",
+        "division":"Recreational Open",
+        "time":"2:41:00.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Danielle Lilleston",
+        "position":417,
+        "teamNum":448,
+        "teamName":"Janicki Tool Tech Titans",
+        "division":"Corporate",
+        "time":"2:41:07.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Eva Cosgrove",
+        "position":418,
+        "teamNum":365,
+        "teamName":"Get Betsy to the Bay",
+        "division":"Recreational Mixed",
+        "time":"2:41:09.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Emily Moran",
+        "position":419,
+        "teamNum":347,
+        "teamName":"Loco 4loco",
+        "division":"Recreational Mixed",
+        "time":"2:41:28.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Toby Fitch",
+        "position":420,
+        "teamNum":268,
+        "teamName":"Ooo!",
+        "division":"Recreational Open",
+        "time":"2:41:29.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Isabel  Mills",
+        "position":421,
+        "teamNum":327,
+        "teamName":"Here for Even More Beer ",
+        "division":"Recreational Mixed",
+        "time":"2:42:19.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Hannah Jacob",
+        "position":422,
+        "teamNum":47,
+        "teamName":"Peacehealth Cardiology",
+        "division":"Competitive Open",
+        "time":"2:42:32.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sally Celigoy",
+        "position":423,
+        "teamNum":391,
+        "teamName":"Fifth Gear Fr\u00e4uleins",
+        "division":"Recreational Women",
+        "time":"2:42:35.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Anika Remmers",
+        "position":424,
+        "teamNum":58,
+        "teamName":"HI MOM",
+        "division":"Competitive Mixed",
+        "time":"2:42:53.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Luke Edvalds",
+        "position":425,
+        "teamNum":145,
+        "teamName":"Tops to hops",
+        "division":"Recreational Open",
+        "time":"2:42:55.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kyle McCarthy",
+        "position":426,
+        "teamNum":373,
+        "teamName":"Space Noodles",
+        "division":"Recreational Mixed",
+        "time":"2:43:07.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jared Garb",
+        "position":427,
+        "teamNum":443,
+        "teamName":"High Vibes",
+        "division":"Corporate",
+        "time":"2:43:54.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Jessica Wallace",
+        "position":428,
+        "teamNum":147,
+        "teamName":"Picnic Girls",
+        "division":"Recreational Open",
+        "time":"2:44:26.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sylvia Spearman",
+        "position":429,
+        "teamNum":415,
+        "teamName":"Brown Girl Magic",
+        "division":"Recreational Women",
+        "time":"2:45:14.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Allie Smith",
+        "position":430,
+        "teamNum":397,
+        "teamName":"Badass Strawberry Shortski Adventurers",
+        "division":"Recreational Women",
+        "time":"2:45:37.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sean Halstead",
+        "position":431,
+        "teamNum":87,
+        "teamName":"Plague cowboys",
+        "division":"Whatcom County Mixed",
+        "time":"2:46:12.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Pat Tabamo",
+        "position":432,
+        "teamNum":136,
+        "teamName":"Humble Hundal\u2019s",
+        "division":"Recreational Open",
+        "time":"2:46:54.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brian Campbell",
+        "position":433,
+        "teamNum":466,
+        "teamName":"Hot Tomatoes",
+        "division":"Family",
+        "time":"2:48:21.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"chris spilker",
+        "position":434,
+        "teamNum":266,
+        "teamName":"saxe",
+        "division":"Recreational Open",
+        "time":"2:49:37.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"David Schmidt",
+        "position":435,
+        "teamNum":109,
+        "teamName":"We Brought Our Dads",
+        "division":"Recreational Open",
+        "time":"2:50:21.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Maddie Hicks",
+        "position":436,
+        "teamNum":351,
+        "teamName":"Maddie & The Misfits",
+        "division":"Recreational Mixed",
+        "time":"2:51:01.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joel Minkoff",
+        "position":437,
+        "teamNum":470,
+        "teamName":"PB&J",
+        "division":"Family",
+        "time":"2:51:26.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Megan Jetter",
+        "position":438,
+        "teamNum":300,
+        "teamName":"Nacho Average Team",
+        "division":"Recreational Women",
+        "time":"2:51:46.6"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Charles Knauft",
+        "position":439,
+        "teamNum":152,
+        "teamName":"Men of Mcconnell",
+        "division":"Recreational Open",
+        "time":"2:52:29.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Lauren Olivas",
+        "position":440,
+        "teamNum":417,
+        "teamName":"Hot Tacos ",
+        "division":"Recreational Women",
+        "time":"2:54:27.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Anthony Graves",
+        "position":441,
+        "teamNum":275,
+        "teamName":"Joel's Mogul Meowsters",
+        "division":"Recreational Open",
+        "time":"2:55:59.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Ryan Harrold",
+        "position":442,
+        "teamNum":149,
+        "teamName":"Darwin's Revenge",
+        "division":"Recreational Open",
+        "time":"2:57:09.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Natalie Petrizza",
+        "position":443,
+        "teamNum":380,
+        "teamName":"The Horse Girls",
+        "division":"Recreational Mixed",
+        "time":"2:57:37.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Anne Marie Suchanek",
+        "position":444,
+        "teamNum":326,
+        "teamName":"Shuck Buddies",
+        "division":"Recreational Mixed",
+        "time":"2:57:59.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Bridget Wipfler",
+        "position":445,
+        "teamNum":279,
+        "teamName":"best skiers on the mountain",
+        "division":"Recreational Open",
+        "time":"2:58:15.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Sam Bronner",
+        "position":446,
+        "teamNum":390,
+        "teamName":"The Leisurelete Loons",
+        "division":"Recreational Women",
+        "time":"2:59:15.4"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Matt Sanford",
+        "position":447,
+        "teamNum":278,
+        "teamName":"The Lactic Kool-Aid Acid Test",
+        "division":"Recreational Mixed",
+        "time":"2:59:36.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Halle Salisbury",
+        "position":448,
+        "teamNum":45,
+        "teamName":"Stinging Nettles",
+        "division":"Competitive Open",
+        "time":"3:00:06.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Kate Ziegler",
+        "position":449,
+        "teamNum":66,
+        "teamName":"Annealiators",
+        "division":"Competitive Women",
+        "time":"3:02:56.3"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Gordon Ballentine",
+        "position":450,
+        "teamNum":60,
+        "teamName":"DRIVEN ATHLETICS - WAY COOL",
+        "division":"Recreational Open",
+        "time":"3:03:14.8"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Joe Fattizzi",
+        "position":451,
+        "teamNum":216,
+        "teamName":"We Pee in the Sea",
+        "division":"Recreational Open",
+        "time":"3:04:00.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Marilyn   Bourne",
+        "position":452,
+        "teamNum":316,
+        "teamName":"Getting Wiggy With It",
+        "division":"Recreational Mixed",
+        "time":"3:04:45.7"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Aiva Teskey",
+        "position":453,
+        "teamNum":340,
+        "teamName":"Wake & Baker",
+        "division":"Recreational Mixed",
+        "time":"3:06:42.0"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Brigid Walsh",
+        "position":454,
+        "teamNum":354,
+        "teamName":"Snow way we\u2019ll win",
+        "division":"Recreational Mixed",
+        "time":"3:08:47.9"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Annika Dayton",
+        "position":455,
+        "teamNum":409,
+        "teamName":"Ski to She",
+        "division":"Recreational Women",
+        "time":"3:10:18.5"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Samuel McCorkle",
+        "position":456,
+        "teamNum":134,
+        "teamName":"The Reasonable Doubters ",
+        "division":"Recreational Open",
+        "time":"3:16:31.1"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Mikaila Wireman",
+        "position":457,
+        "teamNum":264,
+        "teamName":"Is This The Krusty Krab?",
+        "division":"Recreational Open",
+        "time":"3:34:20.2"
+    },
+    {
+        "leg":"Road Bike",
+        "name":"Peter Kolodychuk",
+        "position":458,
+        "teamNum":355,
+        "teamName":"The Uncrustables",
+        "division":"Recreational Mixed",
+        "time":"3:36:30.9"
+    }
+]

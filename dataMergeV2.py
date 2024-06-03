@@ -5,6 +5,8 @@ import numpy as np
 '''
 ! runData is most complete list of teams and is run first to init as many teams as possible.
 
+!! filter to check update total legs completed seems to be erroring, all teams are receiving 7 legs completed
+
 Dataframe:
 - leg
 - name
@@ -134,44 +136,38 @@ def initLegTimes():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['cx'] = time
+                team.cumulativeTimes['cx'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in dhJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['dh'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in runJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['run'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in bikeJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['bike'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in canoeJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['canoe'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in cycleXJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['cyclo'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for idx, item in kayakJSON.iterrows():
             if team.teamNumber == item['teamNum']:
                 time = formatTime(item['time'])
                 team.legTimes['kayak'] = time
                 totTime.append(time)
-                team.totalLegs += 1
         for x,y in team.legTimes.items():
             if type(y) == timedelta:
                 totalTime += y
@@ -181,13 +177,49 @@ def initLegTimes():
 
 initLegTimes()
 
-Teams.sort(key=lambda x:x.teamNumber, reverse=False)
-for team in Teams:
+def cumulativeTimes():
+    for team in Teams:
+        runningTimes = []
+        runningTime = timedelta()
+        legComplete = 0
+        for x, y in team.legTimes.items():
+            if y != 0:
+                time = y
+                runningTime += time
+                runningTimes.append(runningTime)
+                legComplete += 1
+            else:
+                time = datetime.strptime('00:00:0.0', '%H:%M:%S.%f') - zeroTime
+                runningTime += time
+                runningTimes.append(runningTime)
+        team.totalLegs = legComplete
+        for idx, x in enumerate(team.cumulativeTimes.keys()):
+            team.cumulativeTimes[x] = runningTimes[idx]
+cumulativeTimes()
+
+def finishingTeams():
+    finishingTeams = []
+    for team in Teams:
+        if team.totalLegs == 7:
+            finishingTeams.append(team)
+    return finishingTeams
+finishingTeams()
+finishingTeams = finishingTeams()
+
+def legRanking():
+    cxOR = sorted(finishingTeams, key=lambda x:x.legTimes['cx'], reverse=False)
+
+legRanking()
+
+
+finishingTeams.sort(key=lambda x:x.teamNumber, reverse=False)
+for team in finishingTeams:
     print(team.teamName)
     print(team.teamNumber)
     print(team.division)
     print(team.totalTime)
     print(team.totalLegs)
+    print(team.cumulativeTimes['canoe'])
     print('')
 print(len(Teams))
 '''

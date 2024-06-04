@@ -57,6 +57,15 @@ def LineChart(attr, timeScale, teamNumb):
         0,
         0,
     ]
+    baseAvgTimes = [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+    ]
 
     for idx, team in teamData.iterrows():
         for idx, time in enumerate(team[attr]):
@@ -73,6 +82,7 @@ def LineChart(attr, timeScale, teamNumb):
     for idx, time in enumerate(avgTimes):
         avgTimes[idx] = time / len(teamData)
 
+
     plt.plot(
         legs,
         avgTimes,
@@ -87,9 +97,9 @@ def LineChart(attr, timeScale, teamNumb):
         for idx, time in enumerate(team[attr]):
             time = (team[attr][time])
             if timeScale == 'minutes':
-                time = time/60_000
+                time = time/60_000 
             elif timeScale == 'hours':
-                time = time/3_600_000
+                time = time/3_600_000 
             elif timeScale == 'rank':
                 time = time
             times.append(time)
